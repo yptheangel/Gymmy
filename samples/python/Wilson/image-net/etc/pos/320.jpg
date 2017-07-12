@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<title>Home | Ivanko - Official Website of Ivanko Barbell Company</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="keywords" content="" />
+		<meta name="description" content="" />
+		<meta name="viewport" content="width=980" />
+		<meta http-equiv="imagetoolbar" content="no" />
+		<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+		<link rel="shortcut icon" href="./favicon.ico" />
+		<link rel="stylesheet" type="text/css" href="./_styles/default.css" />
+		<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="./_styles/ieWin.css"><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" type="text/css" href="./_styles/ie7Win.css"><![endif]-->
+		<link rel="stylesheet" type="text/css" media="print" href="./_styles/print.css" />
+
+                    <style type="text/css">
+                #pricing table .Last a {
+                    cursor: default;
+                }
+                #pricing table .Last a:hover,
+                #pricing table .Last a:active {
+                    background-position: right 0;
+                }
+            </style>
+            
+	</head>
+
+	<body id="section_home" class="Home">
+			<div id="header_wrapper">
+				<div id="header">
+					<h1><a href="./"><span>Ivanko</span></a></h1>
+					<ul id="nav">
+						<li class="Current"><a href="./">Home</a></li><li><a href="./products/">Products</a></li><li><a href="./press/">Press</a></li><li><a href="./gallery/">Gallery</a></li><li><a href="./dealer_locations.html">Dealer Locations</a></li><li><a href="./links/">Links</a></li><li><a href="./faq.html">FAQ</a></li><li class="Last"><a href="./contact.html">Contact &amp; Newsletter</a></li>					</ul>				</div>
+			</div>
+			<a name="top"></a>
+
+				<div id="feature_wrapper" class="Open">
+					<div id="feature">
+						<img src="./content/homeslides/xy9m8yjese_644.jpg" alt="home_spotlight" width="644" height="338" />
+						<div>
+                            <h2>WHAT'S NEW AT IVANKO</h2>
+                            <p>Thanks to everyone who visited us at IHRSA and FIBO. &nbsp;IVANKO Muscle Beach Lift-Off coming May 27 2017. &nbsp;IVANKO/Crossfit Insurgent Summer 2017 Weightlifting event in June.Updates to website -- new...                                <br /><a href="./press/what_s_new_at_ivanko.html">Continue</a></p>
+                            <ul>
+                                <li><a href="./press/ask_tom_ivanko_part_2.pdf">Read "Ask Tom Ivanko, Part 2"</a></li>
+                                <li><a href="./press/the_difference_between_different_better_urethane_rubber_freeweights.pdf">Read "The Difference Between Different & Better:  Urethane & Rubber Freeweights"</a></li>
+                            </ul>
+<!--
+							<h2>GOLD&#8217;s Gym Names Ivanko &#8220;Exlusive Licensee&#8221; Worldwide</h2>
+								<p>Under this new licensing agreement, Ivanko will be the only company allowed to produce institutional weight plates and dumbbells worldwide bearing the Gold's Gym name and trademark&#8230;<br /><a href="bars.php">Continue</a></p>
+								<ul>
+									<li><a href="bars.php">Read &#8220;Myth: All Urethane is created equal&#8221;</a></li>
+									<li><a href="bars.php">Ivanko Glassless Mirrors now in stock</a></li>
+								</ul>
+-->
+						</div>
+					</div>
+				</div>
+				<div id="content_wrapper">
+					<div id="content">
+						<div id="side_bar">
+							<h2>Welcome to Ivanko</h2>
+						</div>
+						<div id="main">
+                            <p>This is the official site of the Ivanko Barbell Company.&nbsp; Our mission since 1967 has been to introduce innovation to the industry and perfect existing technologies.&nbsp; We are proud of our rich contribution to the history of the barbell, and to the lives of those who use our products to pursue physical health and strength.</p>						</div>
+					</div>
+				</div>
+
+
+	<div class="ClearBoth"></div>
+		<div id="footer_wrapper">
+			<div id="footer">
+				<p>&copy;2017 Ivanko Barbell Company <a href="reseller/">Reseller Area</a>
+                                        <span class="facebook">
+                        <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FIvanko-Barbell-Company%2F351135450089&amp;layout=button_count&amp;show_faces=false&amp;width=46&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=18"
+                                    scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:46px; height:18px;" allowTransparency="true"></iframe>
+                        us
+                    </span>
+                    <a href="http://twitter.com/IvankoBarbell" class="twitter" target="_blank">Follow</a>
+                    <a href="http://www.youtube.com/user/ivankobarbell" class="youtube" target="_blank">Watch</a>
+                    <a id="cgCraft" href="http://www.cgcraft.com" target="_blank">Website by <span>cgCraft llc</span></a></p>
+			</div>
+		</div>
+        <script type="text/javascript">
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-19457932-1']);
+          _gaq.push(['_trackPageview']);
+
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+        </script>
+	</body>
+</html>

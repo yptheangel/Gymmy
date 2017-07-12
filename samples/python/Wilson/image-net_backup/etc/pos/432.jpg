@@ -1,0 +1,1538 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Healthstyles Colorado Fitness Equipment. Ellipticals, Treadmills, Home Gyms</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=8" />
+  <meta http-equiv="Content-Script-Type" content="text/javascript" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta http-equiv="Content-Language" content="en" />
+  <meta name="description" content="Healthstyles Colorado Exericse Equipment. Life Fitness, Landice, Octane, Hoist, Body Solid home &amp; commercial fitness equipment. Elliptical trainers, treadmills, home gyms, exercise bikes, and more." />
+  <meta name="keywords" content="exercise, fitness, equipment, home, cardio, machine, strength, weight lifting, weight training, treadmill, elliptical, elliptical trainer, elliptical machines, exercise bike, recumbent bike, spin bike, weights, workout equipment, gym equipment, Colorado, co, Denver, Wyoming, wy, boulder" />
+    <link rel="shortcut icon" href="http://www.healthstylesexercise.com/txs_bk_extra/favicon_BK.ico" />
+    <link rel="stylesheet" type="text/css" href="http://www.healthstylesexercise.com/var/cache/bk_extra_style.css" />
+  <script type="text/javascript">
+//<![CDATA[
+var number_format_dec = '.';
+var number_format_th = '';
+var number_format_point = '2';
+var store_language = 'en';
+var xcart_web_dir = "";
+var images_dir = "/skin/common_files/images";
+var alt_images_dir = "/skin/busy-kitchen/images";var lbl_no_items_have_been_selected = 'No items have been selected';
+var current_area = 'C';
+var currency_format = "$x";
+var lbl_product_minquantity_error = "Sorry, the minimum order quantity for this product is {{min}}.";
+var lbl_product_maxquantity_error = "Sorry, the maximum order quantity for this product is {{max}}.";
+var lbl_product_quantity_type_error = "You can specify a number from {{min}} to {{max}}.";
+var is_limit = true;
+var lbl_required_field_is_empty = "The required field \'~~field~~\' is empty!";
+var lbl_field_required = "Field is required";
+var lbl_field_format_is_invalid = "The format of the \'~~field~~\' field is invalid.";
+var txt_required_fields_not_completed = "The following required fields have not been completed: {{fields}} Do you wish to submit the form with these fields empty?";
+var lbl_blockui_default_message = "Please wait...";
+var lbl_error = 'Error';
+var lbl_warning = 'Warning';
+var lbl_ok = 'OK';
+var lbl_yes = 'Yes';
+var lbl_no = 'No';
+var txt_minicart_total_note = 'Order subtotal does not cover discounts and extra costs like shipping charges, etc. The final cost of the order will be calculated at the checkout page.';
+var txt_ajax_error_note = 'An error occurred while processing a request. Please <a href=\"javascript:void(0);\" onclick=\"javascript:window.location.reload();\">refresh the page.<a><br /><br />If the problem still persists after refreshing the page please <a href=\"javascript:void(0);\" onclick=\"javascript:self.location=\'help.php?section=contactus&amp;mode=update\'\">contact us<\/a> on the matter.';
+var txt_email_invalid = "Email address is invalid! Please correct";
+var email_validation_regexp = new RegExp("^[a-z0-9!#$%&\'*+\\/=?^_`{|}~-]+(?:\\.[a-z0-9!#$%&\'*+\\/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\\.)+[a-z](?:[a-z0-9-]*[a-z0-9])$", "gi");
+var is_admin_editor = false;
+
+//]]>
+</script>
+
+<script type="text/javascript" src="/skin/common_files/js/common.js"></script>
+  <script type="text/javascript" src="/skin/common_files/js/browser_identificator.js"></script>
+
+
+  <script type="text/javascript" src="/skin/common_files/lib/swfobject-min.js"></script>
+
+<script type="text/javascript" src="/skin/common_files/lib/jquery-min.js"></script>
+<script type="text/javascript" src="/skin/common_files/lib/jquery.bgiframe.min.js"></script>
+
+
+<script type="text/javascript" src="/skin/common_files/lib/jqueryui/jquery-ui.custom.min.js"></script>
+
+  <link rel="stylesheet" type="text/css" href="/skin/common_files/lib/jqueryui/jquery.ui.theme.css" />
+        <script type="text/javascript" src="/skin/common_files/lib/jqueryui/jquery.ui.slider.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="/skin/common_files/lib/jqueryui/jquery.ui.slider.css" />
+    <script type="text/javascript" src="/skin/common_files/js/ajax.js"></script>
+<script type="text/javascript" src="/skin/common_files/lib/cluetip/jquery.cluetip.js"></script>
+<script type="text/javascript" src="/skin/common_files/js/popup_open.js"></script>
+<script type="text/javascript" src="/skin/common_files/lib/jquery.blockUI.js"></script>
+<script type="text/javascript" src="/skin/common_files/lib/jquery.blockUI.defaults.js"></script>
+
+<script type="text/javascript" src="/skin/common_files/lib/jquery.cookie.js"></script>
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+
+
+//  Fix a.href if base url is defined for page
+function anchor_fix() {
+var links = document.getElementsByTagName('A');
+var m;
+var _rg = new RegExp("(^|" + self.location.host + xcart_web_dir + "/)#([\\w\\d_]+)$")
+for (var i = 0; i < links.length; i++) {
+  if (links[i].href && (m = links[i].href.match(_rg))) {
+    links[i].href = 'javascript:void(self.location.hash = "' + m[2] + '");';
+  }
+}
+}
+
+if (window.addEventListener)
+window.addEventListener("load", anchor_fix, false);
+
+else if (window.attachEvent)
+window.attachEvent("onload", anchor_fix);
+
+
+
+function initDropOutButton() {
+
+  if ($(this).hasClass('activated-widget'))
+    return;
+
+  $(this).addClass('activated-widget');
+
+  var dropOutBoxObj = $(this).parent().find('.dropout-box');
+
+  // Process the onclick event on a dropout button 
+  $(this).click(
+    function(e) {
+      e.stopPropagation();
+      $('.dropout-box').removeClass('current');
+      dropOutBoxObj
+        .toggle()
+        .addClass('current');
+      $('.dropout-box').not('.current').hide();
+      if (dropOutBoxObj.offset().top + dropOutBoxObj.height() - $('#content').offset().top - $('#content').height() > 0) {
+        dropOutBoxObj.css('bottom', '-2px');
+      }
+    }
+  );
+ 
+  // Click on a dropout layer keeps the dropout content opened
+  $(this).parent().click(
+    function(e) { 
+      e.stopPropagation(); 
+    }
+  );
+
+  // shift the dropout layer from the right hand side 
+  // if it's out of the main area
+  var borderDistance = ($("#content").offset().left + $("#content").outerWidth()) - ($(this).offset().left + dropOutBoxObj.outerWidth());
+  if (!isNaN(borderDistance) && borderDistance < 0) {
+    dropOutBoxObj.css('left', borderDistance+'px');
+  }
+
+  // Fix for IE6
+  if ($.browser.msie && $.browser.version < 7) {
+    dropOutBoxObj.bgiframe();
+  }
+}
+
+$(document).ready( function() {
+  $('body').click(
+    function() {
+      $('.dropout-box')
+        .filter(function() { return $(this).css('display') != 'none'; } )
+        .hide();
+    }
+  );
+  $('div.dropout-container div.drop-out-button').each(initDropOutButton);
+}
+);
+
+
+
+
+// Position:absolute elements will not move when window is resized 
+// if a sibling contains float elements and a clear:both element
+// https://bugzilla.mozilla.org/show_bug.cgi?id=442542
+// FireFox 3.0+
+if (navigator.userAgent.toLowerCase().search(/firefox\/(3\.\d+)/i) != -1 && typeof(window.$) != 'undefined') {
+$.event.add( window, 'resize', function() {
+  var h = document.getElementById('header');
+  if (!h || $(h).css('position') != 'absolute')
+    return;
+
+  document.getElementById('header').style.position = 'static';
+  setTimeout(
+    function() {
+      document.getElementById('header').style.position = 'absolute';
+    },
+  20);
+});
+}
+
+
+var md = 10*1000;
+
+
+$(document).ready( function() {
+
+$('form').not('.skip-auto-validation').each(function() {
+  applyCheckOnSubmit(this);
+});
+
+$('a.toggle-link').live(
+  'click',
+  function(e) {
+    $('#' + $(this).attr('id').replace('link', 'box')).toggle();
+  }
+);
+
+$("#dialog-message").fadeIn('slow').delay(md).fadeOut('slow');
+
+});
+
+
+
+if (products_data == undefined) {
+var products_data = [];
+}
+
+
+
+//]]>
+</script>
+
+<script type="text/javascript" src="/skin/busy-kitchen/modules/Product_Options/func.js"></script>
+
+<script type="text/javascript" src="/skin/common_files/js/check_quantity.js"></script>
+
+<script type="text/javascript" src="/skin/busy-kitchen/js/bh-common.js"></script>
+<script type="text/javascript" src="/skin/common_files/modules/TXS_XMenus/js/jquery.hoverIntent.minified.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+
+//]]>
+</script>
+<script type="text/javascript" src="/skin/common_files/modules/TXS_XMenus/js/xm-main.js"></script><script type="text/javascript" src="/skin/busy-kitchen/js/jquery.jqzoom-core-pack.js"></script> 
+
+<link rel="stylesheet" type="text/css" href="/skin/common_files/lib/cluetip/jquery.cluetip.css" />
+
+
+
+                    
+                                <link rel="stylesheet" type="text/css" href="/skin/common_files/modules/Upselling_Products/main.css" />
+                                <link rel="stylesheet" type="text/css" href="/skin/common_files/modules/Gift_Certificates/main.css" />
+                                <link rel="stylesheet" type="text/css" href="/skin/common_files/modules/Recently_Viewed/main.css" />
+                                <link rel="stylesheet" type="text/css" href="/skin/common_files/modules/Discount_Coupons/main.css" />
+                                <link rel="stylesheet" type="text/css" href="/skin/common_files/modules/Magnifier/main.css" />
+                                <link rel="stylesheet" type="text/css" href="/skin/busy-kitchen/modules/Wishlist/main.css" />
+                                <link rel="stylesheet" type="text/css" href="/skin/common_files/modules/Gift_Registry/main.css" />
+                                <link rel="stylesheet" type="text/css" href="/skin/busy-kitchen/modules/Manufacturers/main.css" />
+                                <link rel="stylesheet" type="text/css" href="/skin/common_files/modules/Image_Verification/main.css" />
+                                <link rel="stylesheet" type="text/css" href="/skin/common_files/modules/Detailed_Product_Images/main.css" />
+                                <link rel="stylesheet" type="text/css" href="/skin/busy-kitchen/modules/Special_Offers/main.css" />
+                                <link rel="stylesheet" type="text/css" href="/skin/common_files/modules/Advanced_Order_Management/main.css" />
+                                <link rel="stylesheet" type="text/css" href="/skin/common_files/modules/Product_Options/main.css" />
+                                <link rel="stylesheet" type="text/css" href="/skin/busy-kitchen/modules/Customer_Reviews/main.css" />
+                                <link rel="stylesheet" type="text/css" href="/skin/common_files/modules/RMA/main.css" />
+                                <link rel="stylesheet" type="text/css" href="/skin/busy-kitchen/modules/Feature_Comparison/main.css" />
+                                            <link rel="stylesheet" type="text/css" href="/skin/common_files/modules/Product_Configurator/main.css" />
+                                            
+                                <link rel="stylesheet" type="text/css" href="/skin/busy-kitchen/modules/Fast_Lane_Checkout/main.css" />
+                                <link rel="stylesheet" type="text/css" href="/skin/common_files/modules/Flyout_Menus/Icons/main.css" />
+                        
+
+  <link rel="stylesheet" type="text/css" href="/skin/busy-kitchen/css/altskin.css" />
+  
+
+<link rel="stylesheet" type="text/css" href="/skin/busy-kitchen/modules/TXS_XMenus/css/menu.css" />
+<link rel="stylesheet" type="text/css" href="/skin/busy-kitchen/modules/TXS_XMenus/custom_css/xm-busykitchen.css" />
+<link rel="stylesheet" type="text/css" href="/skin/common_files/modules/TXS_XMenus/custom_css/xm-custom-scheme-busykitchen.css" />
+<link rel="stylesheet" type="text/css" href="/skin/busy-kitchen/modules/TXS_XMenus/custom_css/xm-custom-scheme-modern-living.css" />
+<link rel="stylesheet" type="text/css" href="http://www.healthstylesexercise.com/var/cache/xm_extra_style.css" />
+  <link rel="canonical" href="http://www.healthstylesexercise.com/home.php" />
+  <base href="http://www.healthstylesexercise.com/" />
+
+  
+
+  
+      <script type="text/javascript" src="http://apis.google.com/js/plusone.js">
+      {lang: 'en'}
+    </script>
+  
+      <script type="text/javascript" src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+  
+      <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+  <link rel="stylesheet" type="text/css" href="/skin/common_files/modules/Socialize/main.css" />
+
+    <link rel="stylesheet" type="text/css" href="/skin/busy-kitchen/modules/TXS_XBanners/css/xb_styles.css" />
+
+<script type="text/javascript" src="/skin/common_files/modules/TXS_XBanners/js/jquery-1.6.2.min.js"></script>
+
+<script type="text/javascript" src="/skin/common_files/modules/TXS_XBanners/js/xCartBanners.js"></script>
+
+			<script type="text/javascript" src="/skin/common_files/modules/TXS_XBanners/js/xCartBanners.effects.fade.js"></script>
+	
+		
+	<script type="text/javascript">
+//<![CDATA[
+
+function addTXSLoadEvent(func) {
+
+  var oldonload = window.onload;
+
+  if (typeof window.onload != 'function') {
+
+    window.onload = func;
+
+  } else {
+
+    window.onload = function() {
+
+      oldonload();
+
+      func();
+
+    }
+
+  }
+
+}
+
+		function funcTxsInitXB() {
+			jQueryXB(function(){
+	
+jQueryXB('#txs_xbanner_35 > div:eq(0)').uniShow({
+	
+	width: 236,height: 286,onMouseOver:1,textColor:'#FFFFFF',	
+	scrollElParent: '> ul',
+	scrollEl: '> li',
+	
+	transition: 'fade',switchTime: 3000,duration : 500,bgColor : '#FFFFFF'	
+	});
+});
+
+
+		}
+		addTXSLoadEvent(funcTxsInitXB);
+	
+//]]>
+</script>
+    <!-- Facebook Begin -->
+<script>
+
+(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '1495942967316043']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1495942967316043&amp;ev=NoScript" /></noscript>
+<!-- Facebook End -->
+  </head>
+  <body class="fancycat-page-skin-icons fancycat-page-subskin-c ">
+    <div id="page-holder">  <!-- Page Holder Open -->
+    
+      <!-- Header Block Begin -->
+      <div id="header-holder"> <!-- Header Holder Open -->
+      <!-- Logo Begin -->
+<a href="/" title="HealthStyles Exercise Equipment" target="_parent" class="h-logo"><img src="http://www.healthstylesexercise.com/images/BK/HealthStyles-Exercise-Equipment-logo.gif" width="405" height="130" alt="HealthStyles Exercise Equipment" /></a>
+<!-- Logo End -->
+
+  <script type="text/javascript">
+//<![CDATA[
+var lbl_error = 'Error';
+var txt_minicart_total_note = 'Order subtotal does not cover discounts and extra costs like shipping charges, etc. The final cost of the order will be calculated at the checkout page.';
+
+//]]>
+</script>
+<script type="text/javascript" src="/skin/busy-kitchen/js/ajax.minicart.js"></script>
+        
+
+
+  
+
+        <!-- Header Information Box, Navigation & Search Begin -->
+        <div id="info-box-holder" class="menu-minicart ajax-minicart full-mini-cart"> <!-- Info Box Holder Open -->
+        
+          <div class="h-left"> <!-- Header Panel Left Open -->
+          
+            <!-- Info Navigation Begin -->
+            <ul id="info-box-navi">              
+														<li ><a href="/">Residential</a></li>
+														<li ><a href="/commercial-exercise-equipment/">Commercial Sales</a></li>
+														<li ><a href="/service-repair/">Service</a></li>
+														<li  class="last"><a href="/contact-us/#store">Store Locator</a></li>
+							            </ul>
+            <!-- Info Navigation End -->
+            
+                        <!-- Header Search Begin -->
+	    <form class="h-search" method="post" action="search.php" name="productsearchform" onsubmit="javascript:return TXS_funcSubmitForm();">
+              <fieldset>
+                <input type="hidden" name="simple_search" value="Y" />
+                <input type="hidden" name="mode" value="search" />
+                <input type="hidden" name="posted_data[by_title]" value="Y" />
+                <input type="hidden" name="posted_data[by_descr]" value="Y" />
+                <input type="hidden" name="posted_data[by_sku]" value="Y" />
+                <input type="hidden" name="posted_data[search_in_subcategories]" value="Y" />
+                <input type="hidden" name="posted_data[including]" value="all" />              
+
+		<input type="text" class="h-search-txt" name="posted_data[substring]" id="TXS_PS_search" class="text" value="" />
+                <input type="submit" class="h-search-sub" value="" title="Search" />
+		<input type="hidden" name="txs_area" value="C" /> 
+              </fieldset>
+            </form>
+            <!-- Header Search End -->
+            
+            <!-- Header Controls Begin -->
+          	<div class="cart-checkout-links">
+<div class="info-buttons">
+	<a href="register.php" class="button" title="Register">Register</a>
+  <a href="https://www.healthstylesexercise.com/login.php?xid_67cc3=b07172d791efa98e78638c330fc6c78b" title="Sign in"  class="button" id="href_Sign_in">Sign in</a></div>
+</div>            <ul class="h-controls2">
+              <li class="hc-link-a"><a href="/contact-us/" title="Contact Us">Contact Us</a></li>
+		        
+    </ul>
+            <!-- Header Controls End -->
+            
+          </div> <!-- Header Panel Left Close -->
+          
+          <div class="h-right"> <!-- Header Panel Right Open -->
+          
+            <!-- Header Phone Number Begin -->
+	                <div class="h-phone"><strong>800-829-9705</strong></div>
+            <!-- Header Phone Number Close -->
+            
+            <!-- Header Info Cart Box Begin -->
+            <div class="h-panel">
+            
+              <!-- MiniCart Link Begin -->
+              <div class="minicart-link" title="Minicart">
+                <img class="icon ajax-minicart-icon" src="/skin/busy-kitchen/images/h-minicart-arrow.png" alt="Ajax Minicart" />
+              </div>
+              <!-- MiniCart Link End -->
+              
+              <div class="h-text"><h3><a href="cart.php" title="Your cart">Your cart</a></h3></div>
+
+                            <div class="minicart">
+                                <div class="h-value h-empty"><span></span></div>
+                <div class="h-items h-empty"><span>Cart is empty</span></div>
+                                <div class="clear"></div>
+              </div>
+              
+                          
+            </div>
+            <!-- Header Info Cart Box End -->
+            
+          </div> <!-- Header Panel Right Close -->
+        
+        </div> <!-- Info Box Holder Open -->
+        <!-- Header Information Box, Navigation & Search End -->
+        
+<noscript>
+  <div class="noscript-warning">
+    <div class="content">This site requires JavaScript to function properly.<br />Please enable JavaScript in your web browser.</div>
+  </div>
+</noscript>      </div> <!-- Header Holder Close -->
+      <!-- Header Block End -->
+    	
+      
+<div id="xmnavi">
+		<!-- TheXCartStore xMenus: MENU BEGIN -->
+<ul class="xm-menu xm-menu-1 xm-horizontal xm-menu-bk">
+	<li class="xm-top xm-full item-a1">
+<a href="manufacturers.php"  >Shop by Brand</a>
+			<div class="xm-sub-holder">			
+				<div class="xm-sub-menu">
+			<div class="xm-sub-column">
+						<ul>
+							<li >
+						<a href="http://www.healthstylesexercise.com/abcoaster/"  >Abs Company</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/ball-dynamics/"  >Ball Dynamics</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/body-solid/"  ><b>Body Solid</b></a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/century/"  >Century</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/cybex/"  >Cybex</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/dynaflex/"  >Dynaflex</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/escali/"  >Escali</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/fitness-anywhere/"  ><b>Fitness Anywhere TRX</b></a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/fitness-quest/"  >Fitness Quest</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/fitter-international/"  >Fitter International</a>
+							</li>
+						</ul>
+					</div>
+			<div class="xm-sub-column">
+						<ul>
+							<li >
+						<a href="http://www.healthstylesexercise.com/horizon-fitness/"  ><b>Horizon Fitness</b></a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/Inada/"  title="Inada">Inada</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/landice/"  ><b>Landice</b></a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/life-fitness/"  ><b>Life Fitness</b></a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/lifeline/"  >LifeLineUSA</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/lifespan/"  ><b>LifeSpan</b></a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/marpo-kinetics/"  >Marpo Kinetics</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/matrix-fitness/"  >Matrix Fitness</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/octane-fitness/"  ><b>Octane Fitness</b></a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/polar/"  >Polar</a>
+							</li>
+						</ul>
+					</div>
+			<div class="xm-sub-column">
+						<ul>
+							<li >
+						<a href="http://www.healthstylesexercise.com/power-plate/"  >Power Plate</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/powerblock/"  >PowerBlock</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/productive-fitness/"  >Productive Fitness Publishing</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/Rage-Fitness/"  >Rage Fitness</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/saris-cycling/"  >Saris Cycling</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/schwinn-fitness/"  ><b>Schwinn Fitness</b></a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/sequoia-fitness/"  >Sequoia Fitness Products</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/spri-products/"  >Spri Products</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/sports-hoop/"  >Sports Hoop</a>
+							</li>
+						</ul>
+					</div>
+			<div class="xm-sub-column">
+						<ul>
+							<li >
+						<a href="http://www.healthstylesexercise.com/stairmaster/"  >StairMaster</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/stamina/"  ><b>Stamina</b></a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/sunset-swings/"  >Sunset Swings</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/super-mats/"  >Super Mats</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/TAG-Fitness/"  >TAG Fitness</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/teeter/"  >Teeter</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/torque-fitness/"  ><b>Torque Fitness</b></a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/vision-fitness/"  ><b>Vision Fitness</b></a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/waterrower/"  ><b>WaterRower</b></a>
+							</li>
+							<li >
+						<img src="/skin/common_files/images/spacer.gif" width="1" height="1" />&nbsp;
+							</li>
+							<li >
+						<a href="manufacturers.php"  ><b>All Brands</b></a>
+							</li>
+						</ul>
+					</div>
+				<div class="xm-clear"></div>
+				</div>
+			</div>
+	</li>
+
+	<li class="xm-top xm-full item-a2">
+<a href="http://www.healthstylesexercise.com/Treadmills/"  >Treadmills</a>
+			<div class="xm-sub-holder">			
+				<div class="xm-sub-menu">
+			<div class="xm-sub-column">
+						<ul>
+							<li >
+						<a href="http://www.healthstylesexercise.com/folding-treadmills/"  >Folding Treadmills</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/non-folding-treadmills/"  >Non-Folding Treadmills</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/Treadmill-Desks/"  >Treadmill Desks</a>
+							</li>
+						</ul>
+					</div>
+				<div class="xm-clear"></div>
+				</div>
+			</div>
+	</li>
+
+	<li class="xm-top item-a3">
+<a href="http://www.healthstylesexercise.com/elliptical-trainers/"  >Ellipticals</a>
+	</li>
+
+	<li class="xm-top xm-full item-a4">
+<a href="http://www.healthstylesexercise.com/exercise-bikes/"  >Exercise Bikes</a>
+			<div class="xm-sub-holder">			
+				<div class="xm-sub-menu">
+			<div class="xm-sub-column">
+						<ul>
+							<li >
+						<a href="http://www.healthstylesexercise.com/upright-exercise-bikes/"  >Upright Exercise Bikes</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/recumbent-exercise-bikes/"  >Recumbent Exercise Bikes</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/indoor-cycles/"  >Indoor Cycles</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/Bike-Desks/"  >Bike Desks</a>
+							</li>
+						</ul>
+					</div>
+				<div class="xm-clear"></div>
+				</div>
+			</div>
+	</li>
+
+	<li class="xm-top item-a5">
+<a href="http://www.healthstylesexercise.com/rowing-machines/"  >Rowers</a>
+	</li>
+
+	<li class="xm-top item-a6">
+<a href="http://www.healthstylesexercise.com/vibration-trainers/"  >Vibration Trainers</a>
+	</li>
+
+	<li class="xm-top xm-last item-a7">
+<a href="http://www.healthstylesexercise.com/stair-climbers/"  >Stair Climbers</a>
+	</li>
+</ul>
+<ul class="xm-menu xm-menu-1 xm-horizontal xm-menu-bk">
+	<li class="xm-top xm-full item-a8">
+<a href="http://www.healthstylesexercise.com/Home-Gym-Systems/"  >Home Gym Systems</a>
+			<div class="xm-sub-holder">			
+				<div class="xm-sub-menu">
+			<div class="xm-sub-column">
+						<ul>
+							<li >
+						<a href="http://www.healthstylesexercise.com/home-gyms/"  ><b>Home Gyms</b></a>
+							</li>
+							<li >
+						<img src="/skin/common_files/images/spacer.gif" width="1" height="1" />&nbsp;
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/Functional-Trainers-Cable-Machines/"  ><b>Functional Trainers & Cable Machines</b></a>
+							</li>
+							<li >
+						<img src="/skin/common_files/images/spacer.gif" width="1" height="1" />&nbsp;
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/Gym-System-Attachments/"  >Gym System Attachments</a>
+							</li>
+						</ul>
+					</div>
+			<div class="xm-sub-column">
+						<ul>
+							<li >
+						<a href="http://www.healthstylesexercise.com/Leg-Machines/"  >Leg Machines</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/Chest-Arm-Machines/"  >Chest/Arm Machines</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/Ab-Back-Machines/"  >Ab/Back Machines</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/Rope-Trainers/"  >Rope Trainers</a>
+							</li>
+						</ul>
+					</div>
+				<div class="xm-clear"></div>
+				</div>
+			</div>
+	</li>
+
+	<li class="xm-top xm-full item-a8">
+<a href="http://www.healthstylesexercise.com/Free-Weight-Systems/"  >Free Weights</a>
+			<div class="xm-sub-holder">			
+				<div class="xm-sub-menu">
+			<div class="xm-sub-column">
+						<ul>
+							<li >
+						<a href="http://www.healthstylesexercise.com/Cages-and-Racks/"  ><b>Cages & Racks</b></a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/Smith-Systems/"  ><b>Smith Systems</b></a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/Flat-Incline-Decline-Benches/"  >Flat, Incline, Decline Benches</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/Olympic-Weight-Benches/"  >Olympic Weight Benches</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/Rack-Bench-Attachments/"  >Rack & Bench Attachments</a>
+							</li>
+							<li >
+						<img src="/skin/common_files/images/spacer.gif" width="1" height="1" />&nbsp;
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/Ab-Back-Benches-Roman-Chairs/"  >Ab/Back Benches & Roman Chairs</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/VKR-Dip-Pull-up-Stations/"  >VKR Dip Stations</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/Preacher-Curl-Benches/"  >Preacher Curl Benches</a>
+							</li>
+						</ul>
+					</div>
+			<div class="xm-sub-column">
+						<ul>
+							<li >
+						<a href="javascript:void(0);"  ><b>Weight Accessories</b></a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/Weight-Bars/"  >Weight Bars</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/weight-storage/"  >Weight Storage</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/dumbbells/"  >Dumbbells</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/kettlebells/"  >Kettlebells</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/weight-plates/"  >Weight Plates</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/medicine-balls/"  >Medicine & Weighted Balls</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/weight-vests/"  >Weight Vests</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/body-bars/"  >Body Bars</a>
+							</li>
+						</ul>
+					</div>
+				<div class="xm-clear"></div>
+				</div>
+			</div>
+	</li>
+
+	<li class="xm-top xm-full item-a10">
+<a href="http://www.healthstylesexercise.com/fitness-accessories/"  >Fitness Accessories</a>
+			<div class="xm-sub-holder">			
+				<div class="xm-sub-menu">
+			<div class="xm-sub-column">
+						<ul>
+							<li >
+						<a href="http://www.healthstylesexercise.com/ab-hip-hoops/"  >Ab & Hip Hoops</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/aerobics/"  >Aerobics</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/balance-stability/"  ><b>Balance & Stability</b></a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/books-dvd/"  >Books & DVDs</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/Boxing-Kickboxing/"  >Boxing & Kickboxing</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/exercise-balls/"  ><b>Exercise Balls</b></a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/exercise-mats/"  >Floor Mats</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/Hand-Arm-Strength/"  >Hand & Arm Strength</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/heart-rate-monitors/"  >Heart Rate Monitors</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/inversion/"  >Inversion</a>
+							</li>
+						</ul>
+					</div>
+			<div class="xm-sub-column">
+						<ul>
+							<li >
+						<a href="http://www.healthstylesexercise.com/leisure/"  >Leisure</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/measurement-tracking/"  >Measurement & Tracking</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/pilates-yoga/"  >Pilates & Yoga</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/Plyo-Boxes/"  >Plyo Boxes</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/Pull-Up-Push-Up/"  >Pull Up & Push Up</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/ropes/"  >Ropes</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/rubber-resistance/"  ><b>Rubber Resistance</b></a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/stretching-massage/"  >Stretching & Massage</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/suspension-training/"  ><b>Suspension Training</b></a>
+							</li>
+						</ul>
+					</div>
+			<div class="xm-sub-column">
+						<ul>
+							<li >
+						<a href="javascript:void(0);"  ><b>Weight Accessories</b></a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/Weight-Bars/"  >Weight Bars</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/weight-storage/"  >Weight Storage</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/dumbbells/"  >Dumbbells</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/kettlebells/"  >Kettlebells</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/weight-plates/"  >Weight Plates</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/medicine-balls/"  >Medicine & Weighted Balls</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/body-bars/"  >Body Bars</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/weight-vests/"  >Weight Vests</a>
+							</li>
+						</ul>
+					</div>
+				<div class="xm-clear"></div>
+				</div>
+			</div>
+	</li>
+
+	<li class="xm-top xm-full item-a12">
+<a href="http://www.healthstylesexercise.com/clearance-used/"  >Clearance & Used</a>
+			<div class="xm-sub-holder">			
+				<div class="xm-sub-menu">
+			<div class="xm-sub-column">
+						<ul>
+							<li >
+						<a href="http://www.healthstylesexercise.com/clearance-used-ellipticals/"  >Clearance & Used Ellipticals</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/clearance-used-treadmills/"  >Clearance & Used Treadmills</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/clearance-used-cycles/"  >Clearance & Used Exercise Bikes</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/clearance-used-strength/"  >Clearance & Used Strength</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/other-clearance-used/"  >Other Clearance & Used</a>
+							</li>
+						</ul>
+					</div>
+				<div class="xm-clear"></div>
+				</div>
+			</div>
+	</li>
+
+	<li class="xm-top xm-full item-a13">
+<a href="http://www.healthstylesexercise.com/about-us/"  >Company</a>
+			<div class="xm-sub-holder">			
+				<div class="xm-sub-menu">
+			<div class="xm-sub-column">
+						<ul>
+							<li >
+						<a href="http://www.healthstylesexercise.com/about-us/"  ><b>About Us</b></a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/contact-us/"  >Contact Us</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/feedback/"  >Feedback</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/testimonials/"  >Testimonials</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/healthstyles-team/"  >Meet the Team</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/partner-program/"  >Become a Partner</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/employment/"  >Employment</a>
+							</li>
+							<li >
+						<a href="wp/category/news/"  >Company News</a>
+							</li>
+							<li >
+						<a href="wp/"  >Fitness Blog</a>
+							</li>
+						</ul>
+					</div>
+			<div class="xm-sub-column">
+						<ul>
+							<li >
+						<a href="#"  ><b>Services</b></a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/used-exercise-equipment/"  >Used Exercise Equipment</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/trade-in/"  >Trade In Program</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/financing/"  >Financing</a>
+							</li>
+						</ul>
+					</div>
+			<div class="xm-sub-column">
+						<ul>
+							<li >
+						<a href="http://www.healthstylesexercise.com/service-repair/"  ><b>Service & Repair</b></a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/service-request/"  >Service & Repair Request Form</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/shipping-returns/"  >Shipping & Returns</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/service-experience/"  >Service Experience</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/brands-we-service/"  >Brands We Service</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/equipment-parts/"  >Equipment Parts</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/preventative-maintenance/"  >Preventative Maintenance</a>
+							</li>
+						</ul>
+					</div>
+			<div class="xm-sub-column">
+						<ul>
+							<li >
+						<a href="http://www.healthstylesexercise.com/commercial-exercise-equipment/"  ><b>Commercial Sales</b></a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/commercial-products/"  >Commercial Products</a>
+							</li>
+							<li >
+						<a href="http://www.healthstylesexercise.com/commercial-sales-experience/"  >Commercial Experience</a>
+							</li>
+							<li >
+						<a href="wp/category/commercial-fitness/"  >Commercial News</a>
+							</li>
+							<li >
+						<img src="/skin/common_files/images/spacer.gif" width="1" height="1" />&nbsp;
+							</li>
+							<li >
+						<a href="products_map.php"  ><b>All Products</b></a>
+							</li>
+						</ul>
+					</div>
+				<div class="xm-clear"></div>
+				</div>
+			</div>
+	</li>
+
+	<li class="xm-top xm-full xm-last item-a11">
+<a href="offers.php"  >Specials</a>
+			<div class="xm-sub-holder">			
+				<div class="xm-sub-menu">
+			<div class="xm-sub-column">
+						<ul>
+							<li >
+						<a href="http://www.healthstylesexercise.com/price-match/"  >Price Match Request</a>
+							</li>
+							<li >
+						<a href="giftcert.php"  >Gift Certificates</a>
+							</li>
+						</ul>
+					</div>
+				<div class="xm-clear"></div>
+				</div>
+			</div>
+	</li>
+</ul>	
+<!-- TheXCartStore xMenus: MENU END --></div>
+    	
+    	<div id="content"> <!-- Content Open -->
+								<div id="fb-root"></div>
+				    		        
+      
+                            
+      
+      
+      
+      <div class="banners12">
+  <!-- Banner Home1 Begin -->
+  <div id="xbaner1" class="xbanner">
+			<div class="xb_gallery" id="txs_xbanner_76">
+<a href="http://www.healthstylesexercise.com/txs_xb_tracker.php?bid=I_479"  target="_parent" ><img src="http://www.healthstylesexercise.com/images/XBI/718x286_Colorado-Best-Fitness-Equipment-1.jpg"  width="718" height="286" /></a></div>
+</div>
+  <!-- Banner Home1 End -->
+
+  <!-- Banner Home2 Begin -->
+  <div id="xbaner2" class="xbanner">
+			
+<div class="xb_gallery " id="txs_xbanner_35">
+	<div>
+		<ul>
+					<li style='list-style-type:none;' >
+				<a href="http://www.healthstylesexercise.com/txs_xb_tracker.php?bid=I_476"  target="_parent" ><img src="http://www.healthstylesexercise.com/images/XBI/Zero-Runner-236x286-new-01.jpg"  width="236" height="286" /></a>			</li>
+						<li style='display:none;list-style-type:none;' >
+				<a href="http://www.healthstylesexercise.com/txs_xb_tracker.php?bid=I_477"  target="_parent" ><img src="http://www.healthstylesexercise.com/images/XBI/waterrower-2016-236x286.jpg"  width="236" height="286" /></a>			</li>
+					</ul>
+	</div>
+</div><div style="clear: both;"></div></div>
+  <!-- Banner Home2 End -->
+</div>
+
+<!-- Welcome Home Begin -->
+<div id="welcome-home"> <!-- Welcome Home Holder Open -->
+  <div class="wh-left">
+    <p>HealthStyles Exercise Equipment provides quality new and used fitness equipment&nbsp;to fitness enthusiasts and beginning workout buffs alike. No matter what your preference, HealthStyles is here to help you be the best you can be ...so that you can live the lifestyle you enjoy! Biking, hiking, skiing, swimming, just experiencing the simple events of everyday life are enhanced when you are fit and ready to live the active lifestyle. HealthStyles allows you to work out in the comfort of your own home on commercial quality strength training and cardio machines!</p>
+	    				<ul class="wel-navi">
+			 		  
+						<li class="wcn-56"><a href="contact-us/#store" title="Store Locator" >Store Locator</a></li>
+					  
+						<li class="wcn-63"><a href="commercial-exercise-equipment/" title="Commercial Sales" >Commercial Sales</a></li>
+					  
+						<li class="wcn-64"><a href="service-repair/" title="Service Department" >Service Department</a></li>
+					  
+						<li class="wcn-65"><a href="about-us/" title="About Us" >About Us</a></li>
+					  
+						<li class="wcn-61"><a href="wp/" title="News &amp; Fitness Articles" >News &amp; Fitness Articles</a></li>
+							
+				</ul>
+			  </div>
+  <div class="wh-right">
+  	<!-- Banner 3 Begin -->
+  	<div id="xbaner3" class="xbanner">
+			<div class="xb_gallery" id="txs_xbanner_36">
+<a href="http://www.healthstylesexercise.com/txs_xb_tracker.php?bid=I_246"  target="_parent" ><img src="http://www.healthstylesexercise.com/images/XBI/HEE_Financing_236x140.v2.jpg"  width="236" height="140" /></a></div>
+<div style="clear: both;"></div></div>
+  	<!-- Banner 3 End -->
+  </div>
+</div> <!-- Welcome Home Holder Close -->
+<!-- Welcome Home End -->
+
+<!-- Featured Categories Home Begin -->
+  <ul class="fe-cat-home">    <li >
+    <h2><a href="http://www.healthstylesexercise.com/elliptical-trainers/" title="Ellipticals">Ellipticals</a></h2>    <h3>Octane, Life Fitness, Vision, & more.</h3>    <a href="http://www.healthstylesexercise.com/elliptical-trainers/" class="img-link" title="Ellipticals">
+	<img src="http://www.healthstylesexercise.com/images/BK/ellipticals-feature.jpg" alt="Ellipticals" />    </a>
+    <p>Commercial quality standing, seated, and outdoor elliptical trainers.</p>
+  </li>
+        <li >
+    <h2><a href="http://www.healthstylesexercise.com/Treadmills/" title="Treadmills">Treadmills</a></h2>    <h3>Landice, Life Fitness, Vision, & more.</h3>    <a href="http://www.healthstylesexercise.com/Treadmills/" class="img-link" title="Treadmills">
+	<img src="http://www.healthstylesexercise.com/images/BK/treadmills-feature.jpg" alt="Treadmills" />    </a>
+    <p>Commercial quality non-folding running treadmills and space-saving folding treadmills for walking.</p>
+  </li>
+        <li >
+    <h2><a href="http://www.healthstylesexercise.com/exercise-bikes/" title="Exercise Bikes">Exercise Bikes</a></h2>    <h3>Vision Fitness, Life Fitness LifeCycles, & more.</h3>    <a href="http://www.healthstylesexercise.com/exercise-bikes/" class="img-link" title="Exercise Bikes">
+	<img src="http://www.healthstylesexercise.com/images/BK/exercise-bikes-feature.jpg" alt="Exercise Bikes" />    </a>
+    <p>Commercial quality indoor cycles, upright, and recumbent exercise bikes.</p>
+  </li>
+        <li class="last">
+    <h2><a href="http://www.healthstylesexercise.com/Home-Gym-Systems/" title="Home Gyms">Home Gyms</a></h2>    <h3>Life Fitness, Torque, Body Solid, & more.</h3>    <a href="http://www.healthstylesexercise.com/Home-Gym-Systems/" class="img-link" title="Home Gyms">
+	<img src="http://www.healthstylesexercise.com/images/BK/home-gyms-feature.jpg" alt="Home Gyms" />    </a>
+    <p>Traditional home gyms, cable functional trainers, and weight machines.</p>
+  </li>
+  	</ul>
+	  
+<div class="clear"></div>
+<!-- Featured Categories Home End -->
+
+<!-- Banner 4 Begin -->
+<div id="xbaner4" class="xbanner">
+			<div class="xb_gallery" id="txs_xbanner_136">
+<a href="http://www.healthstylesexercise.com/txs_xb_tracker.php?bid=I_467"  target="_parent" ><img src="http://www.healthstylesexercise.com/images/XBI/Body-Solid-10-Off-960x129.jpg"  width="960" height="129" /></a></div>
+</div>
+<!-- Banner 4 End -->
+
+                    
+
+       
+        <!-- Tabs & Sliders Begin -->
+        <div class="tabsandslides"> <!-- Tabs & Sliders Holder Open -->
+        
+          <!-- Tabs Control Begin -->
+          <ul id="tab-control">
+                        <li class="active"><a href="#slide-featured">Featured products</a></li>
+                                              </ul>
+          <!-- Tabs Control End -->
+          
+          <!-- Tabs Begin -->
+          <div class="tabs-holder"> <!-- Tabs Holder Open -->
+          
+                         <!-- Slider Begin -->
+            <div id="slide-featured" class="productslide"> <!-- Slider Holder 1 Open -->
+              <div class="slidesholder"> <!-- Slider Holder 2 Open -->
+                <ul class="slide">
+                 			    		  				    		  					
+			    		  				    		  	                
+                  <li>
+                    <a href="http://www.healthstylesexercise.com/Octane-Fitness-ZR7-Zero-Runner.html" title="Octane Fitness ZR7 Zero Runner" class="img-link">
+                    <img src="http://www.healthstylesexercise.com/images/T/xctmpH6ncel.png" width="103" height="103" alt="Octane Fitness ZR7 Zero Runner" />                    </a>
+                    <h4><span class="currency">$2999.00</span></h4>
+                                        <div class="r-price-holder">
+                      <a class="r-price-control">Reduced Price</a>
+                      <div class="r-price-content">
+                        <span class="r-price1">save   9%</span>
+                        								        									                                <span class="r-price2">								        	RRP: <span class="currency">$3299.00</span>
+								        	</span>
+                      </div>
+                    </div>
+                                        <h3><a href="http://www.healthstylesexercise.com/Octane-Fitness-ZR7-Zero-Runner.html" title="Octane Fitness ZR7 Zero Runner">Octane Fitness ZR7 Zer...</a></h3>
+                    <p> Revolutionize Your Running...</p>
+                  </li>
+                  			    		  	
+			    		  	
+			    		  				    		  	                
+                  <li>
+                    <a href="http://www.healthstylesexercise.com/waterrower-natural-rowing-machine.html" title="WaterRower Natural Rowing Machine Ash with S4 Monitor" class="img-link">
+                    <img src="http://www.healthstylesexercise.com/images/T/xctmpfJgika.png" width="103" height="103" alt="WaterRower Natural Rowing Machine Ash with S4 Monitor" />                    </a>
+                    <h4><span class="currency">$1095.00</span></h4>
+                                        <h3><a href="http://www.healthstylesexercise.com/waterrower-natural-rowing-machine.html" title="WaterRower Natural Rowing Machine Ash with S4 Monitor">WaterRower Natural Row...</a></h3>
+                    <p>   *In Stock and Ready to S...</p>
+                  </li>
+                  			    		  	
+			    		  	
+			    		  				    		  	                
+                  <li>
+                    <a href="http://www.healthstylesexercise.com/powerline-pfid130x-fid-bench.html" title="Powerline PFID130X Flat Incline Decline Bench" class="img-link">
+                    <img src="http://www.healthstylesexercise.com/images/T/t-21228.png" width="103" height="103" alt="Powerline PFID130X Flat Incline Decline Bench" />                    </a>
+                    <h4><span class="currency">$151.00</span></h4>
+                                        <div class="r-price-holder">
+                      <a class="r-price-control">Reduced Price</a>
+                      <div class="r-price-content">
+                        <span class="r-price1">save  38%</span>
+                        								        									                                <span class="r-price2">								        	RRP: <span class="currency">$245.00</span>
+								        	</span>
+                      </div>
+                    </div>
+                                        <h3><a href="http://www.healthstylesexercise.com/powerline-pfid130x-fid-bench.html" title="Powerline PFID130X Flat Incline Decline Bench">Powerline PFID130X Fla...</a></h3>
+                    <p>   *In Stock and Ready to S...</p>
+                  </li>
+                  			    		  	
+			    		  	
+			    		  				    		  	                
+                  <li>
+                    <a href="http://www.healthstylesexercise.com/landice-l7-cardio-treadmill.html" title="Landice L7 Cardio Treadmill" class="img-link">
+                    <img src="http://www.healthstylesexercise.com/images/T/xctmpywJHQj.png" width="103" height="103" alt="Landice L7 Cardio Treadmill" />                    </a>
+                    <h4><span class="currency">$4095.00</span></h4>
+                                        <div class="r-price-holder">
+                      <a class="r-price-control">Reduced Price</a>
+                      <div class="r-price-content">
+                        <span class="r-price1">save  10%</span>
+                        								        									                                <span class="r-price2">								        	RRP: <span class="currency">$4550.00</span>
+								        	</span>
+                      </div>
+                    </div>
+                                        <h3><a href="http://www.healthstylesexercise.com/landice-l7-cardio-treadmill.html" title="Landice L7 Cardio Treadmill">Landice L7 Cardio Trea...</a></h3>
+                    <p> Representing the very late...</p>
+                  </li>
+                  			    		  </ul>
+			    		  <ul class="slide">
+			    		  				    		  				    		  	
+			    		  	
+			    		  				    		  	                
+                  <li>
+                    <a href="http://www.healthstylesexercise.com/Best-Fitness-BFPR100-Power-Rack.html" title="Best Fitness BFPR100 Power Rack" class="img-link">
+                    <img src="http://www.healthstylesexercise.com/images/T/xctmp5JLhrj.png" width="103" height="103" alt="Best Fitness BFPR100 Power Rack" />                    </a>
+                    <h4><span class="currency">$295.00</span></h4>
+                                        <div class="r-price-holder">
+                      <a class="r-price-control">Reduced Price</a>
+                      <div class="r-price-content">
+                        <span class="r-price1">save  33%</span>
+                        								        									                                <span class="r-price2">								        	RRP: <span class="currency">$440.00</span>
+								        	</span>
+                      </div>
+                    </div>
+                                        <h3><a href="http://www.healthstylesexercise.com/Best-Fitness-BFPR100-Power-Rack.html" title="Best Fitness BFPR100 Power Rack">Best Fitness BFPR100 P...</a></h3>
+                    <p> The Best Fitness BFPR100 P...</p>
+                  </li>
+                  			    		  	
+			    		  	
+			    		  				    		  	                
+                  <li>
+                    <a href="http://www.healthstylesexercise.com/life-fitness-t3-track-treadmill.html" title="Life Fitness T3 Track+ Treadmill" class="img-link">
+                    <img src="http://www.healthstylesexercise.com/images/T/xctmpxpnuU4.png" width="103" height="103" alt="Life Fitness T3 Track+ Treadmill" />                    </a>
+                    <h4><span class="currency">$2699.00</span></h4>
+                                        <div class="r-price-holder">
+                      <a class="r-price-control">Reduced Price</a>
+                      <div class="r-price-content">
+                        <span class="r-price1">save  10%</span>
+                        								        									                                <span class="r-price2">								        	RRP: <span class="currency">$2999.00</span>
+								        	</span>
+                      </div>
+                    </div>
+                                        <h3><a href="http://www.healthstylesexercise.com/life-fitness-t3-track-treadmill.html" title="Life Fitness T3 Track+ Treadmill">Life Fitness T3 Track+...</a></h3>
+                    <p> The Life Fitness T3 treadm...</p>
+                  </li>
+                  			    		  	
+			    		  	
+			    		  	                </ul>
+              </div> <!-- Slider Holder 2 Close -->
+            </div> <!-- Slider Holder 1 Close -->
+            <!-- Slider End -->
+                                     
+          </div> <!-- Tabs Holder Close -->
+          <!-- Tabs End -->
+        
+        </div> <!-- Tabs & Sliders Holder Close -->
+        <!-- Tabs & Sliders End -->
+
+
+        
+<!-- Links Home Begin -->
+<div class="links-block">
+								
+					<ul>
+									<li class="title ">
+						<h3>
+							Cardio Fitness Equipment						</h3>
+					</li>
+																	<li >
+						<a href="elliptical-trainers/"  title="Elliptical Trainers">Elliptical Trainers</a>					</li>
+									<li >
+						<a href="Treadmills/"  title="Treadmills">Treadmills</a>					</li>
+									<li >
+						<a href="exercise-bikes/"  title="Exercise Bikes">Exercise Bikes</a>					</li>
+									<li >
+						<a href="rowing-machines/"  title="Rowing Machines">Rowing Machines</a>					</li>
+									<li >
+						<a href="stair-climbers/"  title="Stair Climbers">Stair Climbers</a>					</li>
+									<li >
+						<a href="vibration-trainers/"  title="Vibration Trainers">Vibration Trainers</a>					</li>
+									
+			</ul>
+								<ul>
+									<li class="title ">
+						<h3>
+							Strength Training Equipment						</h3>
+					</li>
+																	<li >
+						<a href="Home-Gyms/"  title="Home Gyms">Home Gyms</a>					</li>
+									<li >
+						<a href="Functional-Trainers-and-Cable-Machines/"  title="Functional Trainers & Cable Machines">Functional Trainers & Cable Machines</a>					</li>
+									<li >
+						<a href="Cages-and-Racks/"  title="Cages & Racks">Cages & Racks</a>					</li>
+									<li >
+						<a href="Smith-Systems/"  title="Smith Systems">Smith Systems</a>					</li>
+									<li >
+						<a href="Flat-Incline-Decline-Benches/"  title="Flat, Incline, Decline Benches">Flat, Incline, Decline Benches</a>					</li>
+									<li >
+						<a href="Ab-Back-Benches/"  title="Ab/Back Benches & Roman Chairs">Ab/Back Benches & Roman Chairs</a>					</li>
+									<li >
+						<a href="kettlebells/"  title="Kettlebells">Kettlebells</a>					</li>
+									<li class="more">
+						<a href="Free-Weight-Systems/"  title="More Free Weight Equipment">More Free Weight Equipment</a>					</li>
+									
+			</ul>
+								<ul>
+									<li class="title ">
+						<h3>
+							<a href="fitness-accessories/"  title="Fitness Accessories">Fitness Accessories</a>						</h3>
+					</li>
+																	<li >
+						<a href="balance-stability/"  title="Balance & Stability">Balance & Stability</a>					</li>
+									<li >
+						<a href="exercise-balls/"  title="Fitness Balls">Fitness Balls</a>					</li>
+									<li >
+						<a href="rubber-resistance/"  title="Rubber Resistance Bands">Rubber Resistance Bands</a>					</li>
+									<li >
+						<a href="medicine-balls/"  title="Medicine & Weighted Balls">Medicine & Weighted Balls</a>					</li>
+									<li >
+						<a href="suspension-training/"  title="Suspension Training">Suspension Training</a>					</li>
+									<li class="more">
+						<a href="fitness-accessories/"  title="More Fitness Accessories">More Fitness Accessories</a>					</li>
+									
+			</ul>
+								<ul>
+									<li class="title ">
+						<h3>
+							<a href="clearance-used/"  title="Clearance & Used Exercise Equipment">Clearance & Used Exercise Equipment</a>						</h3>
+					</li>
+																	<li >
+						<a href="clearance-used-ellipticals/"  title="Clearance & Used Ellipticals">Clearance & Used Ellipticals</a>					</li>
+									<li >
+						<a href="clearance-used-treadmills/"  title="Clearance & Used Treadmills">Clearance & Used Treadmills</a>					</li>
+									<li >
+						<a href="clearance-used-cycles/"  title="Clearance & Used Cycles">Clearance & Used Cycles</a>					</li>
+									<li >
+						<a href="clearance-used-strength/"  title="Clearance & Used Strength">Clearance & Used Strength</a>					</li>
+									<li >
+						<a href="other-clearance-used/"  title="Other Clearance & Used">Other Clearance & Used</a>					</li>
+									<li >
+						<a href="trade-in/"  title="Trade In Program">Trade In Program</a>					</li>
+									
+			</ul>
+							<div class="clear"></div>
+															
+					<ul>
+									<li class="title ">
+						<h3>
+							<a href="commercial-exercise-equipment/"  title="Commercial Sales">Commercial Sales</a>						</h3>
+					</li>
+																	<li >
+						<a href="commercial-products/"  title="Commercial Products">Commercial Products</a>					</li>
+									<li >
+						<a href="commercial-sales-experience/"  title="Commercial Experience">Commercial Experience</a>					</li>
+									<li >
+						<a href="wp/category/commercial-fitness/"  title="Commercial News">Commercial News</a>					</li>
+									
+			</ul>
+								<ul>
+									<li class="title ">
+						<h3>
+							<a href="about-us/"  title="About Us">About Us</a>						</h3>
+					</li>
+																	<li >
+						<a href="healthstyles-team/"  title="Meet the Team">Meet the Team</a>					</li>
+									<li >
+						<a href="testimonials/"  title="Testimonials">Testimonials</a>					</li>
+									<li >
+						<a href="wp/category/news/"  title="Company News">Company News</a>					</li>
+									<li >
+						<a href="wp/"  title="Fitness Articles">Fitness Articles</a>					</li>
+									<li >
+						<a href="events-clinics/"  title="Events & Clinics">Events & Clinics</a>					</li>
+									
+			</ul>
+								<ul>
+									<li class="title ">
+						<h3>
+							Services						</h3>
+					</li>
+																	<li >
+						<a href="used-exercise-equipment/"  title="Used Exercise Equipment">Used Exercise Equipment</a>					</li>
+									<li >
+						<a href="financing/"  title="Financing">Financing</a>					</li>
+									<li >
+						<a href="partner-program/"  title="Partner Program">Partner Program</a>					</li>
+									
+			</ul>
+								<ul>
+									<li class="title ">
+						<h3>
+							<a href="contact-us/"  title="Contact Us">Contact Us</a>						</h3>
+					</li>
+																	<li >
+						<a href="price-match/"  title="Price Match Request">Price Match Request</a>					</li>
+									<li >
+						<a href="trade-in/"  title="Trade In Request Form">Trade In Request Form</a>					</li>
+									<li >
+						<a href="service-request/"  title="Service Request Form">Service Request Form</a>					</li>
+									<li >
+						<a href="feedback/"  title="Feedback">Feedback</a>					</li>
+									
+			</ul>
+							<div class="clear"></div>
+									<div class="clear"></div>
+<!-- Links Home End -->
+</div>
+
+      
+
+       
+            <div class="clear"></div>
+        
+        <!-- Footer  Begin -->
+        <div id="footer-holder"> <!-- Footer Holder Open -->
+        
+          <!--  Social Media Footer Begin -->
+          
+	  <div class="footer-social">
+
+          	    <ul>
+						<li>
+		<a href="http://visitor.r20.constantcontact.com/d.jsp?llr=bf9xp8n6&p=oi&m=1011313535137&sit=jupbasx4"   target="_blank"><img src="http://www.healthstylesexercise.com/images/TXS_SM/email_list.png" alt="Join our email list!" width="150" height="50" /></a>		</li>
+								<li>
+		<a href="http://www.facebook.com/HealthStylesEE"   target="_blank"><img src="http://www.healthstylesexercise.com/images/TXS_SM/fb_fan_icon.png" alt="Follow Us on Facebook" width="192" height="50" /></a>		</li>
+								<li>
+		<a href="wp/"   target="_parent"><img src="http://www.healthstylesexercise.com/images/TXS_SM/blogger.png"  width="46" height="46" /></a>		</li>
+								<li>
+		<a href="https://twitter.com/HealthStylesCO"   target="_blank"><img src="http://www.healthstylesexercise.com/images/TXS_SM/twitter.png"  width="46" height="46" /></a>		</li>
+								<li>
+		<a href="https://www.linkedin.com/company/healthstyles-exercise-equipment"   target="_blank"><img src="http://www.healthstylesexercise.com/images/TXS_SM/linkedin.png"  width="46" height="46" /></a>		</li>
+				            </ul>
+	            </div>
+          
+	  <!--  Social Media Footer End -->
+          
+          <div class="footer-subs">
+          	          	
+          	          </div>
+          
+        </div> <!-- Footer Holder Close -->
+        
+        <div class="footer-last">
+	        
+	        <!-- Bottom Navigation Begin -->
+		
+	        <div id="bottom-navi">
+				<ul>
+	          
+			<li ><a href="/products_map.php?symb=A" title="All Products" >All Products</a></li>
+		  
+			<li ><a href="sitemap.php" title="Sitemap" >Sitemap</a></li>
+		  
+			<li ><a href="Privacy-statement/" title="Privacy Statement" >Privacy Statement</a></li>
+		  
+			<li ><a href="shipping-returns/" title="Shipping &amp; Returns" >Shipping &amp; Returns</a></li>
+		  
+			<li ><a href="help.php?section=Password_Recovery" title="Recover Password" >Recover Password</a></li>
+		  
+			<li class="last"><a href="contact-us/" title="Contact Us" >Contact Us</a></li>
+				
+	        </ul>
+		<div class="clear"></div>
+		<span>Copyright © 2013 HealthStyles Exercise Equipment. All Rights Reserved. </span>
+				</div>		
+	        <!-- Bottom Navigation End -->
+
+	        			<img src="txs_bk_extra/HealthStyles-Exercise-Equipment-415x89.jpg" alt="Footer Image" id="footer-img" />
+		       		
+
+        </div>
+        <!-- Footer End -->
+        
+        <div class="clear"></div>
+      </div> <!-- Content Close -->
+    	
+    	
+    	    	  <script type="text/javascript">
+//<![CDATA[[CDATA[
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[[CDATA[
+try{
+var pageTracker = _gat._getTracker("UA-4223530-1");
+pageTracker._trackPageview();
+} catch(err) {}
+//]]>
+</script>
+
+
+    	    	    	
+    </div>  <!-- Page Holder Close -->
+    <div id="page-bottom"></div>
+    
+    
+<!-- Google Remarketing Code -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<!-- Place the below given code in common template file in bottom of the page cause it is javascript code accessing html elements of the page to access information of products -->
+<script>
+
+if(window.location.pathname == '/'){var google_tag_params = {ecomm_pagetype: 'home'};}
+if(document.getElementById('categories-navi') != null){var google_tag_params = {ecomm_pagetype: 'category'};}
+if(document.getElementsByClassName('zoomWindow')[0] != 'undefined' && window.location.href.indexOf('cart.php') == -1){var id = document.forms['orderform']['productid'].value;var price = document.getElementById('product_price').innerHTML;var google_tag_params = {ecomm_prodid: id,ecomm_pagetype: 'product',ecomm_pvalue: price};}
+if(window.location.href.indexOf('cart.php') != -1){var price = Array();var id = new Array();var len = document.getElementsByClassName('txs-cartrow').length;for(i=0;i<len;i++){var coun = document.getElementsByClassName('txs-cartrow')[0].getElementsByTagName('img')[0].src.split("=").length - 1;id.push(document.getElementsByClassName('txs-cartrow')[i].getElementsByTagName('img')[0].src.split("=")[coun]);price.push(document.getElementsByClassName('currency')[i+1].innerHTML.replace("$",""));}var google_tag_params = {ecomm_prodid: id,ecomm_pagetype: 'cart',ecomm_pvalue: price };}
+
+</script>
+<script type="text/javascript"> 
+/* <![CDATA[ */ 
+var google_conversion_id = 1066273749; 
+var google_conversion_label = "CTOaCPPWxgIQ1Ze4_AM"; 
+var google_custom_params = window.google_tag_params; 
+var google_remarketing_only = true; 
+/* ]]> */ 
+</script> 
+<script type="text/javascript" 
+src="//www.googleadservices.com/pagead/conversion.js"> 
+</script> 
+<noscript> 
+<div style="display:inline;"> 
+<img height="1" width="1" style="border-style:none;" alt="" 
+src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1066273749/?value=0&amp;label=CTOaCPPWxgIQ1Ze4_AM&amp;guid=ON&amp;script=0"/> 
+</div> 
+</noscript>
+
+
+</body>
+</html>

@@ -1,0 +1,279 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+        <title>Fluidity Wellness | Gym Equipment Suppliers</title>
+        
+                
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />        <meta name="google-site-verification" content="EtIRSbz1-f5f3_0tCmubYFaQYOYkftxI7U4HZNSjlX0" />
+
+        <meta name="description" content="Fluidity Wellness is one of the leading gym suppliers of the world’s leading health and wellness brands products in South Africa. Gym equipment for spas, hotels and sports enthusiasts." />
+        <meta name="keywords" content="Fitness equipment, gym equipment, gym equipment suppliers, gym equipment supplier, wellness equipment, fluidity wellness, hotel gym equipment, spa gym equipment" />
+        
+        <meta name="email" content="info@fluidity.co.za">
+        
+                
+        
+    <link rel="stylesheet" type="text/css" href="/css/styles.css" />    <link rel="stylesheet" type="text/css" href="/css/jquery.lightbox-0.5.css" />    
+        
+    <!--[if lte IE 7]>
+        <![endif]-->
+    
+    <!-- page js -->
+    <script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>    <script type="text/javascript" src="/js/jquery.lightbox-0.5.js"></script>    
+    <script type="text/javascript" src="/js/pixastic.jquery.desaturate.js"></script>    
+    <script type="text/javascript" src="/js/jquery.corner.js"></script>    
+        
+    <script type="text/javascript" src="/js/jquery.form.js"></script>    <script type="text/javascript" src="/js/jquery.form-defaults.js"></script>    <script type="text/javascript" src="/js/jquery.validate.min.js"></script>    
+    <!--[if lte IE 6]>
+        <script type="text/javascript" src="/js/supersleight-min.js"></script>    <![endif]-->
+
+    
+    <link rel="stylesheet" type="text/css" href="/css/superfish.front.css" /><script type="text/javascript" src="/js/superfish.js"></script><script type="text/javascript" src="/js/hoverIntent.js"></script>    <!--[if lte IE 6]>
+    <link rel="stylesheet" type="text/css" href="/css/superfish.front.ie.css" />    <![endif]-->
+    
+    <script type="text/javascript">
+    
+    $(document).ready(function(){
+        $('#facebook_top').hover(
+        		function(){
+        			/* alert('over'); */
+        			$(this).css('background-image', 'url(/img/fb_over.gif)');
+        		},
+        		function(){
+        			/* alert('and out'); */
+        			$(this).css('background-image', 'url(/img/fb.gif)');
+        			
+        		}
+        	);
+        
+        $('ul.sf-menu').superfish();
+        
+        $('#elbuortsemocereh').click(function(){
+            $('#elbuortsemocereh').hide();
+            return true;
+        });
+        
+        
+        $('#searchbar').DefaultValue('Search');
+        
+        $('#SubscriberAddForm').ready(function(){
+                $('#subscribe_name').DefaultValue('Name');
+                $('#subscribe_surname').DefaultValue('Surname');
+                $('#subscribe_email').DefaultValue('Email');
+                if(typeof handleStuff == 'function') {
+                    $('#SubscriberAddForm').ajaxForm(handleStuff);
+                } 
+                
+        });
+        
+    });
+    
+    $(window).load(
+        function() {
+            
+            var logo_original_images = {};
+            var logo_desaturated = {};
+            var tmp = '';
+            
+            
+            $('td.brand_image').each( function(index) {
+                 
+                    logo_original_images[index] = $(this).html(); //save the image for later
+                    
+                    $('img.brand_gray',this).pixastic("desaturate"); 
+                    logo_desaturated[index] = $(this).html(); //save the image for later
+                    
+                     $(this).hover(function(){
+                        $('#bh'+index).show();
+                        $('#bs'+index).hide();
+                    },function() {
+                        $('#bh'+index).hide();
+                        $('#bs'+index).show();
+                    });
+                 
+            });
+            
+        }
+        
+    );
+    
+    
+    
+    </script>
+    
+</head>
+<body>
+
+<div id="wrapper">
+
+	<div id="header">
+    	
+        <a href="/"><div id="logo">
+    	</div></a>
+        <div id="search">
+        	<form id="search_form" method="post" action="/products/search"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST" /></fieldset>        	<label for="searchbar"></label><input name="data[Products][criteria]" type="text" style="width:100px;padding:0; margin:0;padding-left:6px;" id="searchbar" value="" />            <input type="submit" name="searchbtn" id="searchbtn" value="" />
+        </form>
+        </div>
+    	<a href="http://www.facebook.com/pages/Fluidity-Wellness/133336236692471" target="_blank"><div id="facebook_top"> </div></a>        <a href="/products/shortlist/"><div id="shortlist"> </div></a>        
+        <a name="navanchor" style="position:absolute;top:65px;left:0px;"> </a>
+<div id="navigation"><ul class="sf-menu sf-js-enabled sf-shadow">
+<li ><div class="nav_select"><a href="/" style="padding:0px;margin-top:2px;">Home</a></div></li>
+        <li><a class="sf-with-ul" href="#a"><div class="nav" style="padding-top:2px;">Products</div></a><ul style="display: none; visibility: hidden;">
+                                     <li><a href="/products/index/1">Aqua</a></li>                     <li><a href="/products/index/3">Bands and Cables</a></li>                     <li><a href="/products/index/8">Boxing</a></li>                     <li><a href="/products/index/11">Cardiovascular</a></li>                     <li><a href="/products/index/2">Core Stability and Agility</a></li>                     <li><a href="/products/index/14">Exciting New Products</a></li>                     <li><a href="/products/index/10">Free Weight &amp; Dumbell</a></li>                     <li><a href="/products/index/7">Group Fitness</a></li>                     <li><a href="/products/index/6">Pilates</a></li>                     <li><a href="/products/index/15">Rehabilitation</a></li>                     <li><a href="/products/index/9">Storage</a></li>                     <li><a href="/products/index/4">Suspension Training</a></li>                     <li><a href="/products/index/5">Yoga</a></li></ul></li>
+        
+        <li id="brand_menu"><a class="sf-with-ul" href="#a"><div class="nav" style="padding-top:2px;" >Brands</div></a>
+            <ul style="display: none; visibility: hidden;">
+                                      <li><a href="/products/brand/1">AIREX®</a></li>                     <li><a href="/products/brand/31">Alpha Strong</a></li>                     <li><a href="/products/brand/2">Aqua Jogger</a></li>                     <li><a href="/products/brand/3">Balanced Body Pilates</a></li>                     <li><a href="/products/brand/32">Bender Ball</a></li>                     <li><a href="/products/brand/4">BOSU</a></li>                     <li><a href="/products/brand/27">Carotten</a></li>                     <li><a href="/products/brand/20">Fluidity Wellness</a></li>                     <li><a href="/products/brand/6">Freemotion Fitness</a></li>                     <li><a href="/products/brand/7">Gliding</a></li>                     <li><a href="/products/brand/28">Gym Wipes</a></li>                     <li><a href="/products/brand/8">Hampton</a></li>                     <li><a href="/products/brand/9">Harbinger</a></li>                     <li><a href="/products/brand/10">Hugger Mugger</a></li>                     <li><a href="/products/brand/11">Jacobs Ladder</a></li>                     <li><a href="/products/brand/23">Jordan Fitness</a></li>                     <li><a href="/products/brand/24">JumpSport</a></li>                     <li><a href="/products/brand/22">Lebert Fitness</a></li>                     <li><a href="/products/brand/21">Lifefactory</a></li>                     <li><a href="/products/brand/16">LifelineUSA</a></li>                     <li><a href="/products/brand/34">Natural Fitness Inc</a></li>                     <li><a href="/products/brand/26">Power Systems</a></li>                     <li><a href="/products/brand/33">Rejuvenation Fitness</a></li>                     <li><a href="/products/brand/12">SISSEL®</a></li>                     <li><a href="/products/brand/13">The Body Bar®</a></li>                     <li><a href="/products/brand/5">The FitWall®</a></li>                     <li><a href="/products/brand/14">TKO</a></li>                     <li><a href="/products/brand/29">TP Therapy</a></li>                     <li><a href="/products/brand/15">TRX Suspension Training</a></li></ul></li>
+        
+        <li ><div class="nav"><a href="/promotions" style="padding:0px;margin-top:2px;">Promotions</a></div></li>
+        <li ><div class="nav"><a href="/press_releases" style="padding:0px;margin-top:2px;">Press</a></div></li>
+        <li ><div class="nav"><a href="/contact_us" style="padding:0px;margin-top:2px;">Contact</a></div></li>
+    </ul>
+</div>
+        
+    </div> <!-- End of Header -->
+    
+        <div id="banner"><a href="/press_releases/" border="0"><img src="/img/BalancedBodyReformer.jpg" id="bannerimg" alt="" /></a></div><div id="content">
+    
+    	<div id="contentwrap">
+        
+    		<div class="about">
+                <p><strong>Fluidity Wellness</strong> is the <strong>leading supplier and distributor</strong> of the worlds leading health and wellness brands products in South Africa.</p>
+                <p>Our experience and dedication to the market that we service has enabled us to secure <strong>major international brands</strong>. We will continue to travel the globe in order to identify the latest trends in the world of health and wellness.</p>
+                <p>Fluidity Wellness has built up<strong> many reputable contacts</strong> all over the world and this enables us to <strong>source and attain any product </strong>that our valued clients desire at incredible pricing. </p>
+            </div>
+            
+            <div class="about">
+                <p>We have world‐class shipping and clearing agents that allows to import product from the USA, Europe, The East and Australia.</p>
+                <p>Fluidity Wellness believes in working closely with both our suppliers and our valued clients to <strong>ensure that we can attain superior quality products</strong> with excellent pricing structures that are beneficial to all parties.</p>
+                <p>Fluidity Wellness follows a<strong> holistic approach</strong> to any product that we import which includes sourcing, pre‐sales, sales and most importantly after sales.</p>
+            </div>
+            
+              <div id="homeform">
+<form controller="subscribers" id="SubscriberAddForm" method="post" action="/subscribers/add"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST" /></fieldset>    <form action="" method="get">
+   <strong>Join our Mailing List:</strong><br />
+    <label for="subscribe_name"></label><input name="data[Subscriber][name]" type="text" id="subscribe_name" class="homeformtxt" value="" />    <label for="subscribe_surname"></label><input name="data[Subscriber][surname]" type="text" id="subscribe_surname" class="homeformtxt" value="" />
+    <div id="homeformsubmit_two" ><div style="float:left;width:135px;text-align:left;"><label for="subscribe_email"></label><input name="data[Subscriber][email]" type="text" id="subscribe_email" class="homeformsubmit_two_input" value="" /><!-- <input name="" type="text" maxlength="13"  id="homeformsubmit_two_input"> --></div><div style="float:right;"><input type="image" id="elbuortsemocereh" src="/img/spacer.gif" style="width:40;height:14px;"></div>
+    </div>
+    </form>    
+    <br style="clear:both"/>
+    <strong>Give us a Call</strong><br />
+    T: +27 21 434 0500<br />
+    F: +27 21 439 9055<br />
+    <a href="mailto:info@fluiditywellness.com">info@fluiditywellness.com</a>
+
+</div>
+<script type="text/javascript">//<![CDATA[
+
+    
+    function handleStuff(html)
+    {
+        $('#homeform').html(html);
+        $('#subscribe_name').DefaultValue('Name');
+        $('#subscribe_surname').DefaultValue('Surname');
+        $('#subscribe_email').DefaultValue('Email');
+        $('#SubscriberAddForm').ajaxForm(handleStuff);
+    }
+    //]]>
+</script>
+        </div>
+    </div>
+    
+  <div id="footer">
+    
+        <div id="categories">
+                
+        <div class="catimg"><a href="/products/index/11"><img src="/files/images/Category/11_9_5b4c1.jpg" alt="Cardiovascular" title="Cardiovascular" /></a></div>
+        
+                    <div class="spacer"></div>
+                
+                
+            
+        <div class="catimg"><a href="/products/index/9"><img src="/files/images/Category/9_9_29700.jpg" alt="Storage" title="Storage" /></a></div>
+        
+                    <div class="spacer"></div>
+                
+                
+            
+        <div class="catimg"><a href="/products/index/14"><img src="/files/images/Category/14_9_ea6e3.jpg" alt="Exciting New Products" title="Exciting New Products" /></a></div>
+        
+                    <div class="spacer"></div>
+                
+                
+            
+        <div class="catimg"><a href="/products/index/1"><img src="/files/images/Category/1_9_bd1ad.jpg" alt="Aqua" title="Aqua" /></a></div>
+        
+                
+                
+    </div>
+        
+        
+        <div id="quicknav">
+        
+            <div class="quicknavlist"><strong>Navigation</strong><br />
+        	  <a href="/">Home</a><br />
+              <a href="/products">Products</a><br />
+              <a href="/promotions">Promotions</a><br />
+              <a href="/press_releases">Press</a><br />
+              <a href="/contact_us">Contact</a><br />
+              <a href="/disclaimer">Disclaimer</a><br />
+       	    </div>
+          
+              <div class="quicknavlist"><strong>Product Categories</strong><br />
+    
+    <a href="/products/index/1">Aqua</a><br/><a href="/products/index/2">Core Stability and Agility</a><br/><a href="/products/index/3">Bands and Cables</a><br/><a href="/products/index/4">Suspension Training</a><br/><a href="/products/index/5">Yoga</a><br/><a href="/products/index/6">Pilates</a><br/><a href="/products/index/7">Group Fitness</a><br/><a href="/products/index/8">Boxing</a><br/>    </div><div class="quicknavlist"><br />
+            <a href="/products/index/9">Storage</a><br/><a href="/products/index/10">Free Weight & Dumbell</a><br/><a href="/products/index/11">Cardiovascular</a><br/><a href="/products/index/14">Exciting New Products</a><br/><a href="/products/index/15">Rehabilitation</a><br/>
+    </div>
+          
+              <div class="quicknavlist"><strong>Brands &amp; Partners</strong><br />
+    
+    <a href="/products/brand/1">AIREX®</a><br/><a href="/products/brand/31">Alpha Strong</a><br/><a href="/products/brand/2">Aqua Jogger</a><br/><a href="/products/brand/3">Balanced Body Pilates</a><br/><a href="/products/brand/32">Bender Ball</a><br/><a href="/products/brand/4">BOSU</a><br/><a href="/products/brand/27">Carotten</a><br/><a href="/products/brand/20">Fluidity Wellness</a><br/>    </div><div class="quicknavlist"><br />
+            <a href="/products/brand/6">Freemotion Fitness</a><br/><a href="/products/brand/7">Gliding</a><br/><a href="/products/brand/28">Gym Wipes</a><br/><a href="/products/brand/8">Hampton</a><br/><a href="/products/brand/9">Harbinger</a><br/><a href="/products/brand/10">Hugger Mugger</a><br/><a href="/products/brand/11">Jacobs Ladder</a><br/><a href="/products/brand/23">Jordan Fitness</a><br/>
+    </div>
+          
+        </div>
+        
+        
+        <div style="clear:both">
+        </div>
+        
+        
+
+<div id="logos">
+<table cellspacing="0" cellpadding="2"><tr>
+<td class="brand_image"><div id="bs0"><!--  <canvas id="" class="brand_gray" width="117" height="76" style="" title="" tabindex="-1"/></canvas> --><a href="http://www.jacobsladderexercise.com/" target="_blank"><img src="/files/images/Brand/11_10_40773.gif" class="brand_gray" id="brand0" alt="" /></a></div><div id="bh0" style="display:none"><a href="http://www.jacobsladderexercise.com/" target="_blank"><img src="/files/images/Brand/11_10_40773.gif" alt="" /></a>        </div></td><td class="brand_image"><div id="bs1"><!--  <canvas id="" class="brand_gray" width="117" height="76" style="" title="" tabindex="-1"/></canvas> --><a href="http://www.pilates.com/" target="_blank"><img src="/files/images/Brand/3_10_e55f6.gif" class="brand_gray" id="brand1" alt="" /></a></div><div id="bh1" style="display:none"><a href="http://www.pilates.com/" target="_blank"><img src="/files/images/Brand/3_10_e55f6.gif" alt="" /></a>        </div></td><td class="brand_image"><div id="bs2"><!--  <canvas id="" class="brand_gray" width="117" height="76" style="" title="" tabindex="-1"/></canvas> --><a href="http://www.lifelineUSA.com/" target="_blank"><img src="/files/images/Brand/16_10_58f89.gif" class="brand_gray" id="brand2" alt="" /></a></div><div id="bh2" style="display:none"><a href="http://www.lifelineUSA.com/" target="_blank"><img src="/files/images/Brand/16_10_58f89.gif" alt="" /></a>        </div></td><td class="brand_image"><div id="bs3"><!--  <canvas id="" class="brand_gray" width="117" height="76" style="" title="" tabindex="-1"/></canvas> --><a href="http://www.aquajogger.com/" target="_blank"><img src="/files/images/Brand/2_10_5fda4.gif" class="brand_gray" id="brand3" alt="" /></a></div><div id="bh3" style="display:none"><a href="http://www.aquajogger.com/" target="_blank"><img src="/files/images/Brand/2_10_5fda4.gif" alt="" /></a>        </div></td><td class="brand_image"><div id="bs4"><!--  <canvas id="" class="brand_gray" width="117" height="76" style="" title="" tabindex="-1"/></canvas> --><a href="http://www.bosu.com/" target="_blank"><img src="/files/images/Brand/4_10_75d76.gif" class="brand_gray" id="brand4" alt="" /></a></div><div id="bh4" style="display:none"><a href="http://www.bosu.com/" target="_blank"><img src="/files/images/Brand/4_10_75d76.gif" alt="" /></a>        </div></td><td class="brand_image"><div id="bs5"><!--  <canvas id="" class="brand_gray" width="117" height="76" style="" title="" tabindex="-1"/></canvas> --><a href="http://www.bebalanced.net/" target="_blank"><img src="/files/images/Brand/1_10_eeb3e.gif" class="brand_gray" id="brand5" alt="" /></a></div><div id="bh5" style="display:none"><a href="http://www.bebalanced.net/" target="_blank"><img src="/files/images/Brand/1_10_eeb3e.gif" alt="" /></a>        </div></td><td class="brand_image"><div id="bs6"><!--  <canvas id="" class="brand_gray" width="117" height="76" style="" title="" tabindex="-1"/></canvas> --><a href="http://www.huggermugger.com/" target="_blank"><img src="/files/images/Brand/10_10_81758.gif" class="brand_gray" id="brand6" alt="" /></a></div><div id="bh6" style="display:none"><a href="http://www.huggermugger.com/" target="_blank"><img src="/files/images/Brand/10_10_81758.gif" alt="" /></a>        </div></td><td class="brand_image"><div id="bs7"><!--  <canvas id="" class="brand_gray" width="117" height="76" style="" title="" tabindex="-1"/></canvas> --><a href="http://www.jacobsladderexercise.com/" target="_blank"><img src="/files/images/Brand/11_10_40773.gif" class="brand_gray" id="brand7" alt="" /></a></div><div id="bh7" style="display:none"><a href="http://www.jacobsladderexercise.com/" target="_blank"><img src="/files/images/Brand/11_10_40773.gif" alt="" /></a>        </div></td></tr>
+</table>
+</div>
+
+    
+  </div> <!-- End of footer --><!-- End of Wrapper -->
+
+</div>
+<div id="user_actions"></div>
+<script type="text/javascript">
+
+ 
+
+  var _gaq = _gaq || [];
+
+  _gaq.push(['_setAccount', 'UA-10078858-57']);
+
+  _gaq.push(['_trackPageview']);
+
+ 
+
+  (function() {
+
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+
+  })();
+
+ 
+
+</script>
+</body>
+</html>

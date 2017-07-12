@@ -1,0 +1,543 @@
+<!DOCTYPE html>
+<html lang="pl-PL">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="http://duoyidu.com/xmlrpc.php">
+
+    <title>Duo &#8211; Doradztwo w biznesie</title>
+        <style type="text/css">
+                                .inner-header-overlay,
+                    .hero-slider.overlay .slide-item .bg-image:before {
+                        background: #042738;
+                        filter: alpha(opacity=65);
+                        opacity: 0.65;
+                    }
+                    </style>
+
+    <link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Duo &raquo; Kanał z wpisami" href="http://duoyidu.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Duo &raquo; Kanał z komentarzami" href="http://duoyidu.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Duo &raquo; Przykładowa strona Kanał z komentarzami" href="http://duoyidu.com/przykladowa-strona/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/duoyidu.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.5"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://duoyidu.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='owlcarousel-css'  href='http://duoyidu.com/wp-content/themes/bizprime/assets/libraries/owlcarousel/css/owl.carousel.css?ver=4.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='ionicons-css'  href='http://duoyidu.com/wp-content/themes/bizprime/assets/libraries/ionicons/css/ionicons.min.css?ver=4.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://duoyidu.com/wp-content/themes/bizprime/assets/libraries/bootstrap/css/bootstrap.min.css?ver=4.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='vertical-css'  href='http://duoyidu.com/wp-content/themes/bizprime/assets/libraries/vertical/vertical.css?ver=4.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='bizprime-style-css'  href='http://duoyidu.com/wp-content/themes/bizprime/style.css?ver=4.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='bizprime-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C300%2C400%2C400i%2C500%2C700%7CPoppins%3A300%2C400%2C500%2C600%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<script type='text/javascript' src='http://duoyidu.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://duoyidu.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://duoyidu.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://duoyidu.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://duoyidu.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.5" />
+<link rel="canonical" href="http://duoyidu.com/" />
+<link rel='shortlink' href='http://duoyidu.com/' />
+		<!-- Custom Logo: hide header text -->
+		<style id="custom-logo-css" type="text/css">
+			.site-title, .site-description {
+				position: absolute;
+				clip: rect(1px, 1px, 1px, 1px);
+			}
+		</style>
+	<link rel="alternate" type="application/json+oembed" href="http://duoyidu.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fduoyidu.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://duoyidu.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fduoyidu.com%2F&#038;format=xml" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		</head>
+
+<body class="home page-template-default page page-id-2 wp-custom-logo right-sidebar">
+<!-- full-screen-layout/boxed-layout -->
+<div id="page" class="site site-bg full-screen-layout">
+    <a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+
+    <div class="search-box">
+        <form role="search" method="get" class="search-form" action="http://duoyidu.com/">
+				<label>
+					<span class="screen-reader-text">Szukaj:</span>
+					<input type="search" class="search-field" placeholder="Szukaj &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Szukaj" />
+			</form>    </div><!--    Searchbar Ends-->
+    <div class="top-bar">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 col-lg-3">
+                    <div class="pull-left">
+                                                <div class="social-icons ">
+                                                    </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-lg-9">
+                    <div class="top-bar-info">
+                        <ul>
+                                                                                                            </ul>
+                    </div>
+                    <div class="twp-nav ">
+                        <ul class="navbar-extras">
+                            <li>
+                                <a href="#" class="search-button">
+                                    <i class="icon twp-icon ion-ios-search"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> <!--    Topbar Ends-->
+    <header id="masthead" class="site-header" role="banner">
+        <div class="top-header">
+            <div class="container">
+                <div class="site-branding">
+                                            <span class="site-title"><a href="http://duoyidu.com/"
+                                                    rel="home">Duo</a></span>
+                        <a href="http://duoyidu.com/" class="custom-logo-link" rel="home" itemprop="url"><img width="496" height="76" src="http://duoyidu.com/wp-content/uploads/2017/02/Logomakr_0LGhRM.png" class="custom-logo" alt="" itemprop="logo" srcset="http://duoyidu.com/wp-content/uploads/2017/02/Logomakr_0LGhRM.png 496w, http://duoyidu.com/wp-content/uploads/2017/02/Logomakr_0LGhRM-300x46.png 300w" sizes="(max-width: 496px) 100vw, 496px" /></a>                        <p class="site-description">Doradztwo w biznesie</p>
+                                        </div><!-- .site-branding -->
+
+                <nav id="site-navigation" class="main-navigation" role="navigation">
+                    <a id="nav-toggle" href="#" aria-controls="primary-menu" aria-expanded="false">
+                        <span class="screen-reader-text">
+                            Primary Menu                        </span>
+                        <span class="icon-bar top"></span>
+                        <span class="icon-bar middle"></span>
+                        <span class="icon-bar bottom"></span>
+                    </a>
+                    <div class="menu"><ul id="primary-menu" class="menu"><li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a href="http://duoyidu.com/o-nas/">O nas</a></li>
+<li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="http://duoyidu.com/zakres-uslug/">Zakres usług</a></li>
+<li id="menu-item-66" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66"><a href="http://duoyidu.com/kontakt/">Kontakt z nami</a></li>
+</ul></div>                </nav><!-- #site-navigation -->
+            </div>
+        </div>
+    </header>
+    <!-- #masthead -->
+    <!-- Innerpage Header Begins Here -->
+        <!-- Innerpage Header Ends Here -->
+    <div id="content" class="site-content">        <section id="intro" class="hero-slider section-block overlay" >
+            <div class="intro-slider carousel inner-controls" data-single-item data-transition="fade" data-navigation
+                 data-pagination>
+                                        <!-- Slide -->
+                        <div class="slide-item">
+                            <!-- BG Image -->
+                            <div class="bg-image layer layer-zoomOutBg">
+                                <img src="http://duoyidu.com/wp-content/uploads/2017/02/men-1979261_1280.jpg">
+                            </div>
+                            <div class="container v-center">
+                                <div class="row">
+                                    <div class="col-sm-10 col-md-6">
+                                        <div class="layer layer-fadeInLeft">
+                                            <h2 class="slide-title">Doradztwo finansowo &#8211; biznesowe</h2>
+                                        </div>
+                                        <div class="layer layer-fadeInRight">
+                                            <p>Chcesz wiedzieć czy jesteśmy skuteczni? Poproś nas o rekomendacje oraz namiary do firm, które skorzystały z naszych usług. Porozmawiaj z naszymi Klientami i dowiedz się z pierwszej ręki jak wygląda...</p>
+                                        </div>
+                                        <div class="layer layer-fadeInUp">
+                                                                                            <a href="http://duoyidu.com/slajder-1/" class="btn twp-btn twp-btn-primary">Browse More</a>
+                                                                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                    </div>
+        </section>
+            <!-- end slider-section -->
+                <!-- page-section:starts -->
+        <section class="section-about section-block">
+            <div class="block">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="section-head text-center">
+                                <h2 class="section-title solid-border">
+                                    <a href = "http://duoyidu.com/nasza-oferta/">
+                                        Nasza oferta                                    </a>
+                                </h2>
+                                <p>Poznaj zakres współpracy z nami:</p>
+                            </div>
+                            <div class="all-intros">
+                                <div class="row">
+                                                                                <div class="col-md-4">
+                                                <div class="service">
+                                                    <span>
+                                                        <i class="icon ion-stats-bars"></i>
+                                                    </span>
+                                                </div>
+                                                    <h4><a href= "http://duoyidu.com/doradztwo-dla-biznesu/">Doradztwo dla biznesu</a></h4>
+                                                    <p>Oferujemy szeroko pojęte doradztwo dla biznesu. Pomagamy w założeniu własnej działalności oraz w rozwoju już istniejących przedsiębiorstw.</p>
+                                            </div>
+                                                                                        <div class="col-md-4">
+                                                <div class="service">
+                                                    <span>
+                                                        <i class="icon ion-android-apps"></i>
+                                                    </span>
+                                                </div>
+                                                    <h4><a href= "http://duoyidu.com/doradztwo-finansowe/">Doradztwo finansowe</a></h4>
+                                                    <p>Potrzebujesz rad finansowych dla swojej firmy? Chcesz zoptymalizować koszty? Napisz do nas! Podpowiemy Ci najlepsze rozwiązania finansowe</p>
+                                            </div>
+                                                                                        <div class="col-md-4">
+                                                <div class="service">
+                                                    <span>
+                                                        <i class="icon ion-android-bookmark"></i>
+                                                    </span>
+                                                </div>
+                                                    <h4><a href= "http://duoyidu.com/doradztwo-i-szkolenia/">Audyty i szkolenia</a></h4>
+                                                    <p>Nie tylko przeprowadzamy audyty i doradzamy, ale także szkolimy - zarówno pracowników, jak i kadry zarządzającej.</p>
+                                            </div>
+                                                                            </div>
+                            </div><!-- All Intros -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+                <!-- page-section:starts -->
+        <section class="section-services section-block">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="section-head">
+                            <h2 class="section-title solid-border">
+                                Portfolio                            </h2>
+                        </div>
+                    </div>
+                </div>
+                                <div class="twp-portfolio portfolio-masonry">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <ul class="filter-group">
+                                <li><span class="filter" data-filter="*"> show all</span></li>
+                                                                        <li><span class="filter" data-filter=".cat-3">szkolenia</span></li>
+                                                                        <li><span class="filter" data-filter=".cat-4">Wdrożenie programów księgowych</span></li>
+                                                                        <li><span class="filter" data-filter=".cat-5">Audyt</span></li>
+                                                            </ul>
+                                                            <div class="view-all-portfolio">
+                                        <a href=""
+                                           class="btn twp-btn btn-block twp-btn-primary">
+                                            Dowiedz się więcej                                        </a>
+                                </div>
+                                                    </div>
+
+                        <div class="col-md-9">
+                            <div id="portfolio-grid" class="masonry">
+                                                                            <div class="portfolio-masonry-entry masonry-item cat-5">
+                                                <div class="portfolio-wrapper">
+                                                    <a href="http://duoyidu.com/doradztwo-w-zakresie-rozwoju-firmy/" class="img-hover">
+                                                        <img src="http://duoyidu.com/wp-content/uploads/2017/02/delegate-1971218_1280.jpg"
+                                                             alt="">
+                                                        <div class="hover-caption">
+                                                            <h6 class="alttitle">Audyt</h6>
+                                                            <h5><strong>Doradztwo poaudytowe</strong></h5>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div> <!-- END .portfolio-masonry-entry-->
+                                                                                <div class="portfolio-masonry-entry masonry-item cat-5">
+                                                <div class="portfolio-wrapper">
+                                                    <a href="http://duoyidu.com/audyty-wewnetrzne/" class="img-hover">
+                                                        <img src="http://duoyidu.com/wp-content/uploads/2017/02/folder-1016290_1280-1.jpg"
+                                                             alt="">
+                                                        <div class="hover-caption">
+                                                            <h6 class="alttitle">Audyt</h6>
+                                                            <h5><strong>Audyty wewnętrzne</strong></h5>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div> <!-- END .portfolio-masonry-entry-->
+                                                                                <div class="portfolio-masonry-entry masonry-item cat-4">
+                                                <div class="portfolio-wrapper">
+                                                    <a href="http://duoyidu.com/wdrozenie-programu-mala-ksiegowosc/" class="img-hover">
+                                                        <img src="http://duoyidu.com/wp-content/uploads/2017/02/bookkeeping-615384_1280-12.jpg"
+                                                             alt="">
+                                                        <div class="hover-caption">
+                                                            <h6 class="alttitle">Wdrożenie programów księgowych</h6>
+                                                            <h5><strong>Wdrożenie programu Mała Księgowość</strong></h5>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div> <!-- END .portfolio-masonry-entry-->
+                                                                                <div class="portfolio-masonry-entry masonry-item cat-3">
+                                                <div class="portfolio-wrapper">
+                                                    <a href="http://duoyidu.com/szkolenie-z-rozwoju-firmy-na-rynkach-zagtanicznych/" class="img-hover">
+                                                        <img src="http://duoyidu.com/wp-content/uploads/2017/02/office-1828124_1280.jpg"
+                                                             alt="">
+                                                        <div class="hover-caption">
+                                                            <h6 class="alttitle">szkolenia</h6>
+                                                            <h5><strong>Szkolenie z rozwoju firmy na rynkach zagranicznych</strong></h5>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div> <!-- END .portfolio-masonry-entry-->
+                                                                                <div class="portfolio-masonry-entry masonry-item cat-3">
+                                                <div class="portfolio-wrapper">
+                                                    <a href="http://duoyidu.com/szkolenie-z-wdrazania-crm-ow-w-firmie/" class="img-hover">
+                                                        <img src="http://duoyidu.com/wp-content/uploads/2017/02/meeting-83519_1280-3.jpg"
+                                                             alt="">
+                                                        <div class="hover-caption">
+                                                            <h6 class="alttitle">szkolenia</h6>
+                                                            <h5><strong>Szkolenie z wdrażania CRM-ów w firmie</strong></h5>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div> <!-- END .portfolio-masonry-entry-->
+                                                                                <div class="portfolio-masonry-entry masonry-item cat-3">
+                                                <div class="portfolio-wrapper">
+                                                    <a href="http://duoyidu.com/szkolenie-z-wdrozenia-nowych-rozwiazan-ksiegowych/" class="img-hover">
+                                                        <img src="http://duoyidu.com/wp-content/uploads/2017/02/microphone-704255_1280-3.jpg"
+                                                             alt="">
+                                                        <div class="hover-caption">
+                                                            <h6 class="alttitle">szkolenia</h6>
+                                                            <h5><strong>Szkolenie z wdrożenia nowych rozwiązań księgowych</strong></h5>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div> <!-- END .portfolio-masonry-entry-->
+                                                                </div>
+                        </div> <!-- END #portfolio-grid -->
+                    </div><!-- END .portfolio-masonry -->
+                </div>
+            </div>
+        </section>
+        <!-- page-section:ends -->
+                <section class="latest-post section-bg section-block">
+            <div class="container">
+                <div class="row">
+                    <div class="latest-blog-heading clearfix">
+                        <div class="col-sm-12 col-xs-12">
+                            <div class="section-head">
+                                <h2 class="section-title text-center">
+                                    Najnowsze porady                                </h2>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="clearfix col-sm-12 mb-20">
+                        <hr>
+                    </div>
+                    <div class="col-xs-12">
+                                                        <article class="twp-post mb-20">
+                                    <div class="row">
+                                        <div class="col-sm-12 col-md-4">
+                                            <div class="image-box image-hover inner-title">
+                                                <a href="http://duoyidu.com/doradztwo-w-zakresie-rozwoju-firmy/">
+                                                <span class="latest-blog-img image data-bg clearfix"
+                                                      data-background="http://duoyidu.com/wp-content/uploads/2017/02/delegate-1971218_1280-400x460.jpg">
+                                                </span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-12 col-md-8">
+                                            <div class="latestblog-title">
+                                                <h3 class="entry-title  alt-font text-uppercase">
+                                                    <a href="http://duoyidu.com/doradztwo-w-zakresie-rozwoju-firmy/">
+                                                        Doradztwo poaudytowe                                                    </a>
+                                                </h3>
+                                            </div>
+                                            <div class="latestblog-content">
+                                                Nasza praca nie kończy się wyłącznie na rekomendacjach poaudytowych. Służymy również pomocą na etapie ich wdrażania, a także w dalszych etapach funkcjonowania przedsiębiorstwa, czuwając czy proces ten przebiega prawidłowo.                                            </div>
+                                            <div class="latestblog-meta">
+                                                <ul class="twp-postmeta list-unstyled">
+                                                    <li>
+                                                        <a class="twp-postmeta-author"
+                                                           href="http://duoyidu.com/author/duo/">
+                                                            <i class="ion-android-person"></i> duo                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                                                                                <a class="twp-postmeta-date"
+                                                           href="http://duoyidu.com/2017/06/13/">
+                                                            <i class="ion-calendar"></i> Lut 13, 2017                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </article>
+                                                                <article class="twp-post mb-20">
+                                    <div class="row">
+                                        <div class="col-sm-12 col-md-4">
+                                            <div class="image-box image-hover inner-title">
+                                                <a href="http://duoyidu.com/audyty-wewnetrzne/">
+                                                <span class="latest-blog-img image data-bg clearfix"
+                                                      data-background="http://duoyidu.com/wp-content/uploads/2017/02/folder-1016290_1280-1-400x460.jpg">
+                                                </span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-12 col-md-8">
+                                            <div class="latestblog-title">
+                                                <h3 class="entry-title  alt-font text-uppercase">
+                                                    <a href="http://duoyidu.com/audyty-wewnetrzne/">
+                                                        Audyty wewnętrzne                                                    </a>
+                                                </h3>
+                                            </div>
+                                            <div class="latestblog-content">
+                                                Przeprowadziliśmy już setki audytów wewnętrznych w firmach jednoosobowych, spółkach i dużych przedsiębiorstwach. Wyeliminowanie nieprawidłowości spowodowało dynamiczny rozwój firm.                                            </div>
+                                            <div class="latestblog-meta">
+                                                <ul class="twp-postmeta list-unstyled">
+                                                    <li>
+                                                        <a class="twp-postmeta-author"
+                                                           href="http://duoyidu.com/author/duo/">
+                                                            <i class="ion-android-person"></i> duo                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                                                                                <a class="twp-postmeta-date"
+                                                           href="http://duoyidu.com/2017/06/13/">
+                                                            <i class="ion-calendar"></i> Lut 13, 2017                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </article>
+                                                                <article class="twp-post mb-20">
+                                    <div class="row">
+                                        <div class="col-sm-12 col-md-4">
+                                            <div class="image-box image-hover inner-title">
+                                                <a href="http://duoyidu.com/wdrozenie-programu-mala-ksiegowosc/">
+                                                <span class="latest-blog-img image data-bg clearfix"
+                                                      data-background="http://duoyidu.com/wp-content/uploads/2017/02/bookkeeping-615384_1280-12-400x460.jpg">
+                                                </span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-12 col-md-8">
+                                            <div class="latestblog-title">
+                                                <h3 class="entry-title  alt-font text-uppercase">
+                                                    <a href="http://duoyidu.com/wdrozenie-programu-mala-ksiegowosc/">
+                                                        Wdrożenie programu Mała Księgowość                                                    </a>
+                                                </h3>
+                                            </div>
+                                            <div class="latestblog-content">
+                                                Prowadzisz działalność jednoosobową? Chcesz wdrożyć program, który Cię odciąży i usprawni twoją pracę? Napisz do nas - pomożemy Ci zarówno w jego zakupie, jak i przeprowadzimy szkolenie z jego użytkowania.                                            </div>
+                                            <div class="latestblog-meta">
+                                                <ul class="twp-postmeta list-unstyled">
+                                                    <li>
+                                                        <a class="twp-postmeta-author"
+                                                           href="http://duoyidu.com/author/duo/">
+                                                            <i class="ion-android-person"></i> duo                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                                                                                <a class="twp-postmeta-date"
+                                                           href="http://duoyidu.com/2017/06/13/">
+                                                            <i class="ion-calendar"></i> Lut 13, 2017                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </article>
+                                                                <article class="twp-post mb-20">
+                                    <div class="row">
+                                        <div class="col-sm-12 col-md-4">
+                                            <div class="image-box image-hover inner-title">
+                                                <a href="http://duoyidu.com/szkolenie-z-rozwoju-firmy-na-rynkach-zagtanicznych/">
+                                                <span class="latest-blog-img image data-bg clearfix"
+                                                      data-background="http://duoyidu.com/wp-content/uploads/2017/02/office-1828124_1280-400x460.jpg">
+                                                </span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-12 col-md-8">
+                                            <div class="latestblog-title">
+                                                <h3 class="entry-title  alt-font text-uppercase">
+                                                    <a href="http://duoyidu.com/szkolenie-z-rozwoju-firmy-na-rynkach-zagtanicznych/">
+                                                        Szkolenie z rozwoju firmy na rynkach zagranicznych                                                    </a>
+                                                </h3>
+                                            </div>
+                                            <div class="latestblog-content">
+                                                "Myśl lokalnie, działań globalnie", to jedna z ważniejszych zasad w biznesie. Jeśli chcesz rozszerzyć działalność swojej firmy na rynkach zagranicznych, nie czekaj ani chwili dłużej. Pomożemy w załatwieniu wszystkich formalności.                                            </div>
+                                            <div class="latestblog-meta">
+                                                <ul class="twp-postmeta list-unstyled">
+                                                    <li>
+                                                        <a class="twp-postmeta-author"
+                                                           href="http://duoyidu.com/author/duo/">
+                                                            <i class="ion-android-person"></i> duo                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                                                                                <a class="twp-postmeta-date"
+                                                           href="http://duoyidu.com/2017/06/13/">
+                                                            <i class="ion-calendar"></i> Lut 13, 2017                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </article>
+                                                    </div>
+                                            <div class="col-sm-4 col-sm-offset-4 col-xs-12">
+                            <div class="text-center">
+                                <a href=""
+                                   class="btn twp-btn btn-block twp-btn-primary mt-20 mb-20">
+                                    ALL NEWS ON OUR BLOG                                </a>
+                            </div>
+                        </div>
+                                    </div>
+            </div>
+        </section>
+        </div><!-- #content -->
+<footer id="colophon" class="site-footer primary-bg" role="contentinfo">
+    <div class="container-fluid">
+        <!-- end col-12 -->
+        <div class="row">
+                <section class="wrapper block-section footer-widget pt-40 pb-40">
+            <div class="container overhidden">
+                <div class="contact-inner">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="row">
+                                                                                                                                                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+            <div class="copyright-area">
+                <div class="site-info">
+                    <h4 class="site-copyright">
+                        Copyright All right reserved                        <span class="sep"> | </span>
+                        Theme: Bizprime by <a href="http://themeinwp.com/" target = "_blank" rel="designer">Themeinwp </a>                    </h4>
+                </div><!-- .site-info -->
+            </div>
+        </div>
+        <!-- end col-12 -->
+    </div>
+    <!-- end container -->
+</footer>
+</div><!-- #page -->
+<a id="scroll-up"><i class="ion-ios-arrow-up"></i></a>
+<script type='text/javascript' src='http://duoyidu.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Potwierd\u017a, \u017ce nie jeste\u015b robotem."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://duoyidu.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6.1'></script>
+<script type='text/javascript' src='http://duoyidu.com/wp-content/themes/bizprime/js/navigation.js?ver=20151215'></script>
+<script type='text/javascript' src='http://duoyidu.com/wp-content/themes/bizprime/js/skip-link-focus-fix.js?ver=20151215'></script>
+<script type='text/javascript' src='http://duoyidu.com/wp-content/themes/bizprime/assets/libraries/owlcarousel/js/owl.carousel.min.js?ver=4.7.5'></script>
+<script type='text/javascript' src='http://duoyidu.com/wp-content/themes/bizprime/assets/libraries/bootstrap/js/bootstrap.min.js?ver=4.7.5'></script>
+<script type='text/javascript' src='http://duoyidu.com/wp-content/themes/bizprime/assets/libraries/isotope/isotope.pkgd.min.js?ver=4.7.5'></script>
+<script type='text/javascript' src='http://duoyidu.com/wp-content/themes/bizprime/assets/twp/js/custom-script.js?ver=4.7.5'></script>
+<script type='text/javascript' src='http://duoyidu.com/wp-includes/js/wp-embed.min.js?ver=4.7.5'></script>
+
+</body>
+</html>

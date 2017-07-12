@@ -1,0 +1,506 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head itemscope="" itemtype="http://schema.org/WebSite"><link rel="manifest" href="/manifest.json" /><title>
+	Exercise and Fitness Equipment for a Better You
+</title><meta http-equiv="Content-Language" content="en" /><link href="sites/everythingfitness/views/_default/style/Style_ver_635725699616734258.css" text="text/css" rel="stylesheet" /><meta name="keywords" content="fitness equipment,exercise equipment,home fitness equipment,weight training" /><meta name="description" content="Learn about exercise and fitness equipment then save big when it&#39;s time to make your purchase." /><meta name="revisit-after" content="10" /><meta name="Rating" content="Kid Safe" /><meta name="Pragma" content="no-cache" /><meta name="distribution" content="Global" /><meta name="Copyright" content="© 2007" /><meta name="ROBOTS" content="NOODP" /><meta name="ROBOTS" content="INDEX,FOLLOW" /><meta name="google-site-verification" content="NzKdts6u0t6TzBTAlPXHE9JiYvkYwYxXCluT2ZRrVL8" /></head>
+
+
+<body class="ui-mobile-viewport">
+    
+        <script type="text/javascript" src="HttpCombiner.ashx?s=/sites/scripts/prototype-1.7.js,/sites/scripts/scriptaculous.js,/sites/scripts/builder.js,/sites/scripts/effects.js,/sites/scripts/common.js,/sites/scripts/clicktale.js,/sites/scripts/tooltip-min.js,/sites/scripts/window-min.js,/sites/everythingfitness/scripts/dhtmlwindow.js&t=text/javascript"></script>
+            
+<div id="dhtmltooltip"></div>
+    <script type="text/javascript">        
+        var ctUserDisplay = "|server_10.236.24.60|lang=en";
+        var ctRecordingRatio = "";
+        var ctId = "";
+        
+        //localization needed in the javascript
+        var lc_LoginAndPost = "Login and Post";
+        var lc_LoginWithFacebookAndPost = "Login with Facebook and Post";
+        var lc_LoginWithFacebook = "Login with Facebook";
+        
+    </script>    
+
+
+        
+    <!--script src="sites/scripts/prototype-1.5.1.1-min.js" type="text/javascript"></script-->
+    <!--script src="sites/scripts/scriptaculous.js" type="text/javascript"></script-->
+    <!--script src="sites/scripts/common_ver_635822381667001052.js" type="text/javascript"></script-->
+
+
+
+<!--script src="sites/scripts/tooltip-min.js" type="text/javascript"></script-->
+<div id="top-bar" style="display:none;"></div>
+<div id="outerDiv">
+    <div id="main">
+
+        <form name="form1" method="post" action="/controller.aspx?error=not_found" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTYyMjE2NTc0OQ8WAh4TVmFsaWRhdGVSZXF1ZXN0TW9kZQIBFgRmD2QWAgIJDxYEHgRuYW1lBQxkaXN0cmlidXRpb24eB2NvbnRlbnQFBkdsb2JhbGQCAQ8WAh4GYWN0aW9uBSAvY29udHJvbGxlci5hc3B4P2Vycm9yPW5vdF9mb3VuZBYEZg9kFgICAQ9kFgJmD2QWAmYPZBYGAgEPDxYCHgdWaXNpYmxlZ2RkAgIPDxYCHghJbWFnZVVybAU1fi9zaXRlcy9ldmVyeXRoaW5nZml0bmVzcy9pbWFnZXMvaGVhZGVyL2dvLXNlYXJjaC5naWZkZAIDDw9kFgIeB29uRm9jdXMFMWlmKHRoaXMudmFsdWU9PXRoaXMuZGVmYXVsdFZhbHVlKXt0aGlzLnZhbHVlPScnO31kAgEPZBYEAgEPEGQQFQIACWVmTXZ0VGVzdBUCAAllZk12dFRlc3QUKwMCZ2cWAWZkAgIPDxYCHwRnZBYCAgcPFgIeBVZhbHVlBQllZk12dFRlc3RkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBQ5jdGwwNiRjdGwwMCRHb7JO2S2t11Wg8XRw7TVA3Ota2XkU" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="3478DF7C" />
+            
+                <div id="Panel1">
+	
+                
+
+<!--script src="sites/everythingfitness/scripts/livehelp.js" type="text/javascript"></script-->
+<!--script type="text/javascript" src="sites/everythingfitness/scripts/dhtmlwindow.js" ></script-->
+
+<div id="ctl06_ctl00_googleTracking">
+		
+    <script type="text/javascript">
+    try{
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-17612646-1']);
+        _gaq.push(['_setVar', '|server_10.236.24.60'],
+                  ['_setCampContentKey', '|server_10.236.24.60'],
+                  ['_trackPageview'],
+                  ['_trackPageLoadTime']  );
+    } catch(err) {}
+    </script>
+    <script type="text/javascript">
+    (function() {
+    var ga = document.createElement('script');     ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:'   == document.location.protocol ? 'https://ssl'   : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+    </script>
+
+	</div>  
+
+<script type="text/javascript">
+    function showTrackYourOrderPopup()
+    {        
+        ajaxwin=dhtmlwindow.open("trackOrderWin", "div", "trackYourOrder", "Order Status", "width=300px,height=125px,left=550px,top=100px,resize=1,scrolling=0")
+        return false;
+    }
+</script>
+
+<div style="width:100%;">
+
+<div id="main">
+
+
+	<div class="headerTopBar">
+		<div style="float:right;" class="headerCart">&nbsp;</div>
+		<div class="headerTopLinks">&nbsp;</div>
+
+		<div style="float:right; clear:both; margin:20px 15px 0 0; padding:0px;"><div style="float:right;"><input type="image" name="ctl06$ctl00$Go" id="ctl06_ctl00_Go" src="sites/everythingfitness/images/header/go-search.gif" border="0" /></div><input name="ctl06$ctl00$SearchBox" type="text" value="What would you like to search for?" maxlength="160" id="ctl06_ctl00_SearchBox" class="headerSearchTextBox" onFocus="if(this.value==this.defaultValue){this.value=&#39;&#39;;}" /></div>
+	</div>
+
+    <div class="logoContainer">
+        <div class="headerLogo"><div style="float:left;"><a href="/"><img src="sites/everythingfitness/images/header/logo.jpg" border="0" class="logoA" /></a></div><div class="headerTitle"></div></div>
+    </div>
+     
+ 	<div class="top_menu clearfix">
+		<ul>
+			<li class="Mspacer"></li>
+			<li class="w_d_down" onmouseover="display_submenu(this)" onmouseout="bhhag(this,'out')"><a class="one"  href="/home-fitness-equipment.html">HOME FITNESS</a>
+				<ul class="clearfix">
+					<li><a href="/exercise-mats.html">Exercise Mats</a></li>
+					<li><a href="/exercise-ball.html">Exercise Balls</a></li>
+					<li><a href="/chin-up-bars.html">Chin Up Bars</a></li>
+					<li><a href="/exercise-bands.html">Exercise Bands</a></li>
+					<li><a href="/ab-machines.html">Ab Machines</a></li>
+					<li><a href="/wobble-boards.html">Wobble Boards</a></li>
+					<li><a href="/stretching-machine.html">Stretching Machines</a></li>	
+					<li><a href="/grip-strength.html">Grip Strength</a></li>	
+					<li><a href="/foam-roller.html">Foam Rollers</a></li>	
+					<li><a href="/body-fat-calipers.html">Body Fat Calipers</a></li>	
+					<li><a href="/body-fat-scale.html">Body Fat Scales</a></li>	
+					<li><a href="/home-fitness.html">Other Equipment</a></li>														
+				</ul>
+			</li>
+			<li class="Mspacer"></li>
+			<li class="w_d_down" onmouseover="display_submenu(this)" onmouseout="bhhag(this,'out')"><a class="two" href="/aerobic-exercise.html">CARDIO EQUIPMENT</a>
+				<ul class="clearfix">
+
+			        <li><a href="/treadmills.html">Treadmills</a></li>
+					<li><a href="/elliptical-trainer.html">Elliptical Trainers</a></li>
+					<li><a href="/rowing-machine.html">Rowing Machines</a></li>
+					<li><a href="/exercise-bikes.html">Exercise Bikes</a></li>
+					<li><a href="/sauna-suit.html">Sauna Suits</a></li>
+					<li><a href="/jumprope.html">Jumpropes</a></li>
+				</ul>
+			</li>
+			<li class="Mspacer"></li>
+			<li class="w_d_down" onmouseover="display_submenu(this)" onmouseout="bhhag(this,'out')"><a class="seven" href="/weight-training.html">WEIGHT TRAINING</a>
+				<ul class="clearfix">
+			        <li><a href="/home-gyms.html">Home Gyms</a></li>
+                    <li><a href="/weight-bench.html">Weight Bench</a></li>
+                    <li><a href="/dumbbells.html">Dumbells</a></li>
+                    <li><a href="/barbells.html">Barbells</a></li>
+                    <li><a href="/weight-lifting-gloves.html">Weight Lifting Gloves</a></li>
+                    <li><a href="/medicine-ball.html">Medicine Balls</a></li>
+                    <li><a href="/wearable-weights.html">Wearable Weights</a></li>
+                    </ul>
+			</li>
+			<li class="Mspacer"></li>
+			<li class="w_d_down"><a class="three" href="/heart-rate-monitors.html">HEART RATE MONITORS</a></li>
+			<li class="Mspacer"></li>
+			<li class="w_d_down"><a class="four" href="/pedometer.html">PEDOMETERS</a>
+			</li>
+			<li class="Mspacer"></li>
+			<li class="w_d_down" onmouseover="display_submenu(this)" onmouseout="bhhag(this,'out')"><a class="five" href="/yoga-supplies.html">YOGA</a>
+				<ul class="clearfix">			
+                    <li><a href="/pilates-equipment.html">Pilates Equipment</a></li>
+                    <li><a href="/yoga-mats.html">Yoga Mats</a></li>
+                    <li><a href="/yoga-mat-bags.html">Yoga Mat Bags</a></li>
+                    <li><a href="/yoga-blocks.html">Yoga Blocks</a></li>
+                    <li><a href="/yoga-videos.html">Yoga Videos</a></li>
+                    <li><a href="/yoga-kits.html">Yoga Kits</a></li>
+				</ul>
+			</li>		
+			<li class="Mspacer"></li>
+			<li class="w_d_down" onmouseover="display_submenu(this)" onmouseout="bhhag(this,'out')"><a class="six" href="/boxingequip.html">BOXING EQUIPMENT</a>
+				<ul class="clearfix">	
+                    <li><a href="/bag-gloves.html">Bag Gloves</a></li>		
+                    <li><a href="/boxing-gloves.html">Boxing Gloves</a></li>
+                    <li><a href="/speed-bag.html">Speed Bags</a></li>
+                    <li><a href="/heavy-bags.html">Heavy Bags</a></li>
+                    <li><a href="/free-standing-bags.html">Free Standing Bags</a></li>
+                    <li><a href="/mouth-guards.html">Mouth Guards</a></li>
+				</ul>
+            </li>													
+		</ul>
+
+	</div> <!--//top_menu-->
+
+
+	
+
+    
+    <div id="trackYourOrder" style="display:none;">
+        <span  class="recentOrderPopup">
+            An EverythingFitness.com order was placed within the last 60 days from this computer.<br />
+            <br /><br />
+            <a href="/controller.aspx?type=view&info=" rel="nofollow">Check Order Status</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a id="ctl06_ctl00_NotMyOrderButton" href="javascript:__doPostBack(&#39;ctl06$ctl00$NotMyOrderButton&#39;,&#39;&#39;)">Remove this Message.</a>
+        </span>
+    </div>
+
+<!-- hack to show the shop all on the this page -->
+<style>
+    .product_ShopAll
+    {
+        display:inline;
+    }
+</style>
+
+
+
+
+<div class="category2_content clearfix">
+<div class="category2_left">
+
+<div class="category2_left">
+<div class="category2_small_head">Shop</div>
+<div class="nav">
+	<strong><a href="/home-fitness-equipment.html">HOME FITNESS</a></strong><br/>
+		<a href="/exercise-mats.html">Exercise Mats</a><br/>
+		<a href="/exercise-ball.html">Exercise Balls</a><br/>
+		<a href="/chin-up-bars.html">Chin Up Bars</a><br/>
+		<a href="/exercise-bands.html">Exercise Bands</a><br/>	
+		<a href="/ab-machines.html">Ab Machines</a><br/>	
+		<a href="/wobble-boards.html">Wobble Boards</a><br/>		
+		<a href="/stretching-machine.html">Stretching Machines</a><br/>	
+		<a href="/grip-strength.html">Grip Strength</a><br/>	
+		<a href="/foam-roller.html">Foam Rollers</a><br/>	
+		<a href="/body-fat-calipers.html">Body Fat Calipers</a><br/>
+		<a href="/body-fat-scale.html">Body Fat Scales</a><br/>
+		<a href="/home-fitness.html">Other Equipment</a><br/>		
+	<strong><a href="/aerobic-exercise.html">CARDIO EQUIPMENT</a></strong><br/>
+		<a href="/treadmills.html">Treadmills</a><br/>
+		<a href="/elliptical-trainer.html">Elliptical Trainers</a><br/>
+		<a href="/rowing-machine.html">Rowing Machines</a><br/>
+		<a href="/exercise-bikes.html">Exercise Bikes</a><br/>
+		<a href="/sauna-suit.html">Sauna Suits</a><br/>	
+		<a href="/jumprope.html">Jumpropes</a><br/>
+    <strong><a href="/weight-training.html">WEIGHT TRAINING</a></strong><br />
+        <a href="/home-gyms.html">Home Gyms</a><br />
+        <a href="/weight-bench.html">Weight Bench</a><br />
+        <a href="/dumbbells.html">Dumbells</a><br />
+        <a href="/barbells.html">Barbells</a><br />
+        <a href="/weight-lifting-gloves.html">Weight Lifting Gloves</a><br />
+        <a href="/medicine-ball.html">Medicine Balls</a><br />
+        <a href="/wearable-weights.html">Wearable Weights</a><br />	
+	<strong><a href="/heart-rate-monitors.html">HEART RATE MONITORS</a></strong><br/>
+	<strong><a href="/pedometer.html">PEDOMETERS</a></strong><br/>
+	<strong><a href="/yoga-supplies.html">YOGA</a></strong><br/>
+		<a href="/pilates-equipment.html">Pilates Equipment</a><br/>		
+		<a href="/yoga-mats.html">Yoga Mats</a><br />	
+		<a href="/yoga-mat-bags.html">Yoga Mat Bags</a><br/>
+        <a href="/yoga-blocks.html">Yoga Blocks</a><br/>
+        <a href="/yoga-videos.html">Yoga Videos</a><br/>
+        <a href="/yoga-kits.html">Yoga Kits</a><br/>
+	<strong><a href="/boxingequip.html">BOXING EQUIPMENT</a></strong><br/>
+        <a href="/bag-gloves.html">Bag Gloves</a><br />		
+        <a href="/boxing-gloves.html">Boxing Gloves</a><br />
+        <a href="/speed-bag.html">Speed Bags</a><br />
+        <a href="/heavy-bags.html">Heavy Bags</a><br />
+        <a href="/free-standing-bags.html">Free Standing Bags</a><br />
+        <a href="/mouth-guards.html">Mouth Guards</a><br />
+</div>
+</div>
+</div>
+    
+<div class="category_2_right">
+       <div class="category_2_right_inner">
+        <style> .cat_holiday p {  top:30px; left:28px; margin:0px; } .cat_holiday span font { color:#ffffff; font-size:30px } .cat_holiday p strong { line-height:34px; color:#ffffff; font-size:33px;} .cat_holiday b { font-size:20px; font-weight:normal; }  .banner_main_imgwrap div a { font-size:19px; font-family:"Century Gothic", "Sans-serif"; color:#FFFFFF; height:20px; line-height:86px; padding:0px 0px 0px 0; text-decoration:none; letter-spacing:1px;} </style>      
+        
+<!--        <div class="banner_main_imgwrap cat_holiday" onclick="window.location='/chalfoamspar.html';">      <p>       <strong>Dyna Sparring Gear Set<br></strong><br>       <span><b>A full set of Macho Sparring Gear <br>for <font>$39.99</font> and No, Thats not a typo.<br>              </b></span></p><b> </b><div style="background: transparent url(/sites/everythingfitness/images/catBanners/catBanner_sparring_buy.jpg) repeat scroll 0% 0%; overflow: hidden; width: 134px; position: absolute; left: 320px; top: 323px; height: 63px; text-align: center; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous;"><b><a href="/chalfoamspar.html">buy now</a></b></div><b>      
+        <img alt="Sparring Gear" src="/sites/everythingfitness/images/catBanners/catBanner_sparring.jpg">     </b></div><b> 
+        </b><div class="category2_small_head"><b>Featured Categories</b></div><b>              </b><div class="featured_img_right"><b>                          </b><div class="featured_imgwrap"><b>                          </b><div class="featured_imgwrap_in"><b><a href="/karate1.html"><img border="0/" alt="Karate Uniforms" src="/mas/karate-uniforms/items/featured/12ozheavweig.jpg"><br>Karate Uniforms</a></b></div><b>                          </b><div class="featured_imgwrap_in"><b><a href="/sparringgear.html"><img border="0/" alt="Sparring Gear" src="/mas/sparring-gear/items/featured/tr-bg-20.jpg"><br>Sparring Gear</a></b></div><b>                  </b></div><b>                          </b><div class="featured_imgwrap"><b>                   </b><div class="featured_imgwrap_in"><b><a href="/gifts.html"><img border="0" alt="Martial Arts Gifts" src="/mas/martial-arts-gifts/items/featured/blackbeltbuddy.jpg"><br>Gifts</a></b></div><b>                                 </b><div class="featured_imgwrap_in"><b><a href="/boxing-gloves.html"><img border="0" alt="Boxing Gloves" src="/mas/boxing-gloves/items/featured/competition-mma-gloves.jpg"><br>Boxing Gloves</a></b></div><b>                          </b></div><b>                          </b><div style="border-bottom: medium none;" class="featured_imgwrap"><b>                                  </b><div class="featured_imgwrap_in"><b><a href="/accessories.html"><img border="0" alt="Martial Arts Shoes" src="/mas/karate-shoes/items/featured/trainershoes.jpg"><br>Martial Arts Shoes</a></b></div><b>                                                                                             </b><div class="featured_imgwrap_in"><b><a href="/bodyshields.html"><img border="0" alt="Targets and Shields" src="/mas/body-shield/items/featured/curvedshield.jpg"><br>Targets &amp; Shields</a></b></div><b>     </b></div><b> </b></div>
+-->
+
+<div class="buy_it_now">
+    <img alt="" src="sites/everythingfitness/images/buy_it_nowimg.jpg">
+    <p>
+	    Take advantage of our everyday low shipping rates<br /><strong>Free shipping on most orders over $19!</strong><br><span></span>
+    </p>
+</div>
+
+<b>        
+    </b><div style="display: block; clear: both;">
+<b>    </b><h2 class="category2_small_head"><b>Featured Products</b></h2>
+<b>        </b><div class="category2_products_wrap">
+<b>            </b><table>
+                <tbody><tr>
+                    <td class="products clearfix"><table cellspacing="0" border="0" style="border-collapse: collapse;" id="ctl03_ctl01_Featured_1">
+		<tbody><tr>
+			<td>
+	<div class="productsimg"><a href="/tr-ex-90.html"><img border="0" src="http://product_images_ef.s3.amazonaws.com/tr-ex-90/product/category/tr-ex-90.jpg" style="z-index: 10;"></a>        
+	</div>
+	<div class="products_inner">
+		<strong><a href="/tr-ex-90.html">6 lb. Rubber Fitness Ball with Strap</a></strong><br>
+		
+		<span>
+            
+                                
+            <div id="ctl03_ctl01_Featured_1_ctl00_ctl00_RegularPriceDisplay">
+				
+                <span>$17.95</span>
+            
+			</div>		
+		</span><br><br>
+		These weighted rubber exercise balls have a unique Velcro strap that can be attached firmly ...
+	</div>
+	<a style="text-decoration: none;" href="/tr-ex-90.html"><img class="products_bluebtn" src="sites/everythingfitness/images/view_details.gif"></a>
+</td>
+		</tr>
+	</tbody></table></td>
+                    <td class="products clearfix"><table cellspacing="0" border="0" style="border-collapse: collapse;" id="ctl03_ctl01_Featured_2">
+		<tbody><tr>
+			<td>
+	<div class="productsimg"><a href="/st-rb-17.html"><img border="0" src="http://product_images_ef.s3.amazonaws.com/st-rb-17/product/category/st-rb-17.jpg" style="z-index: 10;"></a>        
+	</div>
+	<div class="products_inner">
+		<strong><a href="/st-rb-17.html">Home Fitness Gift Set</a></strong><br>
+
+		<span>
+            <div id="ctl03_ctl01_Featured_2_ctl00_ctl00_SalePriceDisplay">
+				
+                <span>$49.95</span>
+            
+			</div>
+                                
+            		
+		</span><br><br>
+		The Home Fitness Set includes; dumbbells, a jump rope, ankle and wrist weights, an...
+	</div>
+	<a style="text-decoration: none;" href="/st-rb-17.html"><img class="products_bluebtn" src="sites/everythingfitness/images/view_details.gif"></a>
+</td>
+		</tr>
+	</tbody></table></td>
+                    <td class="products clearfix"><table cellspacing="0" border="0" style="border-collapse: collapse;" id="ctl03_ctl01_Featured_3">
+		<tbody><tr>
+			<td>
+	<div class="productsimg"><a href="/hr-gi-56.html"><img border="0" src="http://product_images_ef.s3.amazonaws.com/hr-gi-56/product/category/hr-gi-56.jpg" style="z-index: 10;"></a>        
+	</div>
+	<div class="products_inner">
+		<strong><a href="/hr-gi-56.html">Strapless Heart Rate Monitor</a></strong><br>
+		
+		<span>
+            
+                                
+            <div id="ctl03_ctl01_Featured_3_ctl00_ctl00_RegularPriceDisplay">
+				
+                <span>$47.95</span>
+            
+			</div>		
+		</span><br><br>
+		ECG Accurate without a chest transmitter... Time of day/daily alarm...
+	</div>
+	<a style="text-decoration: none;" href="/hr-gi-56.html"><img class="products_bluebtn" src="sites/everythingfitness/images/view_details.gif"></a>
+</td>
+		</tr>
+	</tbody></table></td>
+                    <td class="products clearfix"><table cellspacing="0" border="0" style="border-collapse: collapse;" id="ctl03_ctl01_Featured_4">
+		<tbody><tr>
+			<td>
+	<div class="productsimg"><a href="/yo-ma-70.html"><img border="0" src="http://product_images_ef.s3.amazonaws.com/yo-ma-70/product/category/yo-ma-70.jpg" style="z-index: 10;"></a>        
+	</div>
+	<div class="products_inner">
+		<strong><a href="/yo-ma-70.html">Skidless Mat Towels</a></strong><br>
+		
+		<span>
+            
+                                
+            <div id="ctl03_ctl01_Featured_4_ctl00_ctl00_RegularPriceDisplay">
+				
+                <span>$54.95</span>
+            
+			</div>		
+		</span><br><br>
+		 Yogitoes Skidless Mat Towels are made for all types of people practicing yoga. Creates a non-slip surface...
+	</div>
+	<a style="text-decoration: none;" href="/yo-ma-70.html"><img class="products_bluebtn" src="sites/everythingfitness/images/view_details.gif"></a>
+</td>
+		</tr>
+	</tbody></table></td>
+                </tr>
+                <tr>
+                    <td class="products clearfix"><table cellspacing="0" border="0" style="border-collapse: collapse;" id="ctl03_ctl01_Featured_5">
+		<tbody><tr>
+			<td>
+	<div class="productsimg"><a href="/tr-ma-22.html"><img border="0" src="http://product_images_ef.s3.amazonaws.com/tr-ma-22/product/category/tr-ma-22.jpg" style="z-index: 10;"></a>        
+	</div>
+	<div class="products_inner">
+		<strong><a href="/tr-ma-22.html">Exercise Mat</a></strong><br>
+		<span>
+            <div id="ctl03_ctl01_Featured_5_ctl00_ctl00_SalePriceDisplay">
+				
+                <span>$19.95</span>
+            
+			</div>
+                                
+            		
+		</span><br><br>
+		This rolled durafoam mat is 24" x 72". Its 3/8 pad makes workouts more comfortable...
+	</div>
+	<a style="text-decoration: none;" href="/tr-ma-22.html"><img class="products_bluebtn" src="sites/everythingfitness/images/view_details.gif"></a>
+</td>
+		</tr>
+	</tbody></table></td>
+                    <td class="products clearfix"><table cellspacing="0" border="0" style="border-collapse: collapse;" id="ctl03_ctl01_Featured_6">
+		<tbody><tr>
+			<td>
+	<div class="productsimg"><a href="/tr-bg-20.html"><img border="0" src="http://product_images_ef.s3.amazonaws.com/tr-bg-20/product/category/tr-bg-20.jpg" style="z-index: 10;"></a>        
+	</div>
+	<div class="products_inner">
+		<strong><a href="/tr-bg-20.html">Johnny Sockitomee</a></strong><br>
+		<div class="red1" id="ctl03_ctl01_Featured_6_ctl00_ctl00_SaleDisplay">
+				On Sale
+			</div>
+		<span>
+            <div id="ctl03_ctl01_Featured_6_ctl00_ctl00_SalePriceDisplay">
+				
+                <strike>$159.95</strike>&nbsp;
+                <span>$139.95</span>
+            
+			</div>
+                                
+            		
+		</span><br><br>
+		Combining the world renown features of the Everlast Nevatear fitness bags with a precisely engineered ...
+	</div>
+	<a style="text-decoration: none;" href="/tr-bg-20.html"><img class="products_bluebtn" src="sites/everythingfitness/images/view_details.gif"></a>
+</td>
+		</tr>
+	</tbody></table></td>
+                    <td class="products clearfix"><table cellspacing="0" border="0" style="border-collapse: collapse;" id="ctl03_ctl01_Featured_7">
+		<tbody><tr>
+			<td>
+	<div class="productsimg"><a href="/yo-ma-45.html"><img border="0" src="http://product_images_ef.s3.amazonaws.com/yo-ma-45/product/category/yo-ma-45.jpg" style="z-index: 10;"></a>        
+	</div>
+	<div class="products_inner">
+		<strong><a href="/yo-ma-45.html">Nature Collection Yoga Mats</a></strong><br>
+		
+		<span>
+            
+                                
+            <div id="ctl03_ctl01_Featured_7_ctl00_ctl00_RegularPriceDisplay">
+				
+                <span>$29.95</span>
+            
+			</div>		
+		</span><br><br>
+		Great non-slip surface ... Beautifully blended, unique patterns ...
+	</div>
+	<a style="text-decoration: none;" href="/yo-ma-45.html"><img class="products_bluebtn" src="sites/everythingfitness/images/view_details.gif"></a>
+</td>
+		</tr>
+	</tbody></table></td>
+                    <td class="products clearfix"><table cellspacing="0" border="0" style="border-collapse: collapse;" id="ctl03_ctl01_Featured_8">
+		<tbody><tr>
+			<td>
+	<div class="productsimg"><a href="/tr-ex-25.html"><img border="0" src="http://product_images_ef.s3.amazonaws.com/tr-ex-25/product/category/tr-ex-25.jpg" style="z-index: 10;"></a>        
+	</div>
+	<div class="products_inner">
+		<strong><a href="/tr-ex-25.html">Door Gym</a></strong><br>
+	
+		<span>
+            <div id="ctl03_ctl01_Featured_8_ctl00_ctl00_RegularPriceDisplay">
+				
+                <span>$49.95</span>
+            
+			</div>		
+		</span><br><br>
+		 The simple device uses the weight of your body leveraged against the doorframe...
+	</div>
+	
+	<a style="text-decoration: none;" href="/tr-ex-25.html"><img class="products_bluebtn" src="sites/everythingfitness/images/view_details.gif"></a>
+</td>
+		</tr>
+	</tbody></table></td>
+                </tr>
+            </tbody></table>
+<b>        </b></div><!--//products_wrap-->
+<b>    </b></div>
+<b>    </b></div>
+
+</div>
+
+
+
+
+
+
+<div style=" clear:both;"><img src="sites/everythingfitness/images/spacer.gif" style="height:.5em; width:100%;" />
+
+<a name="footerLogos"></a>
+	<div class="footerLogos">
+		<div class="copyright">&copy; 1998 - 2017 EverythingFitness.com All Rights Reserved.
+		</div>
+
+	</div>
+
+</div>
+</div>
+</div>
+
+
+
+
+
+</div>    
+
+            <div class="footer_ClearSession">
+                      
+                                 
+           </div>
+        </form>
+
+    </div>
+</div> 
+
+    <!-- No ClickTale -->
+    <!-- Local Address: 10.236.24.60
+         Remote Address: 192.198.147.164
+         Now: 6/8/2017 6:52:31 AM
+    %>
+     -->     
+</body>
+</html> 

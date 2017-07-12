@@ -1,0 +1,1 @@
+/home/choowilson/Downloads/opencv_folder/opencv/samples/cpp/DisplayImage/CMakeFiles/DisplayImage.dir

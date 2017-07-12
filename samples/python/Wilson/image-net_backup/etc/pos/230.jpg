@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE HTML PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.2//EN" "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile12.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-MY" dir="ltr">
+
+<head>
+ <!-- data-info:v:2.0.6358.301;a:78135623-de0a-4199-a6a4-5000b3b03308;cn:18;az:{did:e49696a9a3d34998b8fe9dc831844260, rid: 18, sn: easia-prod-hp, dt: 2017-05-29T14:13:20.2321711Z, bt: 2017-05-29T00:10:21.0728735Z};ddpi:1;dpio:;dpi:1;dg:downlevel.pc;th:start;PageName:startPage;m:en-my;cb:;l:en-my;mu:en-my;ud:{cid:,vk:homepage,n:,l:en-my,ck:};xd:BBr8RiS;ovc:f;al:;fxd:f;xdpub:2017-05-02 05:04:34Z;xdmap:2017-06-08 08:55:47Z;axd:;f:muidflt12cf,muidflt21cf,muidflt258cf,muidflt298cf,muidflt312cf,muidflt314cf -->
+ 
+ <link rel="canonical" href="http://www.msn.com/en-my/" />
+ 
+
+ <title>MSN Malaysia - Outlook, Skype, Hotmail, Messenger</title>
+ <meta name="description" content="Customisable collection of the best in news, sport, entertainment, money, weather, travel, health and lifestyle with Hotmail, Facebook, Twitter and Skype."/>
+ 
+<meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1" />
+ <link rel="stylesheet" href="//static-hp-eas-s-msn-com.akamaized.net/en-my/homepage/_sc/css/f5956224-9ba8c85c/direction=ltr.locales=en-my.themes=start.dpi=resolution1x/75-52a52b-4e3b0a9b/3c-03fd00-ee5f2b10/fe-1d1f6b-f8ee39e8/21-99e8b6-f94d3276/8a-52aaf2-a648eab2/50-157944-63b61fa3/f1-9f74e0-68ddb2ab/26-a66d7c-4534563a/c7-94c6e0-654638bf?ver=2.0.6358.301&amp;fdhead=muidflt12cf,muidflt21cf,muidflt258cf,muidflt298cf,muidflt312cf,muidflt314cf&amp;csopd=20170606004837&amp;csopdb=20170526230026" type="text/css" media="all" />
+ <script type="text/javascript">//<![CDATA[
+(function(n,t){function o(n,i,r){typeof n!="string"&&(r=i,i=n,n=t);i&&i.splice||(r=i,i=[]);n==p&&(a=!0);s(n,i,r)}function s(n,t,i,r){var e;if(!n||!u[n]){if(e=nt(n,t),!e){f.push(r||{i:n,d:t,f:i});return}var o=typeof i=="function",s=n!="dap"&&n!="adLoad",h=t&&(t.length!=1||t[0]!="dap"&&t[0]!="c.dom"),c=a&&o&&s&&h;c?g(n,i,e,!0):d(o,n,i,e)}}function d(n,t,i,r){var u;u=n?i.apply(null,r):i;h(t,u)}function g(n,t,i,r){if(r)setTimeout(function(){var r=t.apply(null,i);h(n,r)},1);else{var u=t.apply(null,i);h(n,u)}}function h(t,i){t&&(i?(u[t]=i,v()):n.console&&console.error("Dependencies resolved, but object still not defined (or is otherwise falsey). id:"+t+"; typeof obj: "+typeof i))}function v(){var r,u,n,t;if(f.length&&!i){do for(r=f,u=r.length,f=[],i=1,t=0;t<u;t++)n=r[t],s(n.i,n.d,n.f,n);while(i>1);i=0}else i&&(i=2)}function nt(i,r){for(var s,v,h,f=[],c=r?r.length:0,o=0;o<c;o++){var l=r[o],a=u[l],y=typeof a!="undefined";if(!y){if(s=k.exec(l),s)if(v=s[1],h=n[v],h!==t){f.push(h);continue}else e||(e=setTimeout(tt,b));break}f.push(a)}return c==f.length?f:0}function tt(){e=0;v()}function it(n,i,r){(typeof n!="object"||n&&n.splice)&&(r=i,i=n,n={});i&&i.splice||(r=i,i=[]);rt(n.js);r&&s(t,i,r)}function rt(n){if(typeof n=="string")y(n);else if(n)for(var t=0;t<n.length;t++)y(n[t])}function y(n){if(!l[n]){l[n]=1;var i=document.getElementsByTagName("script")[0],t=document.createElement("script");t.src=n;t.onload=t.onreadystatechange=function(){this.readyState&&this.readyState!="loaded"&&this.readyState!="complete"||(t.onload=t.onreadystatechange=null,t.parentNode&&t.parentNode.removeChild(t))};i.parentNode.insertBefore(t,i)}}function ut(n){return w?n?r.now():Math.round(r.now()):new Date-c}var p=n._jsLoaderAsyncCanary||"c.dom",r=n.performance,c=((r||{}).timing||{}).navigationStart||+new Date,w=r&&typeof r.now=="function",u={date:Date,document:document,image:Image,localStorage:n.localStorage,location:document.location,navigator:navigator,pageStart:c,pageTime:ut,screen:screen,window:n},f=[],i,b=50,e,l={},a=!1,k=/^window\.(.+)$/;o.amd={jQuery:1};o.is=function(n){return typeof u[n]!="undefined"};n.define=o;n.require=it})(window);define("navigation",["escape","location"],function(n,t){function r(n,t,i){var s=function(n){return n=n.replace(/\+/g," "),decodeURIComponent(n)},u={},o,e;if(n)for(n=n.split("#")[0],o=n.split("&"),e=0;e<o.length;e++){var h=o[e].split("="),r=h[0],f=h[1];i&&(r=s(r),f&&(f=s(f)));t?(u[r]||(u[r]=[]),u[r].push(f)):u[r]=f}return u}function u(n){var t=f.exec(n);return t?t[2]:!1}var f=/[a-z][a-z0-9+\-.]*:\/\/([a-z0-9\-._~%!$&'()*+,;=]+@)?([a-z0-9\-._~%]+|\[[a-z0-9\-._~%!$&'()*+,;=:]+\])/i,i={getUrl:function(n){return i.filter?i.filter(n):n},navigate:function(n,r){i.filter&&(n=i.filter(n));r?t.replace(n):t.href=n},getHostName:u,isLocal:function(n){var i=u(n);return!i||t.hostname==i},getParams:r,getParamsFromUrl:function(n,t,i){var u=n.split("?")[1];return r(u,t,i)},mergeQueryStringParams:function(t,i){var e,f,o,u;if(i){if(e=t.split("?"),e[1]){f=r(e[1],!1,!0);for(u in i)f[u]=i[u]}else f=i;t=e[0];o="?";for(u in f)t+=f[u]?o+n.urlPart(u)+"="+n.urlPart(f[u]):o+n.urlPart(u),o="&"}return t},filter:null};return i});define("logging",["window"],function(n){function r(n,t){if(n.addEventListener)n.addEventListener("error",t,!1);else if(n.onerror){var i=n.onerror;n.onerror=function(n,r,u,f,e){return i(n,r,u,f,e),t(n,r,u,f,e)}}else n.onerror=t}function t(t){n.console&&(console.error||console.log)(t)}function u(){}function f(){}function e(t){(n.console||{}).timeStamp?console.timeStamp(t):(n.performance||{}).mark&&n.performance.mark(t)}var i=0;return r(n,function(n){return i++,n&&t("[SCRIPTERROR] "+n),!0}),{error:t,fatalError:t,unhandledErrorCount:function(){return i},perfMark:e,warning:u,information:f}})//]]></script><script type="text/javascript" src="//static-hp-eas-s-msn-com.akamaized.net/_h/4c59fa2c/webcore/externalscripts/jquery/jquery-1.11.1.min.js"></script>
+ 
+ <style>@media screen and (max-width:78.99em) and (min-width:58.875em){.layout-none:not(.mod1) .pos2{left:0}}.ie8 .grid .pick4~li.pick{display:none}.todaystripe .todayshowcasead:hover{opacity:1}.spartan #main .paging-container.snap{overflow-x:hidden}#addRemoveSectionsModalContainer #addRemoveSectionsModal{display:block}.tmx.mobile .superbowl .matchupstripe{margin:0 auto}.stripecontainer .stripeouter.noborder{height:33.7rem}html[dir='rtl'] .ie8 .mip>ul>li.triptych h3+a{border-right:0}html[dir='ltr'] .ie8 .mip>ul>li.triptych h3+a{border-left:0}.mobile .galleryinfo .img-divider{display:none}.homepage.tmx.pc.chrome #main .one-col,.homepage.tmx.pc.chrome #main .two-col,.homepage.tmx.pc.chrome #main .three-col{margin-right:-.016rem;margin-left:-.016rem}.homepage.midlevel .pagingsection>button.show,.channelplayerpage.midlevel .pagingsection>button.show{display:none}</style>
+</head>
+
+<body class="startpage sp center-content start">
+             <div>
+                <img src="//sg.effectivemeasure.net/em_image" alt="" style="position:absolute; left:-5px;" />
+            </div>
+
+
+
+<div class="head">
+<div>
+<div id="topnav">
+ <ul class="verticalsnav">
+ <li  class="current">
+<a href="/en-my">Home</a>
+</li>
+ <li >
+<a href="/en-my/news">News</a>
+</li>
+ <li >
+<a href="/en-my/weather">Weather</a>
+</li>
+ <li >
+<a href="/en-my/entertainment">Entertainment</a>
+</li>
+ <li >
+<a href="/en-my/sport">Sport</a>
+</li>
+ <li >
+<a href="/en-my/money">Money</a>
+</li>
+
+ <li class="more">
+<a href="#nav">More ></a>
+<ul>
+ <li >
+<a href="/en-my/lifestyle">Lifestyle</a>
+</li>
+ <li >
+<a href="/en-my/health">Health &amp; Fitness</a>
+</li>
+ <li >
+<a href="/en-my/foodanddrink">Food &amp; Drink</a>
+</li>
+ <li >
+<a href="/en-my/travel">Travel</a>
+</li>
+ <li >
+<a href="/en-my/cars">Cars</a>
+</li>
+ <li >
+<a href="/en-my/video">Video</a>
+</li>
+ </ul>
+</li>
+ </ul>
+</div>
+  <div id="header-common">
+<div class="header">
+<div class="header-logo">
+  <a class="logo" href="/en-my" tabindex="2">
+ 
+
+<img alt="" height="20" width="20" src="//static-hp-eas-s-msn-com.akamaized.net/sc/82/c22c7d.gif" />
+</a>
+ <a class="vertical" href="/en-my" tabindex="2">msn</a>
+
+
+
+</div>
+<div id="header-links">
+ <a href="http://www.outlook.com/">Outlook.com</a>
+ <span>|</span>
+ <a href="/en-my/settings/markettoggle"><img alt="en-my" src="//static-hp-eas-s-msn-com.akamaized.net/sc/6a/a62410.gif" /></a>
+
+<a class="navigation" href="#nav">
+<img  alt="go to navigation" width="27" height="20" src="//static-hp-eas-s-msn-com.akamaized.net/sc/57/a49b8d.gif" />
+                    </a>
+                </div>
+            </div>
+        </div>
+
+ 
+<div id="header-search">
+<form action="https://www.bing.com/search?scope=web" method="get" id="srchfrm">
+<div class="searchbox">
+<input type="text" id="q" name="q" value="" />
+<input type="hidden" name="form" value="PRMYDL" />
+  <input type="hidden" name="httpsmsn" value="1">
+   <input type="hidden" name="refig" value="78135623de0a4199a6a45000b3b03308">
+<input type="submit" class="text" value="web search" title="web search"/>
+ </div>
+</form>
+</div>
+
+</div>
+ 
+ 
+<div class="upgradebrowser">
+ You are using an older browser version. Please use a <a href="http://support2.microsoft.com/kb/2999871/en-gb">supported version</a> for the best MSN experience.
+</div>
+
+
+
+</div>
+<div id="maincontent">
+ 
+<div id="main"  data-region="main">
+ 
+
+ 
+ <div class="today">
+
+
+	<div class="weatodaytile"  data-module-id="startpage|todayDownlevel|section|DownlevelMiniWeather|WeatherTodayTileModule"   data-aop="todayweathersd_weathertodaythreedaystilemodule">
+<a  href="/en-my/weather/today/Kuala-Lumpur,Federal-Territory-of-Kuala-Lumpur,Malaysia/we-city-3.105,101.692?iso=MY" data-loc="lat=3.11&amp;long=101.69&amp;c=Kuala%20Lumpur&amp;st=Federal%20Territory%20of%20Kuala%20Lumpur&amp;cn=Malaysia&amp;iso=MY&amp;type=1">
+<div class="weatileleft">
+<img class="skycond" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB8MKSg.img?m=6&amp;o=true&amp;u=true&amp;n=true&amp;w=40&amp;h=40"
+
+data-src="{&quot;default&quot;:&quot;//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB8MKSg.img?m=6&amp;o=true&amp;u=true&amp;n=true&amp;w=40&amp;h=40&quot;}"
+alt="Mostly Cloudy" title="Mostly Cloudy" data-icon="3" />
+	<div><span class="currentcond">29&#176;</span><span class="tempunit">C</span></div>
+</div>
+<div class="weatileright">
+<span class="weacity">Kuala Lumpur, Federal Territory of Kuala Lumpur</span>
+<span class="skytext">Today, Mostly Cloudy</span>
+<span class="tempavghigh">High 33&#176;</span>
+<span class="tempavglow">Low 26&#176;</span>
+</div>
+	</a>
+
+ <div class="edit"  data-aop="change">
+<a class="edithome" href="#" aria-label="Change location or temperature unit" data-degreetype="C" 
+data-home="Search for Location / City" title="Change">Change</a>
+</div>
+<div class="weapopup" role="dialog" aria-labelledby="weaaddlocation-label"  data-aop="editweatherflyout"  data-region="editweatherflyout">
+<div class="weaddn wpopbg"></div>
+<div class="weaddn wpopctn">
+<a class="close"  role="button" href="#" title="Close">Close</a>
+ 
+
+<div class="weaaddlocation">
+
+<form  action="/en-my/weather/search" data-action="/en-my/weather/ajax/places/search/" method="get" >
+ 
+<p class="label" id="weaaddlocation-label">Set Default Location</p>
+<div class="add-loc-as-container">
+<input name="q" class="query" accesskey="L" autocomplete="off" type="search" aria-autocomplete="list"
+value="" maxlength="250" data-auto-suggest-settings='{&quot;market&quot;:&quot;en-my&quot;,&quot;mode&quot;:&quot;AS&quot;,&quot;baseurl&quot;:&quot;/en-my/weather/today&quot;,&quot;action&quot;:&quot;sethome&quot;,&quot;method&quot;:&quot;custom&quot;,&quot;selector&quot;:&quot;.weaaddlocation&quot;,&quot;urltype&quot;:&quot;GeoLocation&quot;,&quot;formcode&quot;:&quot;&quot;,&quot;lat&quot;:5.4112,&quot;lon&quot;:100.3354}'
+                   placeholder="Search for Location / City" data-seemoretext="Press &lt;Enter&gt; to see more" data-autosuggestdelay="100"
+                   aria-label="Search for Location / City"  />
+<button type="submit" title ="Search" class="searchbtn" >
+<span class="x-screen-reader">Search</span>
+</button>
+</div>
+<div class="nolocerr" aria-live="assertive" data-message="No search results for &#39;{0}&#39;"></div>
+<div class="errmsg" aria-live="assertive">An unexpected error occurred, please try again.</div>
+<div class="suggestmsg" aria-live="assertive" ></div>
+<div class="autosuggestresults" ></div>
+ 
+</form>
+</div>
+
+ 
+
+<div>
+<p>Display Temperature In</p>
+<form id="id302f03ff89944826846cbbc621dfc96f" class="setdegree"  action="/en-my/weather/ajax/places/savedegree/" method="post">
+ 
+<div>
+<button name="weaDegreeType" id="id302f03ff89944826846cbbc621dfc96f_fahrenheit" value="F"
+                        class=""
+>
+<span class="dot"></span>
+</button>
+<label for="id302f03ff89944826846cbbc621dfc96f_fahrenheit" form="id302f03ff89944826846cbbc621dfc96f">Fahrenheit</label>
+            </div>
+            <div>
+                <button name="weaDegreeType" id="id302f03ff89944826846cbbc621dfc96f_celsius" value="C"
+                        class="selected"
+>
+<span class="dot"></span>
+</button>
+<label for="id302f03ff89944826846cbbc621dfc96f_celsius" form="id302f03ff89944826846cbbc621dfc96f">Celsius</label>
+</div>
+ 
+</form>
+</div>
+
+ <button  class="donebutton disabled" disabled="disabled" title="Done">Done</button>
+ </div>
+</div>
+	</div>
+ </div>
+ <div class="stripe first">
+<h2>Today</h2>    <a href="/en-my/health/weightloss/this-is-why-you-should-never-drink-water-before-bed/ar-BBCdg2l?li=BBr8Hnu" >
+<img alt="" height="194" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBCaWG9.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=765&amp;y=497" title="Provided by ETNT, LLC" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/en-my/health/weightloss/this-is-why-you-should-never-drink-water-before-bed/ar-BBCdg2l?li=BBr8Hnu" >
+
+Don&#39;t drink water before bed    </a>
+
+</li>
+ <li >
+     <a href="/en-my/news/world/thai-exchange-student-drowns-trying-to-save-his-friend-at-us-beach/ar-BBCgEni?li=BBr8Hnu" >
+
+Student&#39;s tragic death    </a>
+
+</li>
+ <li >
+     <a href="/en-my/news/other/wanita-dirompak-dirogol/ar-BBCgDKQ?li=BBr8Hnu" >
+
+Wanita dirompak, dirogol    </a>
+
+</li>
+ <li >
+     <a href="/en-my/news/national/uber-driver-who-allegedly-molested-woman-remanded/ar-BBCgL3R?li=BBr8Hnu" >
+
+Uber driver arrested    </a>
+
+</li>
+ <li >
+     <a href="/en-my/news/national/amid-bank-glitch-woman-finds-php121b-in-bank-account-while-others-say-their-money%e2%80%99s-gone-missing/ar-BBCh0kg?li=BBr8Hnu" >
+
+Woman finds RM1bil in account    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2>Must-See Photos</h2>    <a href="/en-my/entertainment/celebrity/the-world%e2%80%99s-most-beautiful-queens-and-princesses/ss-BBAHfcm?li=BBuWlYP" >
+<img alt="É a rainha consorte do Butão." height="194" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBAGN35.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=997&amp;y=633" title="É a rainha consorte do Butão. - Getty Images" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/en-my/entertainment/celebrity/the-world%e2%80%99s-most-beautiful-queens-and-princesses/ss-BBAHfcm?li=BBuWlYP" >
+
+Most beautiful queens, princesses    </a>
+
+</li>
+ <li >
+     <a href="/en-my/news/other/twins-shared-with-same-love-view/ss-BBCdxDE?li=BBuWlYP" >
+
+Twins shared with same love view    </a>
+
+</li>
+ <li >
+     <a href="/en-my/news/other/liquid-tricks-10-delicious-drinks-that-will-help-you-lose-weight/ss-BBCd61Q?li=BBuWlYP" >
+
+10 delicious drinks that will help you lose weight    </a>
+
+</li>
+ <li >
+     <a href="/en-my/foodanddrink/foodnews/20-foods-you-should-never-eat-past-their-expiry-date/ss-BBCfouO?li=BBuWlYP" >
+
+20 foods you should never eat past their expiry date    </a>
+
+</li>
+ <li >
+     <a href="/en-my/health/medical/brain-cancer-what-you-should-know/ss-BBCdfBg?li=BBuWlYP" >
+
+Brain Cancer: What you should know    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="http://www.msn.com/en-my/news/berita" >Berita Am</a></h2>    <a href="/en-my/news/national/isa-samad-kenapa-nak-letak-jawatan-bukan-salah-saya/ar-BBCgJDD?li=BBvaMpr" >
+<img alt="isa-samad-fgv" height="194" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBCgOeR.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="isa-samad-fgv - Provided by MToday News Sdn Bhd" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/en-my/news/national/isa-samad-kenapa-nak-letak-jawatan-bukan-salah-saya/ar-BBCgJDD?li=BBvaMpr" >
+
+Isa Samad: Kenapa nak letak jawatan, bukan salah saya    </a>
+
+</li>
+ <li >
+     <a href="/en-my/news/other/sprm-angkut-lebih-lima-beg-metrotv/ar-BBCgLmf?li=BBvaMpr" >
+
+SPRM angkut lebih lima beg    </a>
+
+</li>
+ <li >
+     <a href="/en-my/news/other/bayar-hutang-dulu-isa-samad-beritahu-aktivis-kritik-felda/ar-BBCgNzh?li=BBvaMpr" >
+
+Bayar hutang dulu, Isa Samad beritahu aktivis kritik Felda    </a>
+
+</li>
+ <li >
+     <a href="/en-my/news/other/7-ditahan-akibat-belasah-penguat-kuasa-dbkl-dan-2-beradik/ar-BBCgLln?li=BBvaMpr" >
+
+7 ditahan akibat belasah penguat kuasa DBKL dan 2 beradik    </a>
+
+</li>
+ <li >
+     <a href="/en-my/news/other/dua-dua-pun-kena/ar-BBCgDTJ?li=BBvaMpr" >
+
+&#39;Dua dua pun kena&#39;    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/en-my/news" >News</a></h2>    <a href="/en-my/news/other/let%e2%80%99s-talk-about-our-pm-to-be-in-private-muhyiddin-tells-pakatan/ar-BBCh2cU?li=BBr8YXF" >
+<img alt="Tan Sri Muhyiddin Yassin says when internal issues are deliberated openly, it co..." height="194" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBCgVLQ.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=400&amp;y=234" title="Tan Sri Muhyiddin Yassin says when internal issues are deliberated openly, it co... - Provided by Malay Mail Online" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/en-my/news/other/let%e2%80%99s-talk-about-our-pm-to-be-in-private-muhyiddin-tells-pakatan/ar-BBCh2cU?li=BBr8YXF" >
+
+Let’s talk about our PM-to-be in private, Muhyiddin tells Pakatan    </a>
+
+</li>
+ <li >
+     <a href="/en-my/news/us/editors-choice/ss-BBCf54S?li=BBr8YXF" >
+
+Top photos from the last 24 hours    </a>
+
+</li>
+ <li >
+     <a href="/en-my/news/other/why-idris-jala-instead-of-accounting-firm-for-fgv-scrutiny-muhyiddin-asks/ar-BBCgVLT?li=BBr8YXF" >
+
+Why Idris Jala instead of accounting firm for FGV scrutiny? Muhyiddin asks    </a>
+
+</li>
+ <li >
+     <a href="/en-my/news/other/fgv-isa-welcomes-macc-probe-but-refuses-to-resign/ar-BBCgURy?li=BBr8YXF" >
+
+FGV: Isa welcomes MACC probe, but refuses to resign    </a>
+
+</li>
+ <li >
+     <a href="/en-my/news/other/fgv-external-legal-counsel-to-probe-safitex-related-issues/ar-BBCgQBF?li=BBr8YXF" >
+
+FGV: External legal counsel to probe Safitex-related issues    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/en-my/entertainment" >Entertainment</a></h2>    <a href="/en-my/entertainment/story/barack-obama-wore-the-same-suit-for-8-years/ar-BBCgVJL?li=BBr8RiI" >
+<img alt="" height="194" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBCh29C.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=424&amp;y=73" title="Provided by Bauer Media Pty Ltd" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/en-my/entertainment/story/barack-obama-wore-the-same-suit-for-8-years/ar-BBCgVJL?li=BBr8RiI" >
+
+Barack Obama wore the same suit for 8 years    </a>
+
+</li>
+ <li >
+     <a href="/en-my/entertainment/hollywood/29-celebrity-duos-who-actually-used-to-live-together/ss-BBCd987?li=BBr8RiI" >
+
+Celebrities who used to live together    </a>
+
+</li>
+ <li >
+     <a href="/en-my/entertainment/entertainmentnews/khloe-kardashians-fertility-fears/ar-BBCgD89?li=BBr8RiI" >
+
+Khloe Kardashian&#39;s fertility fears    </a>
+
+</li>
+ <li >
+     <a href="/en-my/entertainment/story/celeb-mini-mes-hollywoods-most-uncanny-look-alikes/ar-BBCgrBf?li=BBr8RiI" >
+
+Celeb mini-mes! Hollywood&#39;s most uncanny look-alikes    </a>
+
+</li>
+ <li >
+     <a href="/en-my/entertainment/story/ariel-winters-estranged-mother-slams-daughters-racy-outfits/ar-BBCgvPZ?li=BBr8RiI" >
+
+Ariel Winter&#39;s mother slams her racy outfits    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="http://www.msn.com/en-my/entertainment" >Most Popular</a></h2>    <a href="/en-my/news/world/%e2%80%98i-did-not-mean-to-kill%e2%80%99-murder-mutilation-suspect-faces-victim%e2%80%99s-relatives/ar-BBCc1So?li=BBuW5jp" >
+<img alt="" height="194" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBCcg0o.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="Provided by The Star Online" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/en-my/news/world/%e2%80%98i-did-not-mean-to-kill%e2%80%99-murder-mutilation-suspect-faces-victim%e2%80%99s-relatives/ar-BBCc1So?li=BBuW5jp" >
+
+&#39;I did not mean to kill&#39;    </a>
+
+</li>
+ <li >
+     <a href="/en-my/news/national/thousands-may-lose-jobs-in-rhb-ambank-merger/ar-BBBZVrd?li=BBuW5jp" >
+
+&#39;Thousands may lose jobs&#39;    </a>
+
+</li>
+ <li >
+     <a href="/en-my/news/national/parking-dispute-goes-viral-after-woman-loses-both-slippers-over-a-space-video/ar-BBBKZOQ?li=BBuW5jp" >
+
+Parking dispute in KL goes viral    </a>
+
+</li>
+ <li >
+     <a href="/en-my/entertainment/asianbuzz/che-ta-melaram-104-pasang-baju-raya/ar-BBBYglF?li=BBuW5jp" >
+
+Che Ta melaram 104 pasang baju raya    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/en-my/lifestyle" >Lifestyle</a></h2>    <a href="/en-my/lifestyle/parenting/11-ways-moms-benefit-from-breastfeeding/ss-BBCfets?li=BBr91ne" >
+<img alt="" height="194" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBCfex8.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=1096&amp;y=889" title="11 Ways Moms Benefit From Breastfeeding - Oksana Kuzmina/Shutterstock" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/en-my/lifestyle/parenting/11-ways-moms-benefit-from-breastfeeding/ss-BBCfets?li=BBr91ne" >
+
+11 Ways Moms Benefit From Breastfeeding    </a>
+
+</li>
+ <li >
+     <a href="/en-my/lifestyle/lifestylefamilyrelationships/what-is-it-like-to-be-in-an-open-marriage-1-woman-shares-her-story/ar-BBCgQtU?li=BBr91ne" >
+
+What is it like to be in an open marriage? One woman shares her story    </a>
+
+</li>
+ <li >
+     <a href="/en-my/lifestyle/lifestylegeneral/a-small-but-comfortable-apartment-with-an-inspiring-color-palette/ar-BBCdeAq?li=BBr91ne" >
+
+A small but comfortable apartment with an inspiring color palette    </a>
+
+</li>
+ <li >
+     <a href="/en-my/lifestyle/relationships/this-is-what-a-panic-attack-really-feels-like/ar-BBCgOot?li=BBr91ne" >
+
+This is what a panic attack really feels like    </a>
+
+</li>
+ <li >
+     <a href="/en-my/lifestyle/family-relationships/the-beautiful-notes-6yo-elena-hid-for-her-parents-to-find-after-she-died-of-cancer/ar-BBCfMWS?li=BBr91ne" >
+
+Elena hid beautiful notes for her parents to find after she died    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/en-my/money" >Money</a></h2>    <a href="/en-my/money/other/pua-fgv-chairman-must-explain-allegations-of-%e2%80%98ridiculous-deals%e2%80%99/ar-BBCgHlQ?li=BBr8Mka" >
+<img alt="http://assets.theedgemarkets.com/Tony-Pua-4_3.jpg" height="194" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBCgygw.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=364&amp;y=241" title="http://assets.theedgemarkets.com/Tony-Pua-4_3.jpg - Provided by The Edge" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/en-my/money/other/pua-fgv-chairman-must-explain-allegations-of-%e2%80%98ridiculous-deals%e2%80%99/ar-BBCgHlQ?li=BBr8Mka" >
+
+Pua: FGV chairman must explain allegations of ‘ridiculous deals’    </a>
+
+</li>
+ <li >
+     <a href="/en-my/money/topstories/27-glittering-facts-you-never-knew-about-gold/ss-AAjuT2p?li=BBr8Mka" >
+
+Glittering facts about gold    </a>
+
+</li>
+ <li >
+     <a href="/en-my/money/other/macc-visits-fgv-headquarters/ar-BBCgBNI?li=BBr8Mka" >
+
+MACC visits FGV headquarters    </a>
+
+</li>
+ <li >
+     <a href="/en-my/money/other/fgv%e2%80%99s-suspension-of-ceo-cfo-a-negative-surprise/ar-BBCgCLG?li=BBr8Mka" >
+
+FGV’s suspension of CEO, CFO a negative surprise    </a>
+
+</li>
+ <li >
+     <a href="/en-my/money/other/supernumberopsraya-3-most-common-financial-mistakes-malaysians-are-guilty-of-every-raya/ar-BBCd6LY?li=BBr8Mka" >
+
+#OpsRaya: 3 Most Common Financial Mistakes Malaysians Are Guilty Of Every Raya    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/en-my/health" >Health &amp; Fitness</a></h2>    <a href="/en-my/health/fitness/7-exercises-for-an-hourglass-figure/ss-BBC8LlC?li=BBr8OIK" >
+<img alt="" height="194" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBBNxs3.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=269&amp;y=250" title="When you envision exercises for the perfect hourglass shape, odds are, the focus... - AMI" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/en-my/health/fitness/7-exercises-for-an-hourglass-figure/ss-BBC8LlC?li=BBr8OIK" >
+
+7 exercises for an hourglass figure    </a>
+
+</li>
+ <li >
+     <a href="/en-my/health/weightloss/working-out-and-still-not-losing-weight-a-dietician-says-this-is-why/ar-BBCdnzt?li=BBr8OIK" >
+
+Working out and still not losing weight? A dietician tells you why    </a>
+
+</li>
+ <li >
+     <a href="/en-my/health/healthtrending/how-to-tell-if-youre-too-sick-to-get-on-a-flight/ar-BBCeVrJ?li=BBr8OIK" >
+
+How to tell if you&#39;re too sick to get on a flight    </a>
+
+</li>
+ <li >
+     <a href="/en-my/health/other/giving-your-child-a-smartphone-is-like-giving-them-a-gram-of-cocaine-says-top-addiction-expert/ar-BBCfiAE?li=BBr8OIK" >
+
+Giving your child a smartphone is like giving them a gram of cocaine    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/en-my/foodanddrink" >Food &amp; Drink</a></h2>    <a href="/en-my/foodanddrink/foodnews/128-year-old-french-bakery-opens-in-kl/ar-BBCgrSo?li=AA4RCF" >
+<img alt="Paul bakery Kuala Lumpur" height="194" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBCgpAS.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=730&amp;y=153" title="Paul bakery Kuala Lumpur - Provided by Star Media Group Berhad" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/en-my/foodanddrink/foodnews/128-year-old-french-bakery-opens-in-kl/ar-BBCgrSo?li=AA4RCF" >
+
+128-year-old French bakery opens in KL    </a>
+
+</li>
+ <li >
+     <a href="/en-my/foodanddrink/foodnews/rich-flavours-of-heirloom-recipes/ar-BBCbRPP?li=AA4RCF" >
+
+Rich flavours of heirloom recipes    </a>
+
+</li>
+ <li >
+     <a href="/en-my/foodanddrink/foodnews/for-the-love-of-traditional-negri-sembilan-dishes/ar-BBCbJF5?li=AA4RCF" >
+
+For the love of traditional Negri Sembilan dishes    </a>
+
+</li>
+ <li >
+     <a href="/en-my/foodanddrink/recipes/12-ways-to-use-up-leftover-rice/ss-BBCaxD3?li=AA4RCF" >
+
+12 Ways to Use Up Leftover Rice    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/en-my/sport" >Sport</a></h2>    <a href="/en-my/sport/other/chong-wei-can-set-record-as-shuttler-with-most-indonesian-open-wins-says-coach/ar-BBCgthG?li=BBr8zKW" >
+<img alt="" height="194" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBCgoKO.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=406&amp;y=107" title="Provided by The Star Online" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/en-my/sport/other/chong-wei-can-set-record-as-shuttler-with-most-indonesian-open-wins-says-coach/ar-BBCgthG?li=BBr8zKW" >
+
+Chong Wei can set record as shuttler with most Indonesian Open wins, says coach    </a>
+
+</li>
+ <li >
+     <a href="/en-my/sport/tennis/rafael-nadals-record-breaking-career-in-numbers/ss-BBC0HWu?li=BBr8zKW" >
+
+Rafa&#39;s career in numbers    </a>
+
+</li>
+ <li >
+     <a href="/en-my/sport/other/i-am-not-in-manager-contes-plans-at-chelsea-says-costa/ar-BBCgKz1?li=BBr8zKW" >
+
+I am not in manager Conte&#39;s plans at Chelsea, says Costa    </a>
+
+</li>
+ <li >
+     <a href="/en-my/sport/other/both-to-man-utd-morata-hoping-to-still-be-team-mates-with-james-next-season/ar-BBCfNTV?li=BBr8zKW" >
+
+Both to Man Utd? Morata hoping to still be team-mates with James next season    </a>
+
+</li>
+ <li >
+     <a href="/en-my/sport/other/angry-pique-blames-media-for-latest-whistles-by-spain-fans/ar-BBCgyRc?li=BBr8zKW" >
+
+Angry Pique blames media for latest whistles by Spain fans    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2>Microsoft Store Online</h2>    <a href="http://clk.tradedoubler.com/click?p=240150&amp;a=2811271&amp;g=0&amp;epi=Prime_ENMY_HP_STORESTRIPE_officesuites&amp;url=https://www.microsoft.com/en-my/store/d/office-professional-2016/cfq7ttc0k5f8"                                                  target="_blank"
+ data-pg="TSTPRNUS32" data-pid="7HD66FC">
+<img alt="" height="194" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAn007K.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="MY Office" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="http://clk.tradedoubler.com/click?p=240150&amp;a=2811271&amp;g=0&amp;epi=Prime_ENMY_HP_STORESTRIPE_officesuites&amp;url=https://www.microsoft.com/en-my/store/d/office-professional-2016/cfq7ttc0k5f8"                                                  target="_blank"
+ data-pg="TSTPRNUS32" data-pid="7HD66FC">
+
+                <span  class="nativead">Sponsored: </span>
+Find the right Office subscription for you, from only RM27.99                <img  class="nativead"
+                      />
+    </a>
+
+</li>
+ <li >
+     <a href="http://clk.tradedoubler.com/click?p=240150&amp;a=2811271&amp;g=0&amp;epi=Prime_ENMY_HP_STORESTRIPE_windows10&amp;url=https://www.microsoft.com/en-my/store/collections/windows/pc"                                                  target="_blank"
+ data-pg="TSTPRNUS32" data-pid="7HD66FC">
+
+                <span  class="nativead">Sponsored: </span>
+Students save 10% on Windows 10 Pro                <img  class="nativead"
+                      />
+    </a>
+
+</li>
+ <li >
+     <a href="http://clk.tradedoubler.com/click?p=240150&amp;a=2811271&amp;g=0&amp;epi=Prime_ENMY_HP_STORESTRIPE_officesuite&amp;url=https://www.microsoft.com/en-my/store/collections/officesuites"                                                  target="_blank"
+ data-pg="TSTPRNUS32" data-pid="7HD66FC">
+
+                <span  class="nativead">Sponsored: </span>
+Download Office 2016 suite - you get Word, PowerPoint and more                <img  class="nativead"
+                      />
+    </a>
+
+</li>
+ <li >
+     <a href="http://clk.tradedoubler.com/click?p=240150&amp;a=2811271&amp;g=0&amp;epi=Prime_ENMY_HP_STORESTRIPE_office365mac&amp;url=https://www.microsoft.com/en-my/store/d/office-home-business-2016-for-mac/cfq7ttc0k5fd"                                                  target="_blank"
+ data-pg="TSTPRNUS32" data-pid="7HD66FC">
+
+                <span  class="nativead">Sponsored: </span>
+Office for Mac is here, get it now with Office 365                <img  class="nativead"
+                      />
+    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/en-my/news/techandscience" >Tech &amp; Science</a></h2>    <a href="/en-my/news/techandscience/facebooks-new-maps-will-help-responders-during-natural-disasters/ar-BBCgyLG?li=BBr91nf" >
+<img alt="" height="194" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBCgmpk.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=477&amp;y=360" title="Provided by Engadget" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/en-my/news/techandscience/facebooks-new-maps-will-help-responders-during-natural-disasters/ar-BBCgyLG?li=BBr91nf" >
+
+Facebook&#39;s new maps will help responders during natural disasters    </a>
+
+</li>
+ <li >
+     <a href="/en-my/news/techandscience/ios-11-will-stop-apps-like-uber-from-constantly-tracking-your-location/ar-BBCgPe2?li=BBr91nf" >
+
+iOS 11 will stop apps like Uber from constantly tracking your location    </a>
+
+</li>
+ <li >
+     <a href="/en-my/news/techandscience/your-next-trip-to-the-library-could-include-an-oculus-rift/ar-BBCgWd2?li=BBr91nf" >
+
+Oculus Rift expands to public libraries    </a>
+
+</li>
+ <li >
+     <a href="/en-my/news/other/nasa-goes-after-priceless-rock-worth-quadrillions/ar-BBCh2Tx?li=BBr91nf" >
+
+NASA goes after rock worth quadrillions    </a>
+
+</li>
+ <li >
+     <a href="/en-my/news/other/honda-to-focus-on-self-driving-cars-robotics-evs-through-2030/ar-BBCh0jl?li=BBr91nf" >
+
+Honda to focus on self-driving cars, robotics, EVs through 2030    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2>Daily Horoscope</h2>    <a href="http://www.msn.com/en-my/lifestyle/horoscope/cancer-your-daily-horoscope-september-25/ar-BBmr91u?li=AAcEQtE" >
+<img alt="" height="194" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBuEvmq.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="Cancer" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="http://www.msn.com/en-my/lifestyle/horoscope/cancer-your-daily-horoscope-september-25/ar-BBmr91u?li=AAcEQtE" >
+
+Cancer : June 21-July 22    </a>
+
+</li>
+ <li >
+     <a href="http://www.msn.com/en-my/lifestyle/horoscope/leo-your-daily-horoscope-september-25/ar-BBmr92E?li=AAcEILd" >
+
+Leo : July 23-Aug 22    </a>
+
+</li>
+ <li >
+     <a href="http://www.msn.com/en-my/lifestyle/horoscope/virgo-your-daily-horoscope-september-25/ar-BBmrgCY?li=AAcEGr7" >
+
+Virgo : Aug 23-Sept 22    </a>
+
+</li>
+ <li >
+     <a href="http://www.msn.com/en-my/lifestyle/horoscope/libra-your-daily-horoscope-september-25/ar-BBmr1jv?li=AAcEYiA" >
+
+Libra : Sept 23-Oct 22    </a>
+
+</li>
+ <li >
+     <a href="http://www.msn.com/en-my/lifestyle/horoscope/scorpio-your-daily-horoscope-september-25/ar-BBmrbJU?li=AAcF11G" >
+
+Scorpio : Oct 23-Nov 21    </a>
+
+</li>
+ </ul>
+
+</div>
+
+ 
+</div>
+<div id="aside"  data-region="aside">
+ 
+</div>
+<div id="nav">
+ <ul class="verticalsnav">
+ <li  class="current">
+<a href="/en-my">Home</a>
+</li>
+ <li >
+<a href="/en-my/news">News</a>
+</li>
+ <li >
+<a href="/en-my/weather">Weather</a>
+</li>
+ <li >
+<a href="/en-my/entertainment">Entertainment</a>
+</li>
+ <li >
+<a href="/en-my/sport">Sport</a>
+</li>
+ <li >
+<a href="/en-my/money">Money</a>
+</li>
+ <li >
+<a href="/en-my/lifestyle">Lifestyle</a>
+</li>
+ <li >
+<a href="/en-my/health">Health &amp; Fitness</a>
+</li>
+ <li >
+<a href="/en-my/foodanddrink">Food &amp; Drink</a>
+</li>
+ <li >
+<a href="/en-my/travel">Travel</a>
+</li>
+ <li >
+<a href="/en-my/cars">Cars</a>
+</li>
+ <li >
+<a href="/en-my/video">Video</a>
+</li>
+ </ul>
+</div>
+ </div>
+<div id="foot">
+<div> <a href="https://www.microsoft.com/en-my/default.aspx">&#169; 2017 Microsoft</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId=521839">Privacy &amp; Cookies</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID=246338">Legal</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID=286759">About our Ads</a>
+ <a href="https://jfe.qualtrics.com/form/SV_d4ir2X6Zkgjw0rb">Feedback</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId=512703">Help</a>
+ <a href="/en-my/msn-worldwide">MSN Worldwide</a>
+ <a href="https://advertising.microsoft.com/en">Advertise</a>
+</div>
+</div>
+  <div>
+ <img src="//c.msn.com/c.gif?udc=true&amp;rid=78135623de0a4199a6a45000b3b03308&amp;rnd=636325089766242861&amp;rf=&amp;tp=http%253A%252F%252Fwww.msn.com%252Fen-my%252F&amp;di=11&amp;lng=en-my&amp;cv.product=prime&amp;pn=startpage&amp;activityId=78135623de0a4199a6a45000b3b03308&amp;d.dgk=downlevel.pc&amp;d.imd=0&amp;st.dpt=&amp;st.sdpt=&amp;subcvs=homepage" alt="image beacon" width="1" height="1" /><img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=3000001&amp;rn=636325089766242861&amp;c7=http%253A%252F%252Fwww.msn.com%252Fen-my%252F&amp;c8=&amp;c9=" alt="image beacon" width="1" height="1" /><img src="//otf.msn.com/c.gif?js=0&amp;evt=impr&amp;di=11&amp;pi=&amp;ps=&amp;su=http%253A%252F%252Fwww.msn.com%252Fen-my%252F&amp;pageid=startpage&amp;mkt=en-my&amp;pn=startpage&amp;pp=False&amp;cv.product=prime&amp;cv.partner=&amp;cv.publcat=&amp;st.dpt=&amp;st.sdpt=&amp;dv.Title1=&amp;cts=636325089766242861&amp;rf=&amp;rid=78135623de0a4199a6a45000b3b03308&amp;cvs=Browser&amp;subcvs=homepage&amp;cv.entityId=&amp;cv.entitySrc=&amp;provid=&amp;ar=0&amp;d.dgk=downlevel.pc&amp;d.imd=0&amp;cv.parentId=&amp;isCorePV=&amp;pgIdx=&amp;pgTot=&amp;activityId=78135623de0a4199a6a45000b3b03308&amp;pm=" alt="image beacon" width="1" height="1" />
+</div>
+
+ 
+     <script>
+        require(["headData", "pageInstance", "mediator", "c.deferred"], function (headData, pageInstance, mediator)
+        {
+            var url = '//c.bing.com/c.gif?Red3=MSNLI_pd&rid=78135623-de0a-4199-a6a4-5000b3b03308&lng=en-my&dgk=downlevel.pc&imd=0&pn=startpage&rf=&tp=http%3A%2F%2Fwww.msn.com%2Fen-my%2F';
+            if (headData && headData.clientSettings && headData.clientSettings.static_page)
+            {
+                mediator.pub(pageInstance.eventName);
+                var rid = pageInstance.getActivityId();
+                url = url.replace(/([?&]rid=)[^&#]*/i, "$1" + rid);
+            }
+            new Image().src = url.replace(/&amp;/g, '&');
+        });
+    </script>
+    <noscript>
+        <div>
+            <img data-src="//c.bing.com/c.gif?Red3=MSNLI_pd&amp;rid=78135623-de0a-4199-a6a4-5000b3b03308&amp;lng=en-my&amp;dgk=downlevel.pc&amp;imd=0&amp;pn=startpage&amp;rf=&amp;tp=http%3A%2F%2Fwww.msn.com%2Fen-my%2F&amp;ts=noscript" width="1" height="1" alt="" />
+        </div>
+    </noscript>
+    <script>
+        require(["headData", "pageInstance", "mediator", "c.deferred"], function (headData, pageInstance, mediator)
+        {
+            var url = '//www.bizographics.com/collect/?fmt=gif&pid=7850';
+            if (headData && headData.clientSettings && headData.clientSettings.static_page)
+            {
+                mediator.pub(pageInstance.eventName);
+                var rid = pageInstance.getActivityId();
+                url = url.replace(/([?&]rid=)[^&#]*/i, "$1" + rid);
+            }
+            new Image().src = url.replace(/&amp;/g, '&');
+        });
+    </script>
+    <noscript>
+        <div>
+            <img data-src="//www.bizographics.com/collect/?fmt=gif&amp;pid=7850&amp;ts=noscript" width="1" height="1" alt="" />
+        </div>
+    </noscript>
+
+ 
+</body>
+ <!--MSNAvailToken--></html>

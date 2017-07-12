@@ -1,0 +1,58 @@
+/*
+* File:   myTest.cpp
+* Author: Sanjeev
+*
+* Created on 3 JANUARY, 2017, 9:57 AM
+*/
+
+#include <unistd.h>
+#include <iostream>
+#include <string>
+#include <sstream>
+#include <stdio.h>
+#include "opencv2/highgui/highgui.hpp"
+#include "opencv2/imgproc/imgproc.hpp"
+#include "opencv2/imgcodecs.hpp"
+#include "opencv2/videoio.hpp"
+#include <opencv2/video.hpp>
+
+using namespace cv;
+using namespace std;
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+int main( int argc, char** argv ){
+
+    while (true)
+    {
+	Mat frame;
+	//create GUI windows (In Order)
+    	namedWindow("Frame");
+	namedWindow("test");
+
+	//create the capture object
+    	VideoCapture capture(0);
+	capture.read(frame);
+	Mat test = Mat::zeros( frame.size(), CV_8UC3 );
+
+
+    	inRange(frame, cv::Scalar(159, 135, 135), cv::Scalar(179, 255, 255), test);
+	
+	
+	imshow("Frame", frame);
+	imshow("test", test);
+	
+	
+	// User action buttons
+        if (waitKey(30) == 27){ //wait for 'esc' key press for 30ms. Breaks loop
+            cout << "esc key is pressed by user" << endl;
+            break;
+       } 
+
+    }
+
+   return 0;
+
+}
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+

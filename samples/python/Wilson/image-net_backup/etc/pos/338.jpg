@@ -1,0 +1,176 @@
+
+<!doctype html>
+<html>
+<head>
+
+    <meta charset="utf-8">
+
+    <!-- Page Title -->
+    <title>exerciseequipment.co.uk</title>
+
+    <!-- Page Description -->
+    <meta name="description" content="exerciseequipment.co.uk domain name">
+    
+    <!-- Set the viewport to the device's screen width -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+    <!-- Icon -->
+    <link rel="shortcut icon" href="assets/images/icons/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="assets/images/icons/favicon.png">
+
+    <!-- Styles for all browsers and IE 9+ -->
+    <!--[if !(IE)|(IE 9)]> -->
+    <link rel="stylesheet" href="assets/css/screen.css?v=1496875895">
+    <style>
+        /* Background styles */
+        body {
+            background-image: url('assets/images/bg-uk.jpg');
+        }
+        body:after {
+                            background-color: rgba(50,47,72, .63);
+                                }
+        /* Narrow screen background styles */
+        @media (max-width: 480px) {
+            .header {
+                background-image: url('assets/images/bg-uk.jpg');
+            }
+            .header:after {
+                                    background-color: rgba(50,47,72, .63);
+                                            }
+        }
+    </style>
+    <![endif]-->
+    <!-- Basic styles for older browsers, IE 8 and below -->
+    <!--[if lte IE 8]>
+    <link rel="stylesheet" href="assets/css/ie8.css">
+    <![endif]-->
+
+    <!-- Include jQuery with local fallback -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="assets/js/jquery-1.11.3.min.js"><\/script>')</script>
+    
+    <!-- jQuery plugins -->
+    <script src="assets/js/plugins.js"></script>
+    
+    <!-- JavaScript that runs on document load and document ready -->
+    <script src="assets/js/main.js"></script>
+    
+    <!-- Load fonts -->
+ 
+    
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800" rel="stylesheet">
+</head>
+<body>
+    
+    <!-- Title and price -->
+    <header class="header">
+        <div class="header-inner">
+            <h1 class="title"><span>exerciseequipment.co.uk</span></h1>
+
+<!-- landblurb='<span class="subtitle">This domain is available to buy</span>
+<ul style ="font-size:18px;list-style-type:none;text-align:center;">
+<li>The perfect investment for your online identity and future brand success</li>
+<li>Start using a professional e-mail address: <b>you@{domain}</b></li>
+<li>Relocate to <b>{domain}</b> for a distinguished Internet destination</li>
+<li>Stand out from the crowd with a premium and superior domain name</li>
+</ul>' -->
+<span class="subtitle">This domain is available to buy</span>
+<ul style ="font-size:18px;list-style-type:none;text-align:center;">
+<li>The perfect investment for your online identity and future brand success</li>
+<li>Start using a professional e-mail address: <b>you@exerciseequipment.co.uk</b></li>
+<li>Relocate to <b>exerciseequipment.co.uk</b> for a distinguished Internet destination</li>
+<li>Stand out from the crowd with a premium and superior domain name</li>
+</ul>
+                    </div>
+    </header>
+   
+    <!-- Offer form --> 
+
+
+    <section class="main">
+        <div class="main-inner">
+            <form action="?" method="post" class="offer-form" id="offer-form">
+                <input type="hidden" name="d" value="exerciseequipment.co.uk">
+                <h2 class="title" style="font-weight:300 !important;">make an offer</h2>
+                                                <div class="form-error animated shake" style="display: none;">
+                    <span aria-hidden="true" class="icon li_pen"></span>
+                    <p>Please check the following and resubmit, thanks!</p>
+                    <ul></ul>
+                </div>
+
+                
+                <div class="form-success animated zoomInDown" style="display: none;">
+                    <span aria-hidden="true" class="icon li_like"></span>
+                                    </div>
+
+                                    <div class="fields">
+                      <div class="field-wrapper border">
+                            <label for="offer" class="offer-label">Offer</label>
+                            <input 
+                                type="text" 
+                                name="offer"
+                                id="offer" 
+                                placeholder="your offer" 
+                                class="text-field"
+                                required
+                                minlength="2"
+                                value=""
+                                style="width: 75%; text-align: left;"><select name="currency" class="text-field" style="width: 25%; padding-left: 0.3rem;">
+                                <option value="GBP">GBP</option>
+                                <option value="USD">USD</option>
+                                <option value="EUR">EUR</option>
+                            </select>
+
+                        </div> 
+                        <div class="field-wrapper border">
+                            <label for="name" class="name-label">Your Name</label>
+                            <input 
+                                type="text" 
+                                name="name" 
+                                id="name" 
+                                placeholder="your name" 
+                                class="text-field"
+                                required
+                                minlength="2"
+                                value=""
+                            >
+                        </div>
+                        <div class="field-wrapper border"><label for="math" class="math-label">what is 6 &times; 2?</label><input type="text" name="math" id="math" placeholder="what is 6 &times; 2?" class="text-field" required value=""></div>
+                        <div class="field-wrapper border">
+                            <label for="email" class="email-label">Email</label>
+                            <input 
+                                type="text" 
+                                name="email" 
+                                id="email" 
+                                placeholder="e-mail" 
+                                class="email-field"
+                                required
+                                minlength="5"
+                                value="">
+                        </div>
+
+                        <div class="antispam">Leave this empty: <input type="text" name="url"></div>
+                                                <div class="field-wrapper send-btn-wrapper">
+                            <input type="submit" name="send" value="send" class="send-btn">
+                        </div>
+
+                    </div>
+
+                            </form>
+        </div>
+    </section>
+
+
+    <!-- My contact details -->
+            <footer class="footer">
+            <h3 class="title">get in touch:</h3>
+                            <a class="email" href="mailto:hello@domaintree.co.uk">hello@domaintree.co.uk</a>
+                                      
+		<br>
+		<span style="font-size:10px;color:#444444;"> <a href="http://domainmanage.com" title="domain management and monetization" style="font-size:10px;color:#777777;">This page is powered by domainmanage.com</a> - <a href="#" style="font-size:10px;color:#777777;">Domain Manage provides this page to the domain owner. Domain Manage does not control any domain sales or endorse any content displayed by its users or third party advertisers.</a></span>
+        </footer>
+    
+
+</body>
+</html>

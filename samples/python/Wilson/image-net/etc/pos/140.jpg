@@ -1,0 +1,640 @@
+<!DOCTYPE html>
+
+<html lang="nl" prefix="og: http://ogp.me/ns#">
+	<head>
+		<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.fitsociety.nl/xmlrpc.php" />
+
+
+	<link rel="shortcut icon" href="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/themes/fitsociety/images/icons/icon.png" type="image/x-icon" />
+
+
+
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/themes/fitsociety/images/icons/apple-touch-icon-144x144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/themes/fitsociety/images/icons/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/themes/fitsociety/images/icons/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" href="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/themes/fitsociety/images/icons/apple-touch-icon-precomposed.png">
+
+
+<!--[if lt IE 9]>
+	
+		<link rel="icon" type="image/vnd.microsoft.icon" href="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/themes/fitsociety/images/icons/favicon.ico" />
+		<link rel="SHORTCUT ICON" href="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/themes/fitsociety/images/icons/favicon.ico" />
+
+	
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+	<script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+	<![endif]-->
+
+<script language="JavaScript" type="text/javascript">
+	sSite = "fitsociety.nl";
+	sZone = "";
+	keyword = "";
+	dfp6 = true;
+
+	var adParams = {
+		//"gender":"",
+		//"pc":"",
+		//"brand":"",
+		//"country":"",
+		//"city":"",
+		//"state":"",
+		//"education":""
+	};
+</script>
+
+		<title>FITsociety &#8211; Advies en informatie over: fitness, afvallen, voeding, krachttraining, cardiotraining en voedingssupplementen!</title>
+
+<!-- This site is optimized with the Yoast SEO Premium plugin v4.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Alles over fitness, oefeningen, afvallen, gezonde voeding, krachttraining, cardio en voedingssupplementen!"/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://www.fitsociety.nl/" />
+<link rel="next" href="http://www.fitsociety.nl/page/2/" />
+<link rel="publisher" href="https://plus.google.com/b/107652124299980479523/+FitsocietyNl/"/>
+<meta property="og:locale" content="nl_NL" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="Alles over fitness, oefeningen, afvallen, gezonde voeding, krachttraining, cardio en voedingssupplementen!" />
+<meta property="og:url" content="http://www.fitsociety.nl/" />
+<meta property="og:site_name" content="FITsociety" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Alles over fitness, oefeningen, afvallen, gezonde voeding, krachttraining, cardio en voedingssupplementen!" />
+<meta name="twitter:site" content="@fitsocietynl" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.fitsociety.nl\/","name":"FITsociety","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.fitsociety.nl\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"http:\/\/www.fitsociety.nl\/","sameAs":["https:\/\/www.facebook.com\/fitsocietynl","https:\/\/plus.google.com\/b\/107652124299980479523\/+FitsocietyNl\/","https:\/\/www.youtube.com\/channel\/UCSnu7JyPdmf7N26RlfdUBiA","https:\/\/www.pinterest.com\/FITsociety\/","https:\/\/twitter.com\/fitsocietynl"],"@id":"#organization","name":"FITsociety","logo":"http:\/\/www.fitsociety.nl\/wp-content\/uploads\/2015\/01\/Logo-FS-2.jpg"}</script>
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="FITsociety &raquo; Feed" href="http://www.fitsociety.nl/feed/" />
+<link rel="alternate" type="application/rss+xml" title="FITsociety &raquo; Reactiesfeed" href="http://www.fitsociety.nl/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.fitsociety.nl\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.5"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='fitsociety-google-fonts-css'  href='//fonts.googleapis.com/css?family=Muli%3A300%2C400%2C300italic%2C400italic%7CMontserrat%3A400%2C700%7CRaleway%3A400%2C500%2C600%2C700%2C800&#038;ver=4.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-group-css' href='http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/plugins/bwp-minify/min/?f=wp-content/themes/fitsociety/assets/bootstrap/css/bootstrap.min.css,wp-content/themes/fitsociety/assets/fontawesome/css/font-awesome.min.css,wp-content/themes/fitsociety/css/style.min.css,wp-content/themes/fitsociety/css/updated-style.css,wp-content/plugins/jetpack/css/jetpack.css' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v6.2.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	var disableStr = 'ga-disable-UA-10712746-2';
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-10712746-2', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('require', 'displayfeatures');
+	__gaTracker('send','pageview');
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+<script type='text/javascript' src='http://cdn.nlfitsoci-elmley.savviihq.com/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='http://cdn.nlfitsoci-elmley.savviihq.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"http:\/\/www.fitsociety.nl","track_download_as":"event","internal_label":"int","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js,wp-content/themes/fitsociety/assets/bootstrap/js/bootstrap.min.js,wp-content/themes/fitsociety/assets/galleria/galleria.min.js'></script>
+<link rel='https://api.w.org/' href='http://www.fitsociety.nl/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.fitsociety.nl/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.fitsociety.nl/wp-includes/wlwmanifest.xml" /> 
+<style>a, .btn-default, h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover { color: #000000; }.btn-default, .btn-primary, .panel.panel-featured { border-color: #000000; }.btn-primary, .panel.panel-featured, .flexslider .flex-control-paging li a.flex-active { background-color: #000000; }.btn-primary:hover, .btn-primary:focus, .btn-primary:active { background-color: #000000; border-color: #000000; }body { background-color: ; }</style>
+<!-- Adform Tracking Code BEGIN -->
+<script type="text/javascript">
+    window._adftrack = {
+        pm: 703422
+    };
+    (function () { var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = 'https://track.adform.net/serving/scripts/trackpoint/async/'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x); })();
+
+</script>
+<noscript>
+    <p style="margin:0;padding:0;border:0;">
+        <img src="https://track.adform.net/Serving/TrackPoint/?pm=703422" width="1" height="1" alt="" />
+    </p>
+</noscript>
+<!-- Adform Tracking Code END -->
+
+	<meta property="fb:pages" content="135661863216589" />
+</head>
+
+	<body class="home blog">
+		
+	<div class="modal fade" id="login-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog modal-login">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+					<h4 class="modal-title">
+						Inloggen					</h4>
+				</div>
+				<div class="modal-body">
+					<form class="form-horizontal" action="" method="post">	<div class="login-form-username form-group">		<div class="col-sm-12">			<label for="log-field-1">Gebruikersnaam			</label>			<input id="log-field-1" name="log" type="text" class="text-input form-control" value="" placeholder="Gebruikersnaam" />		</div>	</div>	<div class="login-form-password form-group">		<div class="col-sm-12">			<label for="pwd-field-1">Wachtwoord			</label>			<input id="pwd-field-1" name="pwd" type="password" class="text-input form-control" value="" placeholder="Wachtwoord" />		</div>	</div>	<div class="login-remember-password form-group">		<div class="col-sm-5">			<label for="rememberme-field-1">			<input id="rememberme-field-1" name="rememberme" type="checkbox" class="remember-me checkbox checkbox-inline" checked="checked" value="forever" />Onthoud mij			</label>		</div>		<div class="col-sm-7"><a href="http://www.fitsociety.nl/mijn-account/wachtwoord-vergeten/">Wachtwoord vergeten?</a>		</div>	</div>	<div class="login-form-submit form-group">		<div class="col-sm-12">			<input type="hidden" name="redirect_to" value="http://www.fitsociety.nl/mijn-account/" />			<input type="hidden" name="action" value="log-in" />			<input type="submit" name="submit" class="submit button btn-block btn btn-primary" value="Inloggen" />		</div>	</div></form>
+					
+						<p class="register-reference">
+							Nog geen account? <a href="http://www.fitsociety.nl/registreren/">Registreer je hier</a>.						</p>
+
+									</div>
+			</div>
+		</div>
+	</div>
+
+	
+		<div class="fs-off-canvas-nav off-canvas-menu">
+			
+			
+<a href="http://coaching.fitsociety.nl/">
+	<span class="glyphicon glyphicon-user" aria-hidden="true"></span></a>
+</a>
+
+<a href="http://coaching.fitsociety.nl/">
+	COACH LOGIN</a>		</div>
+
+		<div class="site-wrapper">
+			<header id="header" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
+				<div class="container">
+					<div id="top">
+						<div class="row">
+							<div class="col-sm-2">
+								<div class="site-title" itemscope itemtype="http://schema.org/Organization">
+									<a itemprop="url" href="http://www.fitsociety.nl/" title="FITsociety" rel="home">
+										
+											<img itemprop="logo" src="http://www.fitsociety.nl/wp-content/themes/fitsociety/images/logo.svg" data-src-png="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/themes/fitsociety/images/logo.png" alt="FITsociety" />
+
+																			</a>
+								</div>
+							</div>
+
+							<div class="col-sm-10">
+								<div class="utility">
+									<div class="row">
+										<div class="col-sm-10">
+											<nav id="utility-nav" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+												<ul id="menu-submenu" class="utility-nav"><li id="menu-item-124824" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-124824"><a title="Personal Trainer" href="http://www.fitsociety.nl/personal-trainer/">Personal Trainer</a></li>
+<li id="menu-item-111618" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111618"><a title="Fitness oefeningen" href="http://www.fitsociety.nl/fitness-oefeningen/">Fitness oefeningen</a></li>
+<li id="menu-item-108939" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108939"><a title="Sportscholen" href="http://www.fitsociety.nl/sportschool/">Sportscholen</a></li>
+<li id="menu-item-111619" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111619"><a title="Voedingssupplementen" href="http://www.fitsociety.nl/voedingssupplementen/">Voedingssupplementen</a></li>
+<li id="menu-item-111620" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111620"><a title="Recepten" href="http://www.fitsociety.nl/recepten/">Recepten</a></li>
+</ul>											</nav>
+										</div>
+										<div class="col-sm-2">
+											
+<a class="account-reference" href="http://coaching.fitsociety.nl/">
+	COACH LOGIN</a>										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<nav class="fs-primary-nav" id="primary-nav" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+					<div class="container">
+						<div class="row">
+							<div class="col-xs-2 col-lg-10">
+
+								<button type="button" class="toggle-main-nav">
+									<span class="sr-only">Toggle navigatie</span>
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+								</button>
+
+								<div class="navigation"><ul id="menu-main-menu" class="main-nav"><li id="menu-item-115415" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-115415"><a title="fitness" href="http://www.fitsociety.nl/fitness/">Fitness</a></li>
+<li id="menu-item-108856" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108856"><a title="Droog trainen" href="http://www.fitsociety.nl/fitness-droogtrainen/">Droog trainen</a></li>
+<li id="menu-item-108854" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108854"><a title="Krachttraining" href="http://www.fitsociety.nl/krachttraining/">Krachttraining</a></li>
+<li id="menu-item-110031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-110031"><a title="Bodybuilding" href="http://www.fitsociety.nl/bodybuilding/">Bodybuilding</a></li>
+<li id="menu-item-113161" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-113161"><a title="Afvallen" href="http://www.fitsociety.nl/afvallen/">Afvallen</a></li>
+<li id="menu-item-113162" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-113162"><a title="Cardio" href="http://www.fitsociety.nl/cardio/">Cardio</a></li>
+<li id="menu-item-113165" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-113165"><a title="Gezonde voeding" href="http://www.fitsociety.nl/gezonde-voeding/">Gezonde voeding</a></li>
+</ul></div>							</div>
+
+							<div class="col-xs-8 hidden-lg">
+								<div class="site-title">
+									<a href="http://www.fitsociety.nl/" title="FITsociety" rel="home">
+										
+											<img src="http://www.fitsociety.nl/wp-content/themes/fitsociety/images/logo-fit-society-mobiel2.svg" data-src-png="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/themes/fitsociety/images/logo-fit-society-mobiel2.png" alt="FITsociety" />
+
+																			</a>
+								</div>
+							</div>
+
+							<div class="col-xs-2">
+								<div class="search-wrapper">
+									<a class="search-toggle" data-toggle="collapse" data-target=".search-container"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></a>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="search-nav">
+						<div class="container">
+							<div class="row">
+								<div class="col-lg-4 col-lg-offset-8">
+									<div class="search-container collapse">
+										<form method="get" id="searchform" action="http://www.fitsociety.nl/">
+	<label for="s" class="assistive-text">
+		Zoeken	</label>
+
+	<div class="input-group">
+		<input id="search-input" type="text" name="s" value="" class="form-control" placeholder="Zoeken&hellip;" autofocus="autofocus" />
+	
+		<span class="input-group-btn">
+			<button class="btn btn-default" type="submit">Zoeken</button>
+		</span>
+	</div>
+</form>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</nav>
+
+				
+					<div class="container">
+						<div class="banner-area home hidden-xs">
+							<script data-adfscript="adx.adform.net/adx/?mid=113776"></script>
+<script src="//s1.adform.net/banners/scripts/adx.js" async defer></script>						</div>
+
+						
+							<div class="banner-area home visible-xs">
+								<script type="text/javascript" async src="http://adx.adform.net/adx/?mid=114118"></script>							</div>
+
+											</div>
+
+				
+			</header>
+			<div class="container">
+
+
+	<div class="row primary-loop">
+		<div class="col-md-8">
+							
+	<article id="post-126238" class="first post-126238 post type-post status-publish format-standard has-post-thumbnail hentry category-bcaa-posts category-supplementen product_category-bcaa">
+		<header class="entry-header">
+			<h2 class="entry-title">
+				<a href="http://www.fitsociety.nl/bcaa/bcaas-het-kort/">BCAA&#8217;s in het kort</a>
+			</h2>
+		</header>
+
+		<a href="http://www.fitsociety.nl/bcaa/bcaas-het-kort/">
+			<img width="750" height="470" src="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/06/BCAA-in-kort-750x470.jpg" class="featured wp-post-image" alt="BCAA-in-kort" data-attachment-id="126245" data-permalink="http://www.fitsociety.nl/bcaa/bcaas-het-kort/attachment/bcaa-in-kort/" data-orig-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/06/BCAA-in-kort-e1496858568712.jpg" data-orig-size="1140,641" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="BCAA-in-kort" data-image-description="" data-medium-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/06/BCAA-in-kort-300x169.jpg" data-large-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/06/BCAA-in-kort-818x460.jpg" />		</a>
+	</article>
+
+					</div>
+
+		<div class="col-md-4">
+			<div class="row">
+									<div class="col-md-12 col-xs-6">
+						
+	<article id="post-126175" class="loop post-126175 post type-post status-publish format-standard has-post-thumbnail hentry category-algemeen category-fitness category-interview">
+		<header class="entry-header">
+			<a href="http://www.fitsociety.nl/algemeen/interview-rick-geenen/">
+				<img width="360" height="220" src="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/06/Rick-Geenen-Fitnet-360x220.jpg" class="featured wp-post-image" alt="Rick Geenen Fitnet" data-attachment-id="126199" data-permalink="http://www.fitsociety.nl/algemeen/interview-rick-geenen/attachment/rick-geenen-fitnet/" data-orig-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/06/Rick-Geenen-Fitnet.jpg" data-orig-size="1140,640" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Rick Geenen Fitnet" data-image-description="" data-medium-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/06/Rick-Geenen-Fitnet-300x168.jpg" data-large-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/06/Rick-Geenen-Fitnet-819x460.jpg" />			</a>
+
+			<h2 class="entry-title">
+				<a href="http://www.fitsociety.nl/algemeen/interview-rick-geenen/">Interview Rick Geenen</a>
+			</h2>
+		</header>
+	</article>
+
+					</div>
+									<div class="col-md-12 col-xs-6">
+						
+	<article id="post-126163" class="loop post-126163 post type-post status-publish format-standard has-post-thumbnail hentry category-afvallen category-dieet">
+		<header class="entry-header">
+			<a href="http://www.fitsociety.nl/afvallen/de-hersens-vertragen-calorieverbranding-tijdens-een-dieet/">
+				<img width="360" height="220" src="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/05/hersenen-vertragen-calorieverbranding-360x220.jpg" class="featured wp-post-image" alt="hersenen vertragen calorieverbranding" data-attachment-id="126171" data-permalink="http://www.fitsociety.nl/afvallen/de-hersens-vertragen-calorieverbranding-tijdens-een-dieet/attachment/hersenen-vertragen-calorieverbranding/" data-orig-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/05/hersenen-vertragen-calorieverbranding-e1496262426263.jpg" data-orig-size="1280,640" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="hersenen vertragen calorieverbranding" data-image-description="" data-medium-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/05/hersenen-vertragen-calorieverbranding-300x150.jpg" data-large-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/05/hersenen-vertragen-calorieverbranding-920x460.jpg" />			</a>
+
+			<h2 class="entry-title">
+				<a href="http://www.fitsociety.nl/afvallen/de-hersens-vertragen-calorieverbranding-tijdens-een-dieet/">De hersens vertragen calorieverbranding tijdens een dieet</a>
+			</h2>
+		</header>
+	</article>
+
+					</div>
+							</div>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-md-8">
+			<div class="block">
+				<div class="row">
+					
+						<div class="col-sm-6">
+							<article id="post-126159" class="loop post-126159 post type-post status-publish format-standard has-post-thumbnail hentry category-fitness category-motivatie">
+	<header class="entry-header">
+		<h2 class="entry-title">
+			<a href="http://www.fitsociety.nl/fitness/hoge-fysieke-activiteit-kan-cellen-verjongen-met-9-jaar/">&#8216;Hoge fysieke activiteit kan cellen verjongen met 9 jaar&#8217;</a>
+		</h2>
+
+		<a href="http://www.fitsociety.nl/fitness/hoge-fysieke-activiteit-kan-cellen-verjongen-met-9-jaar/">
+			<img width="768" height="533" src="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/02/meer-bewegen-afvallen-768x533.jpg" class="featured wp-post-image" alt="meer-bewegen-afvallen" data-attachment-id="123989" data-permalink="http://www.fitsociety.nl/afvallen/meer-bewegen-genoeg-om-af-vallen/attachment/meer-bewegen-afvallen/" data-orig-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/02/meer-bewegen-afvallen-e1487535310106.jpg" data-orig-size="1140,641" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="meer-bewegen-afvallen" data-image-description="" data-medium-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/02/meer-bewegen-afvallen-300x169.jpg" data-large-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/02/meer-bewegen-afvallen-818x460.jpg" />		</a>
+	</header>
+
+	<footer class="entry-footer">
+		<div class="entry-meta">
+			<p class="publication-meta"><span class="author"><img width="34" height="34" src="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-35x35.jpg" class="avatar" alt="" srcset="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-35x35.jpg 35w, http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-250x250.jpg 250w" sizes="(max-width: 34px) 100vw, 34px" data-attachment-id="122456" data-permalink="http://www.fitsociety.nl/kn1_2211facebook/" data-orig-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601.jpg" data-orig-size="3813,2706" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;16&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;NIKON D750&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1473265054&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;70&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.01&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="kn1_2211facebook" data-image-description="" data-medium-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-300x213.jpg" data-large-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-648x460.jpg" /><span class="url fn n">Kenneth Nwosu</span></span><time class="entry-date" datetime="2017-05-30T10:53:37+00:00"><i class="fa fa-clock-o"></i>30 mei 2017</time></p>		</div>
+	</footer>
+</article>
+						</div>
+
+					
+						<div class="col-sm-6">
+							<article id="post-126152" class="loop post-126152 post type-post status-publish format-standard has-post-thumbnail hentry category-afvallen category-afvallen-tips category-gezonde-voeding">
+	<header class="entry-header">
+		<h2 class="entry-title">
+			<a href="http://www.fitsociety.nl/afvallen/aanuit-knop-vreetbuien-gevonden-de-hersenen/">&#8216;AAN/UIT-knop vreetbuien gevonden in de hersenen&#8217;</a>
+		</h2>
+
+		<a href="http://www.fitsociety.nl/afvallen/aanuit-knop-vreetbuien-gevonden-de-hersenen/">
+			<img width="768" height="533" src="http://www.fitsociety.nl/wp-content/uploads/2017/05/aan-uit-knop-vreetbuien-768x533.jpeg" class="featured wp-post-image" alt="aan uit knop vreetbuien" data-attachment-id="126156" data-permalink="http://www.fitsociety.nl/afvallen/aanuit-knop-vreetbuien-gevonden-de-hersenen/attachment/aan-uit-knop-vreetbuien/" data-orig-file="http://www.fitsociety.nl/wp-content/uploads/2017/05/aan-uit-knop-vreetbuien-e1496048846927.jpeg" data-orig-size="1140,713" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="aan uit knop vreetbuien" data-image-description="" data-medium-file="http://www.fitsociety.nl/wp-content/uploads/2017/05/aan-uit-knop-vreetbuien-300x188.jpeg" data-large-file="http://www.fitsociety.nl/wp-content/uploads/2017/05/aan-uit-knop-vreetbuien-736x460.jpeg" />		</a>
+	</header>
+
+	<footer class="entry-footer">
+		<div class="entry-meta">
+			<p class="publication-meta"><span class="author"><img width="34" height="34" src="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-35x35.jpg" class="avatar" alt="" srcset="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-35x35.jpg 35w, http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-250x250.jpg 250w" sizes="(max-width: 34px) 100vw, 34px" data-attachment-id="122456" data-permalink="http://www.fitsociety.nl/kn1_2211facebook/" data-orig-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601.jpg" data-orig-size="3813,2706" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;16&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;NIKON D750&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1473265054&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;70&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.01&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="kn1_2211facebook" data-image-description="" data-medium-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-300x213.jpg" data-large-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-648x460.jpg" /><span class="url fn n">Kenneth Nwosu</span></span><time class="entry-date" datetime="2017-05-29T08:45:39+00:00"><i class="fa fa-clock-o"></i>29 mei 2017</time></p>		</div>
+	</footer>
+</article>
+						</div>
+
+					
+						<div class="col-sm-6">
+							<article id="post-126114" class="loop post-126114 post type-post status-publish format-standard has-post-thumbnail hentry category-fitness category-wearables">
+	<header class="entry-header">
+		<h2 class="entry-title">
+			<a href="http://www.fitsociety.nl/fitness/smartwatch-niet-zo-smart-meten-energieverbruik/">&#8216;Smartwatch niet zo smart in meten energieverbruik&#8217;</a>
+		</h2>
+
+		<a href="http://www.fitsociety.nl/fitness/smartwatch-niet-zo-smart-meten-energieverbruik/">
+			<img width="768" height="533" src="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/05/smartwatch-niet-zo-smart-768x533.jpg" class="featured wp-post-image" alt="smartwatch niet zo smart" data-attachment-id="126136" data-permalink="http://www.fitsociety.nl/fitness/smartwatch-niet-zo-smart-meten-energieverbruik/attachment/smartwatch-niet-zo-smart/" data-orig-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/05/smartwatch-niet-zo-smart-e1495990610175.jpg" data-orig-size="1140,641" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="smartwatch niet zo smart" data-image-description="" data-medium-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/05/smartwatch-niet-zo-smart-300x169.jpg" data-large-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/05/smartwatch-niet-zo-smart-818x460.jpg" />		</a>
+	</header>
+
+	<footer class="entry-footer">
+		<div class="entry-meta">
+			<p class="publication-meta"><span class="author"><img width="34" height="34" src="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-35x35.jpg" class="avatar" alt="" srcset="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-35x35.jpg 35w, http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-250x250.jpg 250w" sizes="(max-width: 34px) 100vw, 34px" data-attachment-id="122456" data-permalink="http://www.fitsociety.nl/kn1_2211facebook/" data-orig-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601.jpg" data-orig-size="3813,2706" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;16&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;NIKON D750&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1473265054&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;70&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.01&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="kn1_2211facebook" data-image-description="" data-medium-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-300x213.jpg" data-large-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-648x460.jpg" /><span class="url fn n">Kenneth Nwosu</span></span><time class="entry-date" datetime="2017-05-27T16:10:52+00:00"><i class="fa fa-clock-o"></i>27 mei 2017</time></p>		</div>
+	</footer>
+</article>
+						</div>
+
+					
+						<div class="col-sm-6">
+							<article id="post-126126" class="loop post-126126 post type-post status-publish format-standard has-post-thumbnail hentry category-fatburners-posts category-testosteron-booster-posts category-supplementen">
+	<header class="entry-header">
+		<h2 class="entry-title">
+			<a href="http://www.fitsociety.nl/supplementen/gevaar-voor-bloeddruk-voedingssupplementen-als-libidoverhogers-en-afslankpillen/">&#8216;Gevaar voor bloeddruk voedingssupplementen als libidoverhogers en afslankpillen&#8217;</a>
+		</h2>
+
+		<a href="http://www.fitsociety.nl/supplementen/gevaar-voor-bloeddruk-voedingssupplementen-als-libidoverhogers-en-afslankpillen/">
+			<img width="768" height="533" src="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/05/onveilige-supplementen-nvwa-768x533.jpg" class="featured wp-post-image" alt="onveilige supplementen nvwa" data-attachment-id="126135" data-permalink="http://www.fitsociety.nl/supplementen/gevaar-voor-bloeddruk-voedingssupplementen-als-libidoverhogers-en-afslankpillen/attachment/onveilige-supplementen-nvwa/" data-orig-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/05/onveilige-supplementen-nvwa-e1495990486287.jpg" data-orig-size="1140,641" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="onveilige supplementen nvwa" data-image-description="" data-medium-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/05/onveilige-supplementen-nvwa-300x169.jpg" data-large-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/05/onveilige-supplementen-nvwa-818x460.jpg" />		</a>
+	</header>
+
+	<footer class="entry-footer">
+		<div class="entry-meta">
+			<p class="publication-meta"><span class="author"><img width="34" height="34" src="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-35x35.jpg" class="avatar" alt="" srcset="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-35x35.jpg 35w, http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-250x250.jpg 250w" sizes="(max-width: 34px) 100vw, 34px" data-attachment-id="122456" data-permalink="http://www.fitsociety.nl/kn1_2211facebook/" data-orig-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601.jpg" data-orig-size="3813,2706" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;16&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;NIKON D750&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1473265054&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;70&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.01&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="kn1_2211facebook" data-image-description="" data-medium-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-300x213.jpg" data-large-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-648x460.jpg" /><span class="url fn n">Kenneth Nwosu</span></span><time class="entry-date" datetime="2017-05-27T16:09:33+00:00"><i class="fa fa-clock-o"></i>27 mei 2017</time></p>		</div>
+	</footer>
+</article>
+						</div>
+
+									</div>
+			</div>
+
+			
+					</div>
+
+		
+		
+			<div class="col-md-4 banner-col">
+				<div class="banner-area">
+					<script data-adfscript="adx.adform.net/adx/?mid=114081"></script>
+<script src="//s1.adform.net/banners/scripts/adx.js" async defer></script>				</div>
+			</div>
+			</div>
+
+	
+
+<div class="row">
+	<div class="col-md-8">
+		<div class="block">
+			<div class="row">
+				<div class="load-posts">
+					<div class="repeat">
+						
+							<div class="col-sm-6">
+								<article id="post-126122" class="loop post-126122 post type-post status-publish format-standard has-post-thumbnail hentry category-beginnen-met-fitness category-fitness">
+	<header class="entry-header">
+		<h2 class="entry-title">
+			<a href="http://www.fitsociety.nl/fitness/de-foute-fitness-filosofie-doe-het-goed-doe-het-niet/">De foute fitness filosofie: &#8220;Doe het goed of doe het niet&#8221;</a>
+		</h2>
+
+		<a href="http://www.fitsociety.nl/fitness/de-foute-fitness-filosofie-doe-het-goed-doe-het-niet/">
+			<img width="768" height="533" src="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/05/fitness-filosofie-768x533.jpg" class="featured wp-post-image" alt="fitness filosofie" data-attachment-id="126130" data-permalink="http://www.fitsociety.nl/fitness/de-foute-fitness-filosofie-doe-het-goed-doe-het-niet/attachment/fitness-filosofie/" data-orig-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/05/fitness-filosofie-e1495990029399.jpg" data-orig-size="1140,713" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="fitness filosofie" data-image-description="" data-medium-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/05/fitness-filosofie-300x188.jpg" data-large-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/05/fitness-filosofie-736x460.jpg" />		</a>
+	</header>
+
+	<footer class="entry-footer">
+		<div class="entry-meta">
+			<p class="publication-meta"><span class="author"><img width="34" height="34" src="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-35x35.jpg" class="avatar" alt="" srcset="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-35x35.jpg 35w, http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-250x250.jpg 250w" sizes="(max-width: 34px) 100vw, 34px" data-attachment-id="122456" data-permalink="http://www.fitsociety.nl/kn1_2211facebook/" data-orig-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601.jpg" data-orig-size="3813,2706" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;16&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;NIKON D750&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1473265054&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;70&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.01&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="kn1_2211facebook" data-image-description="" data-medium-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-300x213.jpg" data-large-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-648x460.jpg" /><span class="url fn n">Kenneth Nwosu</span></span><time class="entry-date" datetime="2017-05-27T15:22:08+00:00"><i class="fa fa-clock-o"></i>27 mei 2017</time></p>		</div>
+	</footer>
+</article>
+							</div>
+
+						
+							<div class="col-sm-6">
+								<article id="post-126101" class="loop post-126101 post type-post status-publish format-standard has-post-thumbnail hentry category-basisregels-fitness category-fitness">
+	<header class="entry-header">
+		<h2 class="entry-title">
+			<a href="http://www.fitsociety.nl/fitness/baby-beckham-gym-leidt-tot-discussie/">Baby Beckham in gym leidt tot discussie</a>
+		</h2>
+
+		<a href="http://www.fitsociety.nl/fitness/baby-beckham-gym-leidt-tot-discussie/">
+			<img width="768" height="533" src="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/05/cruz-beckham-768x533.jpg" class="featured wp-post-image" alt="cruz beckham" data-attachment-id="126110" data-permalink="http://www.fitsociety.nl/fitness/baby-beckham-gym-leidt-tot-discussie/attachment/cruz-beckham/" data-orig-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/05/cruz-beckham-e1495660362427.jpg" data-orig-size="1140,759" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="cruz beckham" data-image-description="" data-medium-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/05/cruz-beckham-300x200.jpg" data-large-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/05/cruz-beckham-690x460.jpg" />		</a>
+	</header>
+
+	<footer class="entry-footer">
+		<div class="entry-meta">
+			<p class="publication-meta"><span class="author"><img width="34" height="34" src="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-35x35.jpg" class="avatar" alt="" srcset="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-35x35.jpg 35w, http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-250x250.jpg 250w" sizes="(max-width: 34px) 100vw, 34px" data-attachment-id="122456" data-permalink="http://www.fitsociety.nl/kn1_2211facebook/" data-orig-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601.jpg" data-orig-size="3813,2706" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;16&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;NIKON D750&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1473265054&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;70&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.01&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="kn1_2211facebook" data-image-description="" data-medium-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-300x213.jpg" data-large-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-648x460.jpg" /><span class="url fn n">Kenneth Nwosu</span></span><time class="entry-date" datetime="2017-05-24T18:03:56+00:00"><i class="fa fa-clock-o"></i>24 mei 2017</time></p>		</div>
+	</footer>
+</article>
+							</div>
+
+						
+							<div class="col-sm-6">
+								<article id="post-126095" class="loop post-126095 post type-post status-publish format-standard has-post-thumbnail hentry category-afvallen category-dieet">
+	<header class="entry-header">
+		<h2 class="entry-title">
+			<a href="http://www.fitsociety.nl/afvallen/beoordeel-een-maaltijd-niet-op-zijn-macros/">&#8220;Beoordeel een maaltijd niet op zijn macro&#8217;s&#8221;</a>
+		</h2>
+
+		<a href="http://www.fitsociety.nl/afvallen/beoordeel-een-maaltijd-niet-op-zijn-macros/">
+			<img width="768" height="533" src="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/05/maaltijd-macros-768x533.jpg" class="featured wp-post-image" alt="maaltijd macros" data-attachment-id="126109" data-permalink="http://www.fitsociety.nl/afvallen/beoordeel-een-maaltijd-niet-op-zijn-macros/attachment/maaltijd-macros/" data-orig-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/05/maaltijd-macros-e1495660132962.jpg" data-orig-size="1140,641" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="maaltijd macros" data-image-description="" data-medium-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/05/maaltijd-macros-300x169.jpg" data-large-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/05/maaltijd-macros-818x460.jpg" />		</a>
+	</header>
+
+	<footer class="entry-footer">
+		<div class="entry-meta">
+			<p class="publication-meta"><span class="author"><img width="34" height="34" src="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-35x35.jpg" class="avatar" alt="" srcset="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-35x35.jpg 35w, http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-250x250.jpg 250w" sizes="(max-width: 34px) 100vw, 34px" data-attachment-id="122456" data-permalink="http://www.fitsociety.nl/kn1_2211facebook/" data-orig-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601.jpg" data-orig-size="3813,2706" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;16&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;NIKON D750&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1473265054&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;70&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.01&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="kn1_2211facebook" data-image-description="" data-medium-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-300x213.jpg" data-large-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-648x460.jpg" /><span class="url fn n">Kenneth Nwosu</span></span><time class="entry-date" datetime="2017-05-24T15:11:35+00:00"><i class="fa fa-clock-o"></i>24 mei 2017</time></p>		</div>
+	</footer>
+</article>
+							</div>
+
+						
+							<div class="col-sm-6">
+								<article id="post-126084" class="loop post-126084 post type-post status-publish format-standard has-post-thumbnail hentry category-afvallen category-caloriebehoefte-berekenen">
+	<header class="entry-header">
+		<h2 class="entry-title">
+			<a href="http://www.fitsociety.nl/afvallen/tmi-plaats-van-bmi/">TMI in plaats van BMI?</a>
+		</h2>
+
+		<a href="http://www.fitsociety.nl/afvallen/tmi-plaats-van-bmi/">
+			<img width="768" height="533" src="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/05/TMI-index-768x533.jpg" class="featured wp-post-image" alt="TMI index" data-attachment-id="126105" data-permalink="http://www.fitsociety.nl/afvallen/tmi-plaats-van-bmi/attachment/tmi-index/" data-orig-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/05/TMI-index-e1495659957858.jpg" data-orig-size="1140,641" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="TMI index" data-image-description="" data-medium-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/05/TMI-index-300x169.jpg" data-large-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2017/05/TMI-index-818x460.jpg" />		</a>
+	</header>
+
+	<footer class="entry-footer">
+		<div class="entry-meta">
+			<p class="publication-meta"><span class="author"><img width="34" height="34" src="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-35x35.jpg" class="avatar" alt="" srcset="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-35x35.jpg 35w, http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-250x250.jpg 250w" sizes="(max-width: 34px) 100vw, 34px" data-attachment-id="122456" data-permalink="http://www.fitsociety.nl/kn1_2211facebook/" data-orig-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601.jpg" data-orig-size="3813,2706" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;16&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;NIKON D750&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1473265054&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;70&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.01&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="kn1_2211facebook" data-image-description="" data-medium-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-300x213.jpg" data-large-file="http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/uploads/2016/12/KN1_2211facebook-e1482945595601-648x460.jpg" /><span class="url fn n">Kenneth Nwosu</span></span><time class="entry-date" datetime="2017-05-24T11:21:51+00:00"><i class="fa fa-clock-o"></i>24 mei 2017</time></p>		</div>
+	</footer>
+</article>
+							</div>
+
+											</div>
+				</div>
+			</div>
+		</div>
+
+		
+			</div>
+
+	<div class="col-md-4 banner-col">
+		
+					<div id="pronamic_recent_comments-4" class="widget widget_pronamic_recent_comments"><h3 class="widget-title">Laatste reacties</h3>
+		<ul class="recent-comments">
+												<li class="comment">
+						<span class="comment-author-link">Kenneth Nwosu</span> op <a href="http://www.fitsociety.nl/krachttraining/rug-trainen-effectiviteit-van-verschillende-oefeningen-en-grepen-vergeleken/#comment-36246">De beste manier om je rug te trainen</a><i class="fa fa-caret-right"></i>					</li>
+									<li class="comment">
+						<span class="comment-author-link">Bertjan</span> op <a href="http://www.fitsociety.nl/krachttraining/rug-trainen-effectiviteit-van-verschillende-oefeningen-en-grepen-vergeleken/#comment-36244">De beste manier om je rug te trainen</a><i class="fa fa-caret-right"></i>					</li>
+									<li class="comment">
+						<span class="comment-author-link">Bertjan</span> op <a href="http://www.fitsociety.nl/krachttraining/rug-trainen-effectiviteit-van-verschillende-oefeningen-en-grepen-vergeleken/#comment-36243">De beste manier om je rug te trainen</a><i class="fa fa-caret-right"></i>					</li>
+									<li class="comment">
+						<span class="comment-author-link">Hannah</span> op <a href="http://www.fitsociety.nl/afvallen/lagere-pijngrens-door-overgewicht/#comment-36202">Lagere pijngrens door overgewicht?</a><i class="fa fa-caret-right"></i>					</li>
+									<li class="comment">
+						<span class="comment-author-link">Kenneth Nwosu</span> op <a href="http://www.fitsociety.nl/krachttraining/rug-trainen-effectiviteit-van-verschillende-oefeningen-en-grepen-vergeleken/#comment-36102">De beste manier om je rug te trainen</a><i class="fa fa-caret-right"></i>					</li>
+									</ul>
+
+		</div><div id="pronamic_banner-7" class="widget widget_pronamic_banner"><script data-adfscript="adx.adform.net/adx/?mid=114097"></script>
+<script src="//s1.adform.net/banners/scripts/adx.js" async defer></script></div>			</div>
+</div>
+
+			</div>
+			<footer class="site-footer">
+
+				<div class="widget-container">
+					<div class="container">
+
+						<a class="scroll-top" href="#header">
+							<i class="fa fa-chevron-up"></i>
+						</a>
+
+						<div class="row">
+							<div class="col-lg-3">
+								
+									<h1 class="foot-title">
+										FITsociety - Advies en informatie over: fitness, afvallen, voeding, krachttraining, cardiotraining en voedingssupplementen!									</h1>
+
+															</div>
+
+							<div class="col-lg-9">
+
+								<div class="hidden-xs">
+																	</div>
+
+								 
+
+									<div class="row">
+										<div class="footer-widgets">
+											<div class="col-md-4"><div id="nav_menu-5" class="widget widget_nav_menu"><div class="menu-social-container"><ul id="menu-social" class="menu"><li id="menu-item-110012" class="facebook menu-item menu-item-type-custom menu-item-object-custom menu-item-110012"><a href="https://www.facebook.com/fitsocietynl">Facebook</a></li>
+<li id="menu-item-110013" class="twitter menu-item menu-item-type-custom menu-item-object-custom menu-item-110013"><a href="https://twitter.com/fitsocietynl">Twitter</a></li>
+<li id="menu-item-110015" class="googleplus menu-item menu-item-type-custom menu-item-object-custom menu-item-110015"><a href="https://plus.google.com/107652124299980479523/">Google+</a></li>
+</ul></div></div></div>										</div>
+									</div>
+
+															</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="colophon">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-12">
+								<nav id="footer-nav">
+									<ul id="menu-footer-menu" class="menu"><li id="menu-item-110020" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-110020"><a title="Contact met FITsociety" href="http://www.fitsociety.nl/over-ons/">Contact met FITsociety</a></li>
+</ul>								</nav>
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="col-md-12">
+								<p class="copyrights">
+									&copy; 2017 FITsociety. Alle rechten voorbehouden.								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</footer>
+		</div>
+
+		<!-- VMG NL FITsociety inpagevideo -->
+		<div id="inPageVideo"></div>
+		<script type="text/javascript" async src="//nl.vmg.host/adServ/placement/id/2415"></script>
+
+<!-- PacificYield YIELDTAG - Only for use on fitsociety.nl -->
+<script type="text/javascript">
+var pymt = document.createElement("script");
+pymt.type = "text/javascript";pymt.src = "//wwa.pacific-yield.com/yield/yieldtag.php?pi=304&psi=674&cr=1447341782&cb=" + Math.random();
+pymt.setAttribute("async", "true");
+document.body.appendChild(pymt);
+</script>
+
+		<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201723'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fitsociety_posts = {"startPage":"1","maxPages":"91","nextLink":"http:\/\/www.fitsociety.nl\/page\/2\/","buttonText":"Laad meer","loadingText":"Bezig met laden\u2026"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cdn.nlfitsoci-elmley.savviihq.com/wp-content/plugins/bwp-minify/min/?f=wp-content/themes/fitsociety/assets/isotope/dist/isotope.pkgd.min.js,wp-content/themes/fitsociety/assets/modernizr/modernizr.min.js,wp-content/themes/fitsociety/js/script.min.js,wp-content/themes/fitsociety/js/calculate-bmr.js,wp-content/themes/fitsociety/js/load-posts.js,wp-includes/js/wp-embed.min.js'></script>
+	</body>
+</html>

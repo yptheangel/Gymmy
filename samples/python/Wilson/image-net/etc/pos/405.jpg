@@ -1,0 +1,749 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>
+	His and Her Fitness | 
+    Helping One Person at a Time Live a Healthy Life    </title>
+    <meta charset="UTF-8" />
+    
+		     <link rel="shortcut icon" href="http://hisandherfitness.net/wp-content/uploads/favicon.ico" />
+     <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"><link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="His and Her Fitness &raquo; Feed" href="http://hisandherfitness.net/feed/" />
+<link rel="alternate" type="application/rss+xml" title="His and Her Fitness &raquo; Comments Feed" href="http://hisandherfitness.net/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/hisandherfitness.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.5"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://hisandherfitness.net/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ctwg-shortcodes-css'  href='http://hisandherfitness.net/wp-content/plugins/cpo-widgets/css/style.css?ver=4.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='http://hisandherfitness.net/wp-content/themes/gymguide/style.css?ver=4.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='style_css-css'  href='http://hisandherfitness.net/wp-content/themes/gymguide-child/style.css?ver=4.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='widget_css-css'  href='http://hisandherfitness.net/wp-content/themes/gymguide/css/widget.css?ver=4.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap_css-css'  href='http://hisandherfitness.net/wp-content/themes/gymguide/css/bootstrap.css?ver=4.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome_css-css'  href='http://hisandherfitness.net/wp-content/themes/gymguide/css/font-awesome.css?ver=4.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css'  href='http://hisandherfitness.net/wp-includes/js/mediaelement/mediaelementplayer.min.css?ver=2.22.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='http://hisandherfitness.net/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=4.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive_css-css'  href='http://hisandherfitness.net/wp-content/themes/gymguide/css/responsive.css?ver=4.7.5' type='text/css' media='all' />
+<script type='text/javascript' src='http://hisandherfitness.net/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://hisandherfitness.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://hisandherfitness.net/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://hisandherfitness.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://hisandherfitness.net/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.5" />
+<link rel="canonical" href="http://hisandherfitness.net/" />
+<link rel='shortlink' href='http://hisandherfitness.net/' />
+<link rel="alternate" type="application/json+oembed" href="http://hisandherfitness.net/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fhisandherfitness.net%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://hisandherfitness.net/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fhisandherfitness.net%2F&#038;format=xml" />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//hisandherfitness.net/?wordfence_logHuman=1&hid=AD6CA1DE5A4A2D21869E2353A5E8864C');
+</script><!-- <meta name="NextGEN" version="2.2.3" /> -->
+<style> body{ font-size:14px !important; } </style><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #d3d3d3; }
+</style>
+
+<!-- WordPress Facebook Open Graph protocol plugin (WPFBOGP v2.0.13) http://rynoweb.com/wordpress-plugins/ -->
+<meta property="fb:app_id" content="His-Her-Fitness-129422270413652"/>
+<meta property="og:url" content="http://hisandherfitness.net/"/>
+<meta property="og:title" content="His and Her Fitness"/>
+<meta property="og:site_name" content="His and Her Fitness"/>
+<meta property="og:description" content=""/>
+<meta property="og:type" content="website"/>
+<meta property="og:image" content="http://hisandherfitness.net/wp-content/uploads/homepage5.jpg"/>
+<meta property="og:locale" content="en_us"/>
+<!-- // end wpfbogp -->
+
+<!-- BEGIN GADWP v4.9.6.2 Universal Tracking - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-5497261-15', 'auto');
+  ga('send', 'pageview');
+</script>
+
+<!-- END GADWP Universal Tracking -->
+
+    </head>
+	<body class="home page-template-default page page-id-8143 custom-background"id="" >
+	  	<style type="text/css">
+		@charset "utf-8";
+		/* Theme Color */
+		.colr, .colrhvr:hover,div.woocommerce a:hover,.colrhover:hover,.eventlisting article:hover h2 a ,.services article:hover figure em ,.services article:hover h5,.widget_links ul li:hover a:before,.widget_links ul li:hover a ,.star-rating span:before ,.price-table article.price-style1:hover h4,.timing_shortcode article:hover .fa ,.post-option li a:hover, .blog-large .text h2 a:hover, .post-tags ul li a:hover, #comments .text a.reply:hover ,.post-options li a:hover,.event article .text h2 a:hover{
+			color: #555555 !important;
+		}
+		/* Theme Background Color */
+		.bgcolr,.bgcolrhvr:hover,#header:before,.pagination > ul > .active > a:before,.widget_archive ul li:hover,.widget_banner figure:hover figcaption .cs-post-title a,.btnopening:hover em,.craousel-view .flex-direction-nav li a:hover,.our-trainers article:hover .text .cs-post-title a,.price-table article.price-style1:hover span.price-box,.timing_shortcode article:hover:before,.share-post, #respond form button:hover ,.widget_gallery ul li a:after,.address-info ul li:hover figure,.pagination .active , blockquote:before , .buynow:hover,
+.post-btn a:hover,.gallerysec ul li figure figcaption i,#wp-calendar caption,.widget_pages ul li a:hover,.widget_meta ul li:hover,.widget_recent_comments ul li:hover,
+.widget_recent_entries ul li:hover,.widget_nav_menu ul li a:hover,.widget_tag_cloud .tagcloud a:hover,.comment-edit-link:hover,.onsale,.add_to_cart_button.button:hover,
+.woocommerce-pagination ul li span,.woocommerce-pagination ul li a:hover,.woocommerce-message:before,.woocommerce-error:before,.woocommerce-info:before,
+div.woocommerce .button:hover,.password_protected .protected-icon,#undercontruction,.dropcap:first-letter, .dropcap p:first-letter, .dropcaptwo:first-letter,
+.our_classes.craousel-view article figure.no-img,.our-trainers.trainer-list-view article figure.no-img,.latest-video article figure.no-img,.latest-video article:hover figure figcaption,.latest-video article:hover .text a,#cs-under-construction,.widget_newsletter #process_newsletter_1{
+			background-color: #555555 !important;
+		}
+		/* Theme Border Color */
+		.bdrcolr,body,a.btnopening em,.woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit,
+.woocommerce #content input.button,.woocommerce-page a.button,.woocommerce-page button.button,.woocommerce-page input.button,.woocommerce-page #respond input#submit,
+.woocommerce-page #content input.button,.woocommerce-info{
+			border-color:  #555555 !important;
+		}
+		.blockquote blockquote:before {
+			border-color: transparent #555555 !important;
+		}
+		.contactus #respond .right-col p.form-submit button:hover:before,{
+			border-color: transparent transparent  #555555 transparent  !important;
+		}
+		#header:before{
+			background-color:#353535 !important;
+		}
+		#mainheader .container{
+			background:url("") no-repeat scroll right bottom rgba(0, 0, 0, 0);
+		}
+		.widget_banner figure:hover figcaption .cs-post-title a,.our-trainers article:hover .text .cs-post-title a{
+			 box-shadow: -10px 0 0 0 #555555,10px 0 0 0 #555555;
+		}
+	</style>
+		<!-- Wrapper Start -->
+		<div class="wrapper" id="wrappermain-pix" >
+			        <header id="header" class="header">
+            <div id="mainheader" class="fullwidth">
+            <!-- Container Strat -->
+            <div class="container">
+                <div id="logo" class="float-left">            	<!-- Logo Start -->
+                    <a href="http://hisandherfitness.net"><img src="http://hisandherfitness.net/wp-content/uploads/logo307.png" style="width:307px; height:93px"  alt="His and Her Fitness" /></a>
+                <!-- Logo End -->
+           </div>                <div class="flaot-right" id="rightheader">
+                                        <nav class="navigation float-right">
+                        <ul id="menus" class="menus"><li id="menu-item-8282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-8143 current_page_item menu-item-8282"><a href="http://hisandherfitness.net/">Home</a></li>
+<li id="menu-item-8646" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8646"><a href="http://hisandherfitness.net/trainers/">Meet the Team</a>
+<ul class="sub-menu">
+	<li id="menu-item-13013" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13013"><a href="http://hisandherfitness.net/christina_larson/">Christina Larson</a></li>
+	<li id="menu-item-13019" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13019"><a href="http://hisandherfitness.net/rob-crane-2/">Rob</a></li>
+	<li id="menu-item-13011" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13011"><a href="http://hisandherfitness.net/adrian-iliescu/">Adrian</a></li>
+	<li id="menu-item-14004" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-14004"><a href="http://hisandherfitness.net/terrilyn-schmanke/">Terrilyn</a></li>
+	<li id="menu-item-13961" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13961"><a href="http://hisandherfitness.net/cory-nicholson/">Cory</a></li>
+	<li id="menu-item-14003" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-14003"><a href="http://hisandherfitness.net/kym-morse/">Kym</a></li>
+	<li id="menu-item-13017" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13017"><a href="http://hisandherfitness.net/mary-jo-lang/">Mary Jo</a></li>
+	<li id="menu-item-13014" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13014"><a href="http://hisandherfitness.net/erma-jones/">Erma</a></li>
+</ul>
+</li>
+<li id="menu-item-12826" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12826"><a href="http://visitor.constantcontact.com/email.jsp?m=1102390974094">Join Newsletter</a></li>
+<li id="menu-item-13023" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-13023"><a href="http://hisandherfitness.net/12-weeks-to-abs/">12 Weeks to Abs</a>
+<ul class="sub-menu">
+	<li id="menu-item-13077" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13077"><a href="http://hisandherfitness.net/12-weeks-to-abs/">12 Weeks to Abs – Elizabeth Malone</a></li>
+	<li id="menu-item-13076" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13076"><a href="http://hisandherfitness.net/12-weeks-abs-thomas-moore/">12 Weeks to Abs – Thomas Moore</a></li>
+</ul>
+</li>
+<li id="menu-item-11728" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11728"><a href="/8-weeks-to-greatness-2016/">8 Weeks to Greatness</a>
+<ul class="sub-menu">
+	<li id="menu-item-13243" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13243"><a href="http://hisandherfitness.net/8-weeks-to-greatness-2016/">Meredith</a></li>
+	<li id="menu-item-12080" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12080"><a href="http://hisandherfitness.net/8-weeks-to-greatness-2015/">Angie, Ashley</a></li>
+	<li id="menu-item-11733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11733"><a href="http://hisandherfitness.net/8-weeks-to-greatness-2014/">Karey, Stephanie</a></li>
+	<li id="menu-item-11724" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11724"><a href="http://hisandherfitness.net/christines-journal-2013/">Christine&#8217;s Journal</a></li>
+	<li id="menu-item-11737" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11737"><a href="http://hisandherfitness.net/nancys-journal-2013/">Nancy&#8217;s Journal</a></li>
+	<li id="menu-item-11744" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11744"><a href="http://hisandherfitness.net/tricias-journal-2012/">Tricia&#8217;s Journal</a></li>
+	<li id="menu-item-11749" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11749"><a href="http://hisandherfitness.net/paiges-journal-2011/">Paige&#8217;s Journal</a></li>
+	<li id="menu-item-11754" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11754"><a href="http://hisandherfitness.net/emilys-journal-2011/">Emily&#8217;s Journal</a></li>
+	<li id="menu-item-11760" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11760"><a href="http://hisandherfitness.net/8-weeks-to-greatness-2009/">Athan, Debbie, Amy, Jason, and Eric</a></li>
+	<li id="menu-item-11767" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11767"><a href="http://hisandherfitness.net/melanies-journal-1st-8-weeks-to-greatness-client/">Melanie&#8217;s Journal &#8211; 1st &#8220;8 Weeks&#8221; Client</a></li>
+</ul>
+</li>
+<li id="menu-item-13881" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13881"><a href="http://hisandherfitness.net/about-us/">About Us</a></li>
+<li id="menu-item-11653" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11653"><a href="http://hisandherfitness.net/weight-workout/">Weight Workout</a></li>
+<li id="menu-item-8629" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8629"><a href="http://hisandherfitness.net/facility/">Take a Tour</a></li>
+<li id="menu-item-8342" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8342"><a href="http://hisandherfitness.net/recipes/">Recipes</a></li>
+<li id="menu-item-9589" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9589"><a href="http://hisandherfitness.net/galleries/">Galleries</a>
+<ul class="sub-menu">
+	<li id="menu-item-10521" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10521"><a href="/8-weeks-to-greatness-album/">8 Weeks Program</a></li>
+	<li id="menu-item-13179" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13179"><a href="/around-town-and-beyond/">Around Town &#038; Beyond</a></li>
+	<li id="menu-item-10530" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10530"><a href="/charity-album/">Charity</a></li>
+	<li id="menu-item-10515" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10515"><a href="/check-us-out-album/">Check us Out</a></li>
+	<li id="menu-item-10704" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10704"><a href="/clients-and-trainers-album/">Clients &#038; Trainers</a></li>
+	<li id="menu-item-13176" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13176"><a href="/competitions/">Competitions</a></li>
+	<li id="menu-item-13177" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13177"><a href="/trainers/">Trainers</a></li>
+	<li id="menu-item-13178" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13178"><a href="/working-out/">Working Out</a></li>
+</ul>
+</li>
+<li id="menu-item-8268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8268"><a href="http://hisandherfitness.net/contact-us/">Contact Us</a></li>
+<li id="menu-item-11771" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11771"><a href="http://hisandherfitness.net/newsletters/">Newsletters</a></li>
+</ul>                    </nav>
+
+                </div>
+                   
+            </div>
+            <!-- Container End -->
+            </div>
+        </header>
+        <div class="clear"></div>
+        				
+                                <div id="banner">
+                <div class="container">
+                </div></div>
+				<div class="clear"></div>
+                
+				    <!-- Content Section Start -->
+    <div id="main" role="main" class="home-page ">
+        <!-- Container Start -->
+        <div class="container">
+            <!-- Row Start -->
+            <div class="row">
+            
+            	                                       	 		<div class="col-md-12 col-sm-12 ">
+						<div class="element_size_100 column">
+<div class="slider_2">
+		<ul id="slider_2" class="huge-it-slider" data-autoplay="0">
+							<li class="group"
+						data-thumb="http://hisandherfitness.net/wp-content/uploads/homepage5.jpg">
+												<img src="http://hisandherfitness.net/wp-content/uploads/homepage5.jpg"
+							 alt=""/>
+																							</li>
+										<li class="group"
+						data-thumb="http://hisandherfitness.net/wp-content/uploads/homepage2.jpg">
+												<img src="http://hisandherfitness.net/wp-content/uploads/homepage2.jpg"
+							 alt=""/>
+																							</li>
+										<li class="group"
+						data-thumb="http://hisandherfitness.net/wp-content/uploads/homepage1.jpg">
+												<img src="http://hisandherfitness.net/wp-content/uploads/homepage1.jpg"
+							 alt=""/>
+																							</li>
+						</ul>
+</div>
+<script>
+	jQuery(function (){
+		if(singleSlider_2.view !== 'carousel1'){
+			jQuery('#slider_2').sliderPlugin({
+				maxWidth: singleSlider_2.width,
+				maxHeight: singleSlider_2.height,
+				transition: singleSlider_2.effect,
+				controls: singleSlider_2.navigate_by,
+				cropImage: hugeitSliderObj.crop_image,
+				navigation: hugeitSliderObj.show_arrows,
+				delay: +singleSlider_2.pause_time,
+				transitionDuration: +singleSlider_2.change_speed,
+				pauseOnHover: singleSlider_2.pause_on_hover
+			});
+		} else {
+			var $pager = false,
+				$thumb = false;
+			switch(singleSlider_2.navigate_by){
+				case 'dot':
+					$pager = true;
+					$thumb = false;
+					break;
+				case 'thumbnail':
+					$pager = true;
+					$thumb = true;
+					break;
+				case 'none':
+					$pager = false;
+					$thumb = false;
+					break;
+			}
+
+			jQuery('#slider_2').lightSlider({
+				item: +singleSlider_2.itemscount,
+				pause: +singleSlider_2.pause_time,
+				speed: +singleSlider_2.change_speed,
+				pager: $pager,
+				gallery: $thumb,
+				pauseOnHover: +singleSlider_2.pause_on_hover,
+				thumbItem: +hugeitSliderObj.thumb_count_slides,
+				controls: +hugeitSliderObj.show_arrows,
+				maxWidth: singleSlider_2.width,
+				maxHeight: singleSlider_2.height,
+				dotsPos: hugeitSliderObj.navigation_position
+			});
+		}
+	});
+</script><style>
+
+ul#slider_2 {
+	margin: 0;
+	width: 100%;
+	height: 100%;
+	max-width: 1040px;
+	max-height: 434px;
+	overflow: visible;
+	padding: 0;
+}
+
+.slider_2 {
+	width: 100%;
+	height: 100%;
+	max-width: 1040px;
+	max-height: 434px;
+margin: 0 auto;}
+.huge-it-wrap:after,
+.huge-it-slider:after,
+.huge-it-thumb-wrap:after,
+.huge-it-arrows:after,
+.huge-it-caption:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	line-height: 0;
+	visibility: hidden;
+}
+
+.video_cover, .playSlider, .pauseSlider, div[class*=playButton] {
+	display: none !important;
+}
+
+.huge-it-thumb-wrap .video_cover {
+	display: block !important;
+}
+
+iframe.huge_it_vimeo_iframe {
+	height: 434px;
+}
+
+div[class*=slider-loader-] {
+	background: rgba(0, 0, 0, 0) url(http://hisandherfitness.net/wp-content/plugins/slider-image/assets/images/front/loading/loading1.gif) no-repeat center;
+	height: 90px;
+	overflow: hidden;
+	position: absolute;
+	top: 172px;;
+	width: 1040px;;
+	z-index: 3;
+}
+
+.huge-it-wrap {
+	opacity: 0;
+	position: relative;
+	border: 0px solid #ffffff;
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+	border-radius: 0px;
+overflow: hidden;;
+}
+
+.huge-it-slide-bg {
+	background: rgba(255,255,255,);
+height: 100%}
+
+.huge-it-caption {
+	position: absolute;
+	display: block;
+}
+
+.huge-it-caption div {
+	padding: 10px 20px;
+	line-height: normal;
+}
+
+.slider-title {
+	width: calc(30% - 20px);
+	margin: 10px;
+	font-size: 13px;
+	color: #000000;
+	text-align: right;
+	background: rgba(255,255,255,0.7);
+	border: 0px solid #ffffff;
+	border-radius: 4px;
+right: 0 !important; top: 0;}
+
+.slider-description {
+	width: calc(70% - 20px);
+	margin: 10px;
+	font-size: 13px;
+	color: #ffffff;
+	text-align: justify;
+	background: rgba(0,0,0,0.7);
+
+
+	border: 0px solid #ffffff;
+	border-radius: 0px;
+right: 0 !important; bottom: 0;}
+
+.slider_2 .huge-it-slider > li {
+	list-style: none;
+	filter: alpha(opacity=0);
+	opacity: 0;
+	width: 100%;
+	height: 100%;
+	margin: 0 -100% 0 0;
+	padding: 0;
+	float: left;
+	position: relative;
+;
+	overflow: hidden;
+}
+
+.slider_2 .huge-it-slider > li > a {
+	display: block;
+	padding: 0;
+	background: none;
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.slider_2 .huge-it-slider > li img {
+	max-width: 100%;
+	max-height: 100%;
+	margin: 0;
+	cursor: pointer;
+}
+
+.slider_2 .huge-it-slide-bg, .slider_2 .huge-it-slider > li, .slider_2 .huge-it-slider > li > a, .slider_2 .huge-it-slider > li img {
+;
+}
+
+.huge-it-dot-wrap {
+	position: absolute;
+top: 5px;height: 20px;	left: 50%;
+	transform: translateX(-50%);
+	z-index: 999;
+}
+
+.huge-it-dot-wrap a {
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+	cursor: pointer;
+	display: block;
+	float: left;
+	height: 11px;
+	margin: 2px !important;
+	position: relative;
+	text-align: left;
+	text-indent: 9999px;
+	width: 11px !important;
+	background: #000000;
+	box-shadow: none;
+}
+
+.huge-it-dot-wrap a.active:focus, .huge-it-dot-wrap a:focus,
+.huge-it-thumb-wrap > a:focus, .huge-it-thumb-wrap > a.active:focus {
+	outline: none;
+}
+
+.huge-it-dot-wrap a:hover {
+	background: #000000;
+	box-shadow: none !important;
+}
+
+.huge-it-dot-wrap a.active {
+	background: #ffffff;
+	box-shadow: none;
+}
+
+.huge-it-thumb-wrap {
+	background: #FFFFFF;
+	height: 105px ;
+	margin-left: 0;
+;
+}
+
+.huge-it-thumb-wrap a.active img {
+	border-radius: 5px;
+	opacity: 1;
+}
+
+.huge-it-thumb-wrap > a {
+	height: 100px;
+	display: block;
+	float: left;
+	position: relative;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	background: #FFFFFF;
+}
+
+.huge-it-thumb-wrap a img {
+	opacity: 0.5;
+	height: 100px;
+	width: 100%;
+	display: block;
+	-ms-interpolation-mode: bicubic;
+	box-shadow: none !important;
+}
+
+a.thumb_arr {
+	position: absolute;
+	height: 20px;
+	width: 15px;
+	bottom: 40px;
+	z-index: 100;
+	box-shadow: none;
+}
+
+a.thumb_prev {
+	left: 5px;
+	width:15px;
+	height:20px;
+	background:url(http://hisandherfitness.net/wp-content/plugins/slider-image/assets/images/front/arrows/arrows1.png) left  top no-repeat;
+	background-size: 200%;
+}
+
+a.thumb_next {
+	right:5px;
+	width:15px;
+	height:20px;
+	background:url(http://hisandherfitness.net/wp-content/plugins/slider-image/assets/images/front/arrows/arrows1.png) right  top no-repeat;
+	background-size: 200%;
+}
+
+.huge-it-grid {
+	position: absolute;
+	overflow: hidden;
+	width: 100%;
+	height: 100%;
+	display: none;
+}
+
+.huge-it-gridlet {
+	position: absolute;
+	opacity: 1;
+}
+
+.huge-it-arrows .huge-it-next,
+.huge-it-arrows .huge-it-prev {
+	z-index: 1;
+}
+
+.huge-it-arrows:hover .huge-it-next,
+.huge-it-arrows:hover .huge-it-prev {
+	z-index: 2;
+}
+
+.huge-it-arrows {
+	cursor: pointer;
+	height: 40px;
+	margin-top: -20px;
+	position: absolute;
+	top: 50%;
+	/*transform: translateY(-50%);*/
+	width: 40px;
+	z-index: 2;
+	color: rgba(0, 0, 0, 0);
+	outline: none;
+	box-shadow: none !important;
+}
+
+.huge-it-arrows:hover, .huge-it-arrows:active, .huge-it-arrows:focus,
+.huge-it-dot-wrap a:hover, .huge-it-dot-wrap a:active, .huge-it-dot-wrap a:focus {
+	outline: none;
+	box-shadow: none !important;
+}
+
+.ts-arrow:hover {
+	opacity: .95;
+	text-decoration: none;
+}
+
+.huge-it-prev {
+	left:0;
+	margin-top:-21px;
+	height:43px;
+	width:29px;
+	background:url(http://hisandherfitness.net/wp-content/plugins/slider-image/assets/images/front/arrows/arrows1.png) left  top no-repeat;
+	background-size: 200%;
+}
+
+.huge-it-next {
+	right:0;
+	margin-top:-21px;
+	height:43px;
+	width:29px;
+	background:url(http://hisandherfitness.net/wp-content/plugins/slider-image/assets/images/front/arrows/arrows1.png) right top no-repeat;
+	background-size: 200%;
+
+}
+</style>
+
+<br></div><div class="element_size_100 column"><h1 style="margin:20px 0px; text-align:center;">Mission Statement:<br />"Helping One Person at a Time Live a Healthy Life"</h1></div><div class="element_size_75 column"><iframe width="350" height="380" src="https://www.youtube.com/embed/mJqrGmZwYh4" frameborder="0" allowfullscreen></iframe></div><div class="element_size_25 column"><A href="http://hisandherfitness.net/sign-up-for-8-weeks-to-greatness/"><img src="http://hisandherfitness.net/wp-content/uploads/webleadhome.jpg" height="375" width="247" border="0" /></a></div><div class="element_size_100 column"><h1 style="margin:20px 0px; text-align:center;">Personal Trainers providing true Personal Training at the First Private Studio in Kansas City!</h1></div><div class="element_size_33 column"></div><div class="element_size_33 column"></div>                 </div>
+						                                     		        	<!-- Col Md 12 End -->
+        </div>
+        <!-- Row End -->
+    </div>
+    <!-- Container End -->
+ </div>
+<!-- Content Section End -->
+
+
+	
+	        <!-- Footer Widgets Start -->
+        <div id="footer-widgets">
+            <div class="container">
+                <div class="row">
+                                        
+                                        <div class="widget widget_nav_menu"><header class="cs-heading-title"><h2 class="cs-section-title cs-heading-color">Help Quicklinks</h2></header><div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-11941" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-8143 current_page_item menu-item-11941"><a href="http://hisandherfitness.net/">Home</a></li>
+<li id="menu-item-13882" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13882"><a href="http://hisandherfitness.net/about-us/">About Us</a></li>
+<li id="menu-item-11943" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11943"><a href="http://hisandherfitness.net/galleries/">Galleries</a></li>
+<li id="menu-item-13022" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13022"><a href="http://hisandherfitness.net/12-weeks-to-abs/">12 Weeks to Abs – Elizabeth Malone</a></li>
+<li id="menu-item-11944" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11944"><a href="http://hisandherfitness.net/newsletters/">Newsletters</a></li>
+<li id="menu-item-12827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12827"><a href="http://visitor.constantcontact.com/email.jsp?m=1102390974094">Join Newsletter</a></li>
+<li id="menu-item-11945" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11945"><a href="http://hisandherfitness.net/recipes/">Recipes</a></li>
+<li id="menu-item-11946" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11946"><a href="http://hisandherfitness.net/trainers/">Team Members</a></li>
+<li id="menu-item-11947" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11947"><a href="http://hisandherfitness.net/contact-us/">Contact Us</a></li>
+</ul></div></div><div class="widget widget_nav_menu"><header class="cs-heading-title"><h2 class="cs-section-title cs-heading-color">Special Features</h2></header><div class="menu-special-features-container"><ul id="menu-special-features" class="menu"><li id="menu-item-11948" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11948"><a href="http://hisandherfitness.net/scholarship-application/">Scholarship Application</a></li>
+<li id="menu-item-13244" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13244"><a href="http://hisandherfitness.net/8-weeks-to-greatness-2016/">8 Weeks to Greatness – 2016</a></li>
+</ul></div></div><div class="widget widget_text">			<div class="textwidget"><div class="text-info home-info">
+						<figure>
+							<img src="http://hisandherfitness.net/wp-content/uploads/logo137.png" alt="">
+						</figure>
+                    	<p>
+                                <span>
+                                   5328 W 151st St
+<br>Leawood, KS 66224</span>
+                            </p>
+                        <p>
+                                <span>Call: (913) 206-7645</span>
+                                <br>    
+                                <span>Email:
+                                <a href="mailto:hisandherfitness@me.com">hisandherfitness@me.com</a></span>
+                            </p>
+                    </div></div>
+		</div><div class="widget widget_text"><header class="cs-heading-title"><h2 class="cs-section-title cs-heading-color"> </h2></header>			<div class="textwidget"><script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script><div style="overflow:hidden;height:250px;width:250px;"><div id="gmap_canvas" style="height:250px;width:250px;"></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style></div><script type="text/javascript"> function init_map(){var myOptions = {zoom:14,center:new google.maps.LatLng(38.8547502,-94.64760999999999),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById("gmap_canvas"), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(38.8547502, -94.64760999999999)});infowindow = new google.maps.InfoWindow({content:"<b>His &amp; Her Fitness</b><br/>5328 W 151st St <br/>66224 Leawood, KS" });google.maps.event.addListener(marker, "click", function(){infowindow.open(map,marker);});}google.maps.event.addDomListener(window, 'load', init_map);</script></div>
+		</div>                                        <!-- Footer Widgets End -->
+                    <!-- Footer Start -->
+                        <footer id="footer">
+                            <!-- Container Start -->
+                                <p class="copright">©2015 His & Her Fitness - All rights reserved. </p>
+                                	
+                            <!-- Container End -->
+                        </footer>
+                        <!-- Footer End -->
+                </div>
+                <!-- Container End -->
+            </div>
+            
+           </div>
+            <!-- Footer Start -->
+    	
+	
+
+<div class="clear"></div>
+</div>
+<!-- Modal -->
+    <div class="clear"></div>
+    <!-- Span12 Start -->
+        <div class="span12 login">
+            <!-- Login Inn Start -->
+            <div class="modal hide fade login_inn webkit " id="loginbox" role="dialog">
+                <button type="button" class="close backcolorhover" data-dismiss="modal" aria-hidden="true"><i class="icon-remove"></i></button>
+                <div class="header webkit">
+                    <header>
+                        <h3 class="heading-color">Log In</h3>
+                    </header>
+                     <form id="login" class="webkit" action="http://hisandherfitness.net/wp-login.php" method="post">
+                     	<p class="status"></p>
+                        <ul>
+                            <li>
+                                <span><i class="icon-user"></i></span>
+                                <input name="log" id="username" value="Username" onfocus="if(this.value=='Username') {this.value='';}" onblur="if(this.value=='') {this.value='Username';}" type="text" />           
+                            </li>
+                            <li>
+                                <span class="password"><i class="icon-key"></i></span>
+                                <input name="pwd"  id="password"  value="password" onfocus="if(this.value=='password') {this.value='';}" onblur="if(this.value=='') {this.value='password';}" type="password" class="bar" />
+                            </li>
+                            <li>
+                                <input type="hidden" name="redirect_to" value="http://hisandherfitness.net/" />                                        
+                                <label>
+                                    <input name="rememberme" value="forever" id="rememberme" type="checkbox" class="left" />
+                                    Remember Me                                </label>
+                            </li>
+                            <li>
+                                <span class="log"><i class="icon-signin"></i></span>
+                                <input class="backcolr" type="submit" value="Log In">
+                            </li>
+                        </ul>
+                    </form>
+                </div>
+                <div class="footer webkit">
+                   <a class="colrhover" href="http://hisandherfitness.net/wp-login.php?action=lostpassword"> <i class="icon-question-sign"></i>Lost Password?</a>
+                    <div class="sign">
+                          	
+                          
+                      </div>
+                </div>
+            </div>
+            <!-- Login Inn End -->
+        </div>
+<!-- /.modal -->
+
+</div>
+<!-- Wrapper End --> 
+<div class="clear"></div>
+<!-- ngg_resource_manager_marker --><script type='text/javascript' src='http://hisandherfitness.net/wp-includes/js/comment-reply.min.js?ver=4.7.5'></script>
+<script type='text/javascript' src='http://hisandherfitness.net/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://hisandherfitness.net/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.7'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Download File":"Download File","Download Video":"Download Video","Play":"Play","Pause":"Pause","Captions\/Subtitles":"Captions\/Subtitles","None":"None","Time Slider":"Time Slider","Skip back %1 seconds":"Skip back %1 seconds","Video Player":"Video Player","Audio Player":"Audio Player","Volume Slider":"Volume Slider","Mute Toggle":"Mute Toggle","Unmute":"Unmute","Mute":"Mute","Use Up\/Down Arrow keys to increase or decrease volume.":"Use Up\/Down Arrow keys to increase or decrease volume.","Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds."}};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://hisandherfitness.net/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.22.0'></script>
+<script type='text/javascript' src='http://hisandherfitness.net/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=4.7.5'></script>
+<script type='text/javascript' src='http://hisandherfitness.net/wp-content/themes/gymguide/scripts/frontend/bootstrap.min.js?ver=4.7.5'></script>
+<script type='text/javascript' src='http://hisandherfitness.net/wp-content/themes/gymguide/scripts/frontend/functions.js?ver=4.7.5'></script>
+<script type='text/javascript' src='http://hisandherfitness.net/wp-includes/js/wp-embed.min.js?ver=4.7.5'></script>
+<script type='text/javascript' src='http://hisandherfitness.net/wp-content/plugins/slider-image/assets/js/froogaloop2.min.js?ver=4.7.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var hugeitSliderUrl = "http:\/\/hisandherfitness.net\/wp-content\/plugins\/slider-image\/assets\/images\/front";
+var hugeitSliderObj = {"crop_image":"stretch","slider_background_color":"ffffff","slideshow_border_size":"0","slideshow_border_color":"ffffff","slideshow_border_radius":"0","loading_icon_type":"1","title_width":"30","title_has_margin":"1","title_font_size":"13","title_color":"000000","title_text_align":"right","title_background_transparency":"0.7","title_background_color":"ffffff","title_border_size":"0","title_border_color":"ffffff","title_border_radius":"4","title_position":"33","description_width":"70","description_has_margin":"1","description_font_size":"13","description_color":"ffffff","description_text_align":"justify","description_background_transparency":"0.7","description_background_color":"000000","description_border_size":"0","description_border_color":"ffffff","description_border_radius":"0","description_position":"31","navigation_position":"top","dots_color":"000000","active_dot_color":"ffffff","show_arrows":"1","thumb_count_slides":"3","thumb_height":"100","thumb_background_color":"FFFFFF","thumb_passive_color":"FFFFFF","thumb_passive_color_transparency":"0.5","navigation_type":"1"};
+var singleSlider_2 = {"width":"1040","height":"434","itemscount":"5","view":"none","pause_on_hover":"1","navigate_by":"dot","pause_time":"4000","change_speed":"1000","effect":"slice_h"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://hisandherfitness.net/wp-content/plugins/slider-image/assets/js/main.js?ver=4.7.5'></script>
+</body>
+</html><!-- Columns End -->

@@ -1,0 +1,119 @@
+﻿<!DOCTYPE html><html lang="en">
+<head><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Wholesale Promotional Gifts - Promotional Products - Promotional Items From China</title><meta name="Keywords" content="Promotional Gifts, Wholesale Promotional Gifts, China Promotional Gifts, Wholesale given-away gifts" /><meta name="Description" content="We are the Biggest and Best Wholesaler of Promotional Gifts, Promotional Products, Promotional Items from China for USA and UK Market. Wholesale Discount free given-away gifts, includes Corportate gifts and Awarding employees. All for Logo Imprinted." /><meta property="og:title" content="Promotional Gifts Promotional Products Promotional Items Wholesale from China" /><meta property="og:description" content="Find quality Promotional Products for Customized With Your Logo, Wholesale Products from China Wholesalers at Sz-wholesale.com." /><meta property="og:type" content="site" /><meta property="og:url" content="http://www.sz-wholesale.com" /><meta property="og:image" content="http://www.sz-wholesale.com/html5/images/logo.png" />	<link rel="canonical" href="http://www.sz-wholesale.com" /><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /><link rel="shortcut icon" type="image/x-icon" href="http://www.sz-wholesale.com/favicon.ico" /><link rel="alternate" type="application/rss+xml" title="The latest update Promotional Products"  href="http://www.sz-wholesale.com/latest-Update.xml" /><link rel="alternate" type="application/rss+xml" title="Top 100 Promotional Products"  href="http://www.sz-wholesale.com/Top-100.xml" /><link rel="alternate" type="application/rss+xml" title="Top Wholesale Categories"  href="http://www.sz-wholesale.com/topcategories.xml" /><link rel="author" href="https://plus.google.com/115853584142575351763/about" /><link rel="publisher" href="https://plus.google.com/115853584142575351763" /><meta itemprop="name" content="Wholesale Promotional Gifts" /><meta name="msvalidate.01" content="82BA085BC4FA4F0CB0098E9FD5E57672" /><meta name="Author" content="sz-wholesale" /><meta name="robots" content="index,follow" /><link href="/html5/css/bootstrap.css" rel="stylesheet"><link href="/html5/css/css.css" rel="stylesheet"></head>
+<body>
+<script type="text/javascript" src="/skin/jquery.min.js" ></script> 
+<script type="text/javascript">
+<!--
+$(document).ready(function(){
+$("#cart_sum").load("/skin/ajax_cart.asp");
+});
+// -->
+</script>
+<script type="text/javascript">
+function ajaxFn (n,m) {
+  var obj = m;  
+        var xmlHttp = new XMLHttpRequest();
+    var value = n;       
+        xmlHttp.open("get", "/skin/ajax_cart.asp?p_id=" + value);       
+        xmlHttp.onreadystatechange = function () {
+            if (xmlHttp.readyState == 4 && xmlHttp.status == 200) {
+                obj.innerHTML = xmlHttp.responseText;
+				loadToSuccess();
+            }
+        } 
+        xmlHttp.send(null);		
+		alert('Add to cart success!');	
+    }
+</script> 
+<div class="top"><div class="container"><div class="row"><div class="car"><a id="cart_sum" 
+
+rel="nofollow" href="http://cart.sz-wholesale.com/cart.asp">(<strong><g:plusone size="small" 
+
+annotation="none"></g:plusone></strong>)</a></div><div class="col-sm-6 logo"><a 
+
+href="http://www.sz-wholesale.com"><img src="/html5/images/logo.png" alt="Wholesale 
+
+Promotional Products Limited" border="0" ></a></div><div class="col-sm-6 
+
+fright"><p><span>Welecom to Sz-wholesale.com</span></p><p><span><a href="http://www.sz-
+
+wholesale.com/common/contact.htm" rel="nofollow">Contact Us</a> </span>           | <span><a 
+
+href="http://www.sz-wholesale.com/common/about.htm" rel="nofollow">About Us</a> 
+
+</span>|<span> <a href="http://www.sz-wholesale.com/common/Infringe-Claims-Complain.htm" 
+
+rel="nofollow">Infringe Complain</a></span></p></div></div></div></div><div class="nav"><div 
+
+class="container"><div class="navbar-header "><button type="button" class="navbar-toggle 
+
+collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-
+
+controls="navbar"><span class="sr-only">Toggle navigation</span><span class="icon-
+
+bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button></div><div 
+
+id="navbar" class="navbar-collapse collapse navbar-right"><ul class="nav navbar-nav navbar-
+
+left"><li><a class="active" titel="Wholesale Promotional Products" href="http://www.sz-
+
+wholesale.com">Wholesale Promotional           Products</a></li><li><a href="http://www.sz-
+
+wholesale.com/The-latest-update.htm" rel="nofollow">New Products</a></li><li><a 
+
+href="http://www.sz-wholesale.com/Top-100-Promotiolan-Products.htm" rel="nofollow">Top 
+
+100</a></li><li><a href="http://www.sz-wholesale.com/Promotional-Products-Great-Ideas-Under
+
+-050.htm" rel="nofollow"> $0.5</a></li><li><a href="http://www.sz-wholesale.com/Promotional
+
+-Products-Great-Ideas-Under-100.htm" rel="nofollow"> $1</a></li><li><a href="http://www.sz-
+
+wholesale.com/Electronic-Products.htm" rel="nofollow"> Electronic</a></li></ul></div><div 
+
+class="search-box"><form id="form1" method="get" action="http://search.sz-
+
+wholesale.com/search.asp"><input name="SearchText" type="text" class="key"><input 
+
+type="submit" class="sub">
+        <a href="javascript:gosearch();">Search For Products</a> <a href="#"><font 
+
+color="#FF0000"> or</font></a> <a rel="nofollow" href="http://www.sz-wholesale.com/Feedback/" 
+
+target="_blank"><font color="#000000"> Leave Feedback or Messga</font></a> 
+      </form></div>    
+	<script type="text/javascript">
+   function gosearch(){
+       $("#form1").submit() ;
+   }
+</script></div>  </div>
+
+
+<br>
+<div class="content"><div class="container"><div class="row"><div class="col-sm-12"><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/" itemprop="url"><span itemprop="title">Home</span></a> &#187;</span><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><span itemprop="title"> </span></span></div><br><br>
+      <div class="col-sm-9">
+        <div class="banner"> 
+          <h3 align="center">Looking for something? <br>
+            We're sorry. The Web address you entered is not a functioning page 
+            on our site. </h3>
+          <h3 align="center">Go to sz-wholesale.com's <a href="http://www.sz-wholesale.com">Home</a> 
+            Page.</h3>
+        </div>
+      </div>
+    </div></div></div>
+<div class="list-info"><div class="container"><div class="row"><div class="top-box"><div class="col-md-3"><h3>Company Info</h3><ul><li><a   rel="nofollow" href="/common/about.htm">About     Us</a></li><li><a   rel="nofollow" href="/common/contact.htm">Office     Hours &amp; Locations</a></li><li><a  rel="nofollow" href="/common/partners_and_credentials_information.htm">Partners     &amp; Credentials</a></li><li><a  rel="nofollow" href="/reviews/">Testimonials</a></li><li><a  rel="nofollow" href="/common/Our-Guarantee.htm">Our     Guarantee</a></li><li><a  rel="nofollow" href="/Blog/">Blog</a> ,<li><a  rel="nofollow" href="/common/jobs.htm">Job</a></li><li><a  rel="nofollow" href="/common/Press-Releases.htm">Press     Releases</a></li></ul></div><div class="col-md-3"><h3> Professional Services</h3><ul><li><a   rel="nofollow" href="/china-sourcing-agent-drop-shipper-China.htm">Sourcing     Agent and Drop shipper</a></li><li><a  rel="nofollow" href="/common/Ordering-Samples.htm">Ordering     Samples</a></li><li><a  rel="nofollow" href="/common/Branding-Logo-Imprint.htm">Branding     &amp; Logo Imprint</a></li><li><a  rel="nofollow" href="/common/OEM-ODM.htm">OEM     &amp; ODM Services</a></li><li><a  rel="nofollow" href="/common/Refund-Return.htm">Refund     & Return</a></li><li><a  rel="nofollow" href="/common/Terms-of-Use.htm">Terms     of Use</a></li><li><a  rel="nofollow" href="/common/TrustPass-Profile.htm">Intertek     TrustPass</a></li>	
+</ul></div><div class="col-md-3"><h3> Customer Services</h3><ul><li><a rel="nofollow" class="lightbox" href="http://www.sz-wholesale.com/Feedback/" target="_blank" >Leave       Feedback</a><a  rel="nofollow" href="/common/Live-help.htm"></a></li><li><a  rel="nofollow" href="/common/contact.htm">Contact     Us</a></li><li><a  rel="nofollow" href="/common/Customer-Complaints.htm">Customer     Complaints</a></li><li><a  rel="nofollow" href="/common/Track-Your-Order.htm">Track     Your Order</a></li><li><a  rel="nofollow" href="/common/Locations-We-Ship-To.htm">Locations     We Ship To</a></li><li><a  rel="nofollow" href="/common/Help-Knowledgebase.htm">Help     &amp; Knowledgebase</a></li><li><a  rel="nofollow" href="/Privacy-Policy/Privacy-Policy.htm">Privacy     Policy</a></li></ul>
+</div><div class="col-md-3"><h3> Resources</h3><ul><li><a  rel="nofollow" href="/common/How-to-Place-Orders.htm">How         to Place Orders</a></li><li><a  rel="nofollow" href="/common/Shipping-Methods.htm">Shipping         Methods</a></li><li><a  rel="nofollow" href="/common/Payment-Methods.htm">Payment         Methods</a></li><li><a  href="/sitemap.htm">Sitemap</a></li><li><a  rel="nofollow" href="/common/Free-App.htm">Free         APP</a></li><div class="bottom-box"><a href="/common/Free-App.htm" class="f1" rel="nofollow"></a><a href="/common/Free-App.htm" class="f2" rel="nofollow"></a></div></ul></div></div></div></div><div class="footer text-center"><div class="container"><div class="row"><div class="col-lg-12"><p>&nbsp;</p><p>Address: Room 601, Yonghui Business Building , 2nd Guwu Road, Xixiang Baoan District, Shenzhen 518126,China Tel:+86-755-29558312 Fax:+86-755-29558276</p><p>Copyright &copy; 1999 -2015 sz-wholesale.com</p><p>粤ICP备11041691号-3</p></div></div></div></div></div>
+<script src="/html5/js/jquery.min.js"></script> 
+<script src="/html5/js/bootstrap.min.js"></script> 
+<script src="/html5/js/respond.js"></script> 
+<script type="text/javascript">
+$(document).ready(function(){
+	 $(".menu-item>li").mouseover(function(){
+			$(this).addClass("mouse-bg");
+		})
+		$(".menu-item li").mouseleave(function(){
+			$(this).removeClass("mouse-bg");
+		})
+});
+</script></body></html>

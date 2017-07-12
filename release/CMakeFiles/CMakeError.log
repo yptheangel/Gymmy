@@ -1,0 +1,222 @@
+Build output check failed:
+    Regex: 'command line option .* is valid for .* but not for C\+\+'
+    Output line: 'cc1plus: warning: command line option ‘-Wmissing-prototypes’ is valid for C/ObjC but not for C++ [enabled by default]'
+Compilation failed:
+    source file: '/home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp/src.cxx'
+    check option: ' -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations  -Wmissing-prototypes'
+===== BUILD LOG =====
+Change Dir: /home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec1714133685/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1714133685.dir/build.make CMakeFiles/cmTryCompileExec1714133685.dir/build
+make[1]: Entering directory `/home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec1714133685.dir/src.cxx.o
+/usr/bin/c++    -O3 -DNDEBUG   -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -o CMakeFiles/cmTryCompileExec1714133685.dir/src.cxx.o -c /home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp/src.cxx
+cc1plus: warning: command line option ‘-Wmissing-prototypes’ is valid for C/ObjC but not for C++ [enabled by default]
+/home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp/src.cxx:1:0: warning: ignoring #pragma   [-Wunknown-pragmas]
+ #pragma
+ ^
+Linking CXX executable cmTryCompileExec1714133685
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1714133685.dir/link.txt --verbose=1
+/usr/bin/c++     -O3 -DNDEBUG    CMakeFiles/cmTryCompileExec1714133685.dir/src.cxx.o  -o cmTryCompileExec1714133685 -rdynamic 
+make[1]: Leaving directory `/home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp'
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command line option .* is valid for .* but not for C\+\+'
+    Output line: 'cc1plus: warning: command line option ‘-Wstrict-prototypes’ is valid for C/ObjC but not for C++ [enabled by default]'
+Compilation failed:
+    source file: '/home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp/src.cxx'
+    check option: ' -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations  -Wstrict-prototypes'
+===== BUILD LOG =====
+Change Dir: /home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec1057239574/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1057239574.dir/build.make CMakeFiles/cmTryCompileExec1057239574.dir/build
+make[1]: Entering directory `/home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec1057239574.dir/src.cxx.o
+/usr/bin/c++    -O3 -DNDEBUG   -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wstrict-prototypes -o CMakeFiles/cmTryCompileExec1057239574.dir/src.cxx.o -c /home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp/src.cxx
+cc1plus: warning: command line option ‘-Wstrict-prototypes’ is valid for C/ObjC but not for C++ [enabled by default]
+/home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp/src.cxx:1:0: warning: ignoring #pragma   [-Wunknown-pragmas]
+ #pragma
+ ^
+Linking CXX executable cmTryCompileExec1057239574
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1057239574.dir/link.txt --verbose=1
+/usr/bin/c++     -O3 -DNDEBUG    CMakeFiles/cmTryCompileExec1057239574.dir/src.cxx.o  -o cmTryCompileExec1057239574 -rdynamic 
+make[1]: Leaving directory `/home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp'
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command line option ‘-Wsign-promo’ is valid for C++/ObjC++ but not for C [enabled by default]'
+Compilation failed:
+    source file: '/home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp/src.c'
+    check option: ' -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow  -Wsign-promo'
+===== BUILD LOG =====
+Change Dir: /home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2463035505/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2463035505.dir/build.make CMakeFiles/cmTryCompileExec2463035505.dir/build
+make[1]: Entering directory `/home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2463035505.dir/src.c.o
+/usr/bin/cc   -O3 -DNDEBUG   -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -o CMakeFiles/cmTryCompileExec2463035505.dir/src.c.o   -c /home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command line option ‘-Wsign-promo’ is valid for C++/ObjC++ but not for C [enabled by default]
+/home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp/src.c:1:0: warning: ignoring #pragma   [-Wunknown-pragmas]
+ #pragma
+ ^
+Linking C executable cmTryCompileExec2463035505
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2463035505.dir/link.txt --verbose=1
+/usr/bin/cc    -O3 -DNDEBUG    CMakeFiles/cmTryCompileExec2463035505.dir/src.c.o  -o cmTryCompileExec2463035505 -rdynamic 
+make[1]: Leaving directory `/home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp'
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command line option ‘-Wno-delete-non-virtual-dtor’ is valid for C++/ObjC++ but not for C [enabled by default]'
+Compilation failed:
+    source file: '/home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp/src.c'
+    check option: ' -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wno-narrowing  -Wno-delete-non-virtual-dtor'
+===== BUILD LOG =====
+Change Dir: /home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec1346234516/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1346234516.dir/build.make CMakeFiles/cmTryCompileExec1346234516.dir/build
+make[1]: Entering directory `/home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1346234516.dir/src.c.o
+/usr/bin/cc   -O3 -DNDEBUG   -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wno-narrowing -Wno-delete-non-virtual-dtor -o CMakeFiles/cmTryCompileExec1346234516.dir/src.c.o   -c /home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command line option ‘-Wno-delete-non-virtual-dtor’ is valid for C++/ObjC++ but not for C [enabled by default]
+/home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp/src.c:1:0: warning: ignoring #pragma   [-Wunknown-pragmas]
+ #pragma
+ ^
+Linking C executable cmTryCompileExec1346234516
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1346234516.dir/link.txt --verbose=1
+/usr/bin/cc    -O3 -DNDEBUG    CMakeFiles/cmTryCompileExec1346234516.dir/src.c.o  -o cmTryCompileExec1346234516 -rdynamic 
+make[1]: Leaving directory `/home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp'
+
+===== END =====
+
+Build output check failed:
+    Regex: 'unrecognized .*option'
+    Output line: 'cc1plus: warning: unrecognized command line option "-Wno-unnamed-type-template-args" [enabled by default]'
+Compilation failed:
+    source file: '/home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp/src.cxx'
+    check option: ' -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor  -Wno-unnamed-type-template-args'
+===== BUILD LOG =====
+Change Dir: /home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2918275808/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2918275808.dir/build.make CMakeFiles/cmTryCompileExec2918275808.dir/build
+make[1]: Entering directory `/home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2918275808.dir/src.cxx.o
+/usr/bin/c++    -O3 -DNDEBUG   -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -o CMakeFiles/cmTryCompileExec2918275808.dir/src.cxx.o -c /home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp/src.cxx
+/home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp/src.cxx:1:0: warning: ignoring #pragma   [-Wunknown-pragmas]
+ #pragma
+ ^
+cc1plus: warning: unrecognized command line option "-Wno-unnamed-type-template-args" [enabled by default]
+Linking CXX executable cmTryCompileExec2918275808
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2918275808.dir/link.txt --verbose=1
+/usr/bin/c++     -O3 -DNDEBUG    CMakeFiles/cmTryCompileExec2918275808.dir/src.cxx.o  -o cmTryCompileExec2918275808 -rdynamic 
+make[1]: Leaving directory `/home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp'
+
+===== END =====
+
+Build output check failed:
+    Regex: 'unrecognized .*option'
+    Output line: 'cc1: warning: unrecognized command line option "-Wno-unnamed-type-template-args" [enabled by default]'
+Compilation failed:
+    source file: '/home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp/src.c'
+    check option: ' -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wno-narrowing  -Wno-unnamed-type-template-args'
+===== BUILD LOG =====
+Change Dir: /home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec3873148730/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3873148730.dir/build.make CMakeFiles/cmTryCompileExec3873148730.dir/build
+make[1]: Entering directory `/home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3873148730.dir/src.c.o
+/usr/bin/cc   -O3 -DNDEBUG   -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wno-narrowing -Wno-unnamed-type-template-args -o CMakeFiles/cmTryCompileExec3873148730.dir/src.c.o   -c /home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp/src.c
+/home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp/src.c:1:0: warning: ignoring #pragma   [-Wunknown-pragmas]
+ #pragma
+ ^
+cc1: warning: unrecognized command line option "-Wno-unnamed-type-template-args" [enabled by default]
+Linking C executable cmTryCompileExec3873148730
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3873148730.dir/link.txt --verbose=1
+/usr/bin/cc    -O3 -DNDEBUG    CMakeFiles/cmTryCompileExec3873148730.dir/src.c.o  -o cmTryCompileExec3873148730 -rdynamic 
+make[1]: Leaving directory `/home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp'
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command line option ‘-fvisibility-inlines-hidden’ is valid for C++/ObjC++ but not for C [enabled by default]'
+Compilation failed:
+    source file: '/home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp/src.c'
+    check option: ' -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wno-narrowing -Wno-comment -fdiagnostics-show-option -Wno-long-long -pthread -fomit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -ffunction-sections -fvisibility=hidden  -fvisibility-inlines-hidden'
+===== BUILD LOG =====
+Change Dir: /home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec1165849144/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1165849144.dir/build.make CMakeFiles/cmTryCompileExec1165849144.dir/build
+make[1]: Entering directory `/home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1165849144.dir/src.c.o
+/usr/bin/cc   -O3 -DNDEBUG   -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wno-narrowing -Wno-comment -fdiagnostics-show-option -Wno-long-long -pthread -fomit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -ffunction-sections -fvisibility=hidden -fvisibility-inlines-hidden -o CMakeFiles/cmTryCompileExec1165849144.dir/src.c.o   -c /home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command line option ‘-fvisibility-inlines-hidden’ is valid for C++/ObjC++ but not for C [enabled by default]
+/home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp/src.c:1:0: warning: ignoring #pragma   [-Wunknown-pragmas]
+ #pragma
+ ^
+Linking C executable cmTryCompileExec1165849144
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1165849144.dir/link.txt --verbose=1
+/usr/bin/cc    -O3 -DNDEBUG    CMakeFiles/cmTryCompileExec1165849144.dir/src.c.o  -o cmTryCompileExec1165849144 -rdynamic 
+make[1]: Leaving directory `/home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp'
+
+===== END =====
+
+Determining if the system is big endian passed with the following output:
+Change Dir: /home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2396971680/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2396971680.dir/build.make CMakeFiles/cmTryCompileExec2396971680.dir/build
+make[1]: Entering directory `/home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2396971680.dir/TestEndianess.c.o
+/usr/bin/cc   -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wno-narrowing -Wno-comment -fdiagnostics-show-option -Wno-long-long -pthread -fomit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -ffunction-sections -fvisibility=hidden  -O3 -DNDEBUG   -o CMakeFiles/cmTryCompileExec2396971680.dir/TestEndianess.c.o   -c /home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp/TestEndianess.c
+Linking C executable cmTryCompileExec2396971680
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2396971680.dir/link.txt --verbose=1
+/usr/bin/cc     -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wno-narrowing -Wno-comment -fdiagnostics-show-option -Wno-long-long -pthread -fomit-frame-pointer -msse -msse2 -mno-avx -msse3 -mno-ssse3 -mno-sse4.1 -mno-sse4.2 -ffunction-sections -fvisibility=hidden  -O3 -DNDEBUG    CMakeFiles/cmTryCompileExec2396971680.dir/TestEndianess.c.o  -o cmTryCompileExec2396971680 -rdynamic 
+make[1]: Leaving directory `/home/choowilson/Downloads/opencv_folder/opencv/release/CMakeFiles/CMakeTmp'
+
+TestEndianess.c:
+/* A 16 bit integer is required. */
+typedef unsigned short cmakeint16;
+
+/* On a little endian machine, these 16bit ints will give "THIS IS LITTLE ENDIAN."
+   On a big endian machine the characters will be exchanged pairwise. */
+const cmakeint16 info_little[] =  {0x4854, 0x5349, 0x4920, 0x2053, 0x494c, 0x5454, 0x454c, 0x4520, 0x444e, 0x4149, 0x2e4e, 0x0000};
+
+/* on a big endian machine, these 16bit ints will give "THIS IS BIG ENDIAN."
+   On a little endian machine the characters will be exchanged pairwise. */
+const cmakeint16 info_big[] =     {0x5448, 0x4953, 0x2049, 0x5320, 0x4249, 0x4720, 0x454e, 0x4449, 0x414e, 0x2e2e, 0x0000};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_little[argc];
+  require += info_big[argc];
+  (void)argv;
+  return require;
+}
+
+
